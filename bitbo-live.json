@@ -6,9 +6,9 @@
       "awayTeam": "Galatasaray",
       "date": "19.05.2024",
       "time": "19:00",
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 5,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": "mac_002",

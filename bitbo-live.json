@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "id": "mac_001",
+      "homeTeam": "Fenerbahçe",
+      "awayTeam": "Galatasaray",
+      "date": "19.05.2024",
+      "time": "19:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_002",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Barcelona",
+      "date": "18.05.2024",
+      "time": "22:00",
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
+    }
+  ]
+}

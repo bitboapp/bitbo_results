@@ -1,5 +1,5 @@
 {
-  "label": "WORLDCUP",
+  "label": "WORLDtest",
   "events": [
     {
       "id": "mac_001",
@@ -9,9 +9,9 @@
       "awayFlag": "🇿🇦",
       "date": "11.06.2026",
       "time": "20:00",
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 0,
+      "isFinished": true
     },
     {
       "id": "mac_002",

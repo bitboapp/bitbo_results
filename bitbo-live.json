@@ -2,23 +2,243 @@
   "events": [
     {
       "id": "mac_001",
-      "homeTeam": "Fenerbahçe",
-      "awayTeam": "Galatasaray",
-      "date": "19.05.2024",
-      "time": "19:00",
-      "homeScore": 5,
-      "awayScore": 1,
-      "isFinished": true
+      "homeTeam": "Mexico",
+      "awayTeam": "South Africa",
+      "date": "11.06.2026",
+      "time": "20:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
     },
     {
       "id": "mac_002",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Barcelona",
-      "date": "18.05.2024",
+      "homeTeam": "South Korea",
+      "awayTeam": "Czechia",
+      "date": "12.06.2026",
+      "time": "19:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_003",
+      "homeTeam": "Canada",
+      "awayTeam": "Bosnia and Herzegovina",
+      "date": "12.06.2026",
+      "time": "15:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_004",
+      "homeTeam": "United States",
+      "awayTeam": "Paraguay",
+      "date": "12.06.2026",
+      "time": "21:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_005",
+      "homeTeam": "Haiti",
+      "awayTeam": "Scotland",
+      "date": "13.06.2026",
+      "time": "13:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_006",
+      "homeTeam": "Australia",
+      "awayTeam": "Türkiye",
+      "date": "13.06.2026",
+      "time": "16:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_007",
+      "homeTeam": "Brazil",
+      "awayTeam": "Morocco",
+      "date": "13.06.2026",
+      "time": "19:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_008",
+      "homeTeam": "Qatar",
+      "awayTeam": "Switzerland",
+      "date": "13.06.2026",
       "time": "22:00",
-      "homeScore": 8,
-      "awayScore": 5,
-      "isFinished": true
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_009",
+      "homeTeam": "Côte d'Ivoire",
+      "awayTeam": "Ecuador",
+      "date": "14.06.2026",
+      "time": "13:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_010",
+      "homeTeam": "Germany",
+      "awayTeam": "Curaçao",
+      "date": "14.06.2026",
+      "time": "16:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_011",
+      "homeTeam": "Netherlands",
+      "awayTeam": "Japan",
+      "date": "14.06.2026",
+      "time": "19:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_012",
+      "homeTeam": "Sweden",
+      "awayTeam": "Tunisia",
+      "date": "14.06.2026",
+      "time": "22:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_013",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Uruguay",
+      "date": "15.06.2026",
+      "time": "13:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_014",
+      "homeTeam": "Spain",
+      "awayTeam": "Cabo Verde",
+      "date": "15.06.2026",
+      "time": "16:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_015",
+      "homeTeam": "Iran",
+      "awayTeam": "New Zealand",
+      "date": "15.06.2026",
+      "time": "19:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_016",
+      "homeTeam": "Belgium",
+      "awayTeam": "Egypt",
+      "date": "15.06.2026",
+      "time": "22:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_017",
+      "homeTeam": "France",
+      "awayTeam": "Senegal",
+      "date": "16.06.2026",
+      "time": "13:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_018",
+      "homeTeam": "Iraq",
+      "awayTeam": "Norway",
+      "date": "16.06.2026",
+      "time": "16:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_019",
+      "homeTeam": "Argentina",
+      "awayTeam": "Algeria",
+      "date": "16.06.2026",
+      "time": "19:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_020",
+      "homeTeam": "Austria",
+      "awayTeam": "Jordan",
+      "date": "16.06.2026",
+      "time": "22:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_021",
+      "homeTeam": "Ghana",
+      "awayTeam": "Panama",
+      "date": "17.06.2026",
+      "time": "13:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_022",
+      "homeTeam": "England",
+      "awayTeam": "Croatia",
+      "date": "17.06.2026",
+      "time": "16:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_023",
+      "homeTeam": "Portugal",
+      "awayTeam": "DR Congo",
+      "date": "17.06.2026",
+      "time": "19:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": "mac_024",
+      "homeTeam": "Uzbekistan",
+      "awayTeam": "Colombia",
+      "date": "17.06.2026",
+      "time": "22:00",
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
     }
   ]
 }

@@ -9,9 +9,9 @@
       "awayTeam": "test2",
       "awayFlag": "🔴",
       "timestamp": 1777755018,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 0,
+      "awayScore": 5,
+      "isFinished": true
     },
     {
       "id": 1,

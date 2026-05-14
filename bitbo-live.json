@@ -3,6 +3,39 @@
   "check-sum": "5a43db61264cebd9a175d7fb300d67dd6c5b2517ea4e4d1b03f812d838d4abe7",
   "events": [
     {
+      "id": 25,
+      "homeFlag": "🦊",
+      "homeTeam": "Freiburg",
+      "awayTeam": "Birmingham Blue",
+      "awayFlag": "🦁",
+      "timestamp": 1779303600,
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": 26,
+      "homeFlag": "🦅",
+      "homeTeam": "South London Eagles",
+      "awayTeam": "Vallecas Red Stripe",
+      "awayFlag": "⚡️",
+      "timestamp": 1779908400,
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
+      "id": 27,
+      "homeFlag": "🥇",
+      "homeTeam": "Paris",
+      "awayTeam": "North London Red",
+      "awayFlag": "🥈",
+      "timestamp": 1780156800,
+      "homeScore": null,
+      "awayScore": null,
+      "isFinished": false
+    },
+    {
       "id": 1,
       "homeFlag": "🇲🇽",
       "homeTeam": "Mexico",

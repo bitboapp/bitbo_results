@@ -20,9 +20,9 @@
       "awayTeam": "Vallecas Red Stripe",
       "awayFlag": "⚡️",
       "timestamp": 1779908400,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 0,
+      "isFinished": true
     },
     {
       "id": 27,

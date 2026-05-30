@@ -31,9 +31,9 @@
       "awayTeam": "North London Red",
       "awayFlag": "🥈",
       "timestamp": 1780156800,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 1,

@@ -16,6 +16,30 @@
           "points": 3
         },
         {
+          "rank": 2,
+          "teamName": "Korea Republic",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 1,
+          "goalDifference": 1,
+          "points": 3
+        },
+        {
+          "rank": 3,
+          "teamName": "Czechia",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 2,
+          "goalDifference": -1,
+          "points": 0
+        },
+        {
           "rank": 4,
           "teamName": "South Africa",
           "played": 1,
@@ -25,30 +49,6 @@
           "goalsFor": 0,
           "goalsAgainst": 2,
           "goalDifference": -2,
-          "points": 0
-        },
-        {
-          "rank": 3,
-          "teamName": "Korea Republic",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
-        },
-        {
-          "rank": 2,
-          "teamName": "Czechia",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
           "points": 0
         }
       ]

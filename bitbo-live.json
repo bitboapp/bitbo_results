@@ -20,9 +20,9 @@
       "awayTeam": "Czechia",
       "awayFlag": "🇨🇿",
       "timestamp": 1781229600,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 3,

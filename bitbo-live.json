@@ -31,9 +31,9 @@
       "awayTeam": "Bosnia and Herzegovina",
       "awayFlag": "🇧🇦",
       "timestamp": 1781290800,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 4,

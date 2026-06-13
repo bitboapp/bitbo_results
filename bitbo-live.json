@@ -42,9 +42,9 @@
       "awayTeam": "Paraguay",
       "awayFlag": "🇵🇾",
       "timestamp": 1781312400,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 5,

@@ -165,29 +165,17 @@
         {
           "rank": 1,
           "teamName": "USA",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
+          "goalsFor": 4,
+          "goalsAgainst": 1,
+          "goalDifference": 3,
+          "points": 3
         },
         {
           "rank": 2,
-          "teamName": "Paraguay",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
-        },
-        {
-          "rank": 3,
           "teamName": "Australia",
           "played": 0,
           "won": 0,
@@ -199,7 +187,7 @@
           "points": 0
         },
         {
-          "rank": 4,
+          "rank": 3,
           "teamName": "Türkiye",
           "played": 0,
           "won": 0,
@@ -208,6 +196,18 @@
           "goalsFor": 0,
           "goalsAgainst": 0,
           "goalDifference": 0,
+          "points": 0
+        },
+        {
+          "rank": 4,
+          "teamName": "Paraguay",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 4,
+          "goalDifference": -3,
           "points": 0
         }
       ]

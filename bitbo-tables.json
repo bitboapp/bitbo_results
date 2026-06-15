@@ -177,25 +177,25 @@
         {
           "rank": 2,
           "teamName": "Australia",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
+          "goalsFor": 2,
           "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
+          "goalDifference": 2,
+          "points": 3
         },
         {
           "rank": 3,
           "teamName": "Türkiye",
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
+          "goalsAgainst": 2,
+          "goalDifference": -2,
           "points": 0
         },
         {
@@ -218,17 +218,41 @@
         {
           "rank": 1,
           "teamName": "Germany",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
+          "goalsFor": 7,
+          "goalsAgainst": 1,
+          "goalDifference": 6,
+          "points": 3
         },
         {
           "rank": 2,
+          "teamName": "Côte d'Ivoire",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 1,
+          "goalsAgainst": 0,
+          "goalDifference": 1,
+          "points": 3
+        },
+        {
+          "rank": 3,
+          "teamName": "Ecuador",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "goalsFor": 0,
+          "goalsAgainst": 1,
+          "goalDifference": -1,
+          "points": 0
+        },
+        {
+          "rank": 4,
           "teamName": "Curaçao",
           "played": 0,
           "won": 0,
@@ -239,30 +263,7 @@
           "goalDifference": 0,
           "points": 0
         },
-        {
-          "rank": 3,
-          "teamName": "Côte d'Ivoire",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
-        },
-        {
-          "rank": 4,
-          "teamName": "Ecuador",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
-        }
+        
       ]
     },
     {
@@ -270,50 +271,50 @@
       "standings": [
         {
           "rank": 1,
-          "teamName": "Netherlands",
-          "played": 0,
-          "won": 0,
+          "teamName": "Sweden",
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
+          "goalsFor": 5,
+          "goalsAgainst": 1,
+          "goalDifference": 4,
+          "points": 3
         },
         {
           "rank": 2,
-          "teamName": "Japan",
-          "played": 0,
+          "teamName": "Netherlands",
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
           "goalDifference": 0,
-          "points": 0
+          "points": 1
         },
         {
           "rank": 3,
-          "teamName": "Sweden",
-          "played": 0,
+          "teamName": "Japan",
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
           "goalDifference": 0,
-          "points": 0
+          "points": 1
         },
         {
           "rank": 4,
           "teamName": "Tunisia",
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 5,
+          "goalDifference": -4,
           "points": 0
         }
       ]

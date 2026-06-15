@@ -86,9 +86,9 @@
       "awayTeam": "Türkiye",
       "awayFlag": "🇹🇷",
       "timestamp": 1781409600,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 0,
+      "isFinished": true
     },
     {
       "id": 9,
@@ -97,9 +97,9 @@
       "awayTeam": "Curaçao",
       "awayFlag": "🇨🇼",
       "timestamp": 1781456400,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 7,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 10,
@@ -108,9 +108,9 @@
       "awayTeam": "Japan",
       "awayFlag": "🇯🇵",
       "timestamp": 1781467200,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 11,
@@ -119,9 +119,9 @@
       "awayTeam": "Ecuador",
       "awayFlag": "🇪🇨",
       "timestamp": 1781478000,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 0,
+      "isFinished": true
     },
     {
       "id": 12,
@@ -130,9 +130,9 @@
       "awayTeam": "Tunisia",
       "awayFlag": "🇹🇳",
       "timestamp": 1781488800,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 5,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 13,

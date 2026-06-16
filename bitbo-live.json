@@ -141,9 +141,9 @@
       "awayTeam": "Cabo Verde",
       "awayFlag": "🇨🇻",
       "timestamp": 1781539200,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 0,
+      "awayScore": 0,
+      "isFinished": true
     },
     {
       "id": 14,
@@ -152,9 +152,9 @@
       "awayTeam": "Egypt",
       "awayFlag": "🇪🇬",
       "timestamp": 1781550000,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 15,
@@ -163,9 +163,9 @@
       "awayTeam": "Uruguay",
       "awayFlag": "🇺🇾",
       "timestamp": 1781560800,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 16,
@@ -174,9 +174,9 @@
       "awayTeam": "New Zealand",
       "awayFlag": "🇳🇿",
       "timestamp": 1781571600,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 17,

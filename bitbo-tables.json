@@ -430,6 +430,18 @@
       "standings": [
         {
           "rank": 1,
+          "teamName": "Norway",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 4,
+          "goalsAgainst": 1,
+          "goalDifference": 3,
+          "points": 3
+        },
+        {
+          "rank": 2,
           "teamName": "France",
           "played": 1,
           "won": 1,
@@ -441,31 +453,7 @@
           "points": 3
         },
         {
-          "rank": 2,
-          "teamName": "Iraq",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
-        },
-        {
           "rank": 3,
-          "teamName": "Norway",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
-        },
-        {
-          "rank": 4,
           "teamName": "Senegal",
           "played": 1,
           "won": 0,
@@ -474,6 +462,18 @@
           "goalsFor": 1,
           "goalsAgainst": 3,
           "goalDifference": -2,
+          "points": 0
+        },
+        {
+          "rank": 4,
+          "teamName": "Iraq",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 4,
+          "goalDifference": -3,
           "points": 0
         }
       ]
@@ -484,49 +484,49 @@
         {
           "rank": 1,
           "teamName": "Argentina",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
+          "goalsFor": 3,
           "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
+          "goalDifference": 3,
+          "points": 3
         },
         {
           "rank": 2,
-          "teamName": "Algeria",
-          "played": 0,
-          "won": 0,
+          "teamName": "Austria",
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0
+          "goalsFor": 3,
+          "goalsAgainst": 1,
+          "goalDifference": 2,
+          "points": 3
         },
         {
           "rank": 3,
-          "teamName": "Austria",
-          "played": 0,
+          "teamName": "Jordan",
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 3,
+          "goalDifference": -2,
           "points": 0
         },
         {
           "rank": 4,
-          "teamName": "Jordan",
-          "played": 0,
+          "teamName": "Algeria",
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
+          "goalsAgainst": 3,
+          "goalDifference": -3,
           "points": 0
         }
       ]

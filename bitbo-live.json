@@ -196,9 +196,9 @@
       "awayTeam": "Norway",
       "awayFlag": "🇳🇴",
       "timestamp": 1781647200,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 19,
@@ -207,9 +207,9 @@
       "awayTeam": "Algeria",
       "awayFlag": "🇩🇿",
       "timestamp": 1781658000,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 0,
+      "isFinished": true
     },
     {
       "id": 20,
@@ -218,9 +218,9 @@
       "awayTeam": "Jordan",
       "awayFlag": "🇯🇴",
       "timestamp": 1781668800,
-      "homeScore": null,
-      "awayScore": null,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
         {
       "id": 21,

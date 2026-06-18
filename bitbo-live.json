@@ -9,9 +9,9 @@
     "awayTeam": "South Africa",
     "awayFlag": "🇿🇦",
     "timestamp": 1781798400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 26,

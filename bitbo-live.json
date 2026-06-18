@@ -74,7 +74,7 @@
     "homeTeam": "Brazil",
     "awayTeam": "Haiti",
     "awayFlag": "🇭🇹",
-    "timestamp": 1781910000,
+    "timestamp": 1781908200,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -85,7 +85,7 @@
     "homeTeam": "Türkiye",
     "awayTeam": "Paraguay",
     "awayFlag": "🇵🇾",
-    "timestamp": 1781920800,
+    "timestamp": 1781917200,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -96,7 +96,7 @@
     "homeTeam": "Netherlands",
     "awayTeam": "Sweden",
     "awayFlag": "🇸🇪",
-    "timestamp": 1781964000,
+    "timestamp": 1781967600,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -107,7 +107,7 @@
     "homeTeam": "Germany",
     "awayTeam": "Côte d'Ivoire",
     "awayFlag": "🇨🇮",
-    "timestamp": 1781974800,
+    "timestamp": 1781978400,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -118,7 +118,7 @@
     "homeTeam": "Ecuador",
     "awayTeam": "Curaçao",
     "awayFlag": "🇨🇼",
-    "timestamp": 1781985600,
+    "timestamp": 1781992800,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -129,7 +129,7 @@
     "homeTeam": "Tunisia",
     "awayTeam": "Japan",
     "awayFlag": "🇯🇵",
-    "timestamp": 1781996400,
+    "timestamp": 1782007200,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -179,34 +179,34 @@
     "isFinished": false
   },
   {
-    "id": 41,
-    "homeFlag": "🇳🇴",
-    "homeTeam": "Norway",
-    "awayTeam": "Senegal",
-    "awayFlag": "🇸🇳",
-    "timestamp": 1782136800,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
-  },
-  {
-    "id": 42,
-    "homeFlag": "🇫🇷",
-    "homeTeam": "France",
-    "awayTeam": "Iraq",
-    "awayFlag": "🇮🇶",
-    "timestamp": 1782147600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
-  },
-  {
     "id": 43,
     "homeFlag": "🇦🇷",
     "homeTeam": "Argentina",
     "awayTeam": "Austria",
     "awayFlag": "🇦🇹",
-    "timestamp": 1782158400,
+    "timestamp": 1782140400,
+    "homeScore": null,
+    "awayScore": null,
+    "isFinished": false
+  },
+      {
+    "id": 42,
+    "homeFlag": "🇫🇷",
+    "homeTeam": "France",
+    "awayTeam": "Iraq",
+    "awayFlag": "🇮🇶",
+    "timestamp": 1782154800,
+    "homeScore": null,
+    "awayScore": null,
+    "isFinished": false
+  },
+  {
+    "id": 41,
+    "homeFlag": "🇳🇴",
+    "homeTeam": "Norway",
+    "awayTeam": "Senegal",
+    "awayFlag": "🇸🇳",
+    "timestamp": 1782165600,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -217,7 +217,7 @@
     "homeTeam": "Jordan",
     "awayTeam": "Algeria",
     "awayFlag": "🇩🇿",
-    "timestamp": 1782169200,
+    "timestamp": 1782176400,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -228,7 +228,7 @@
     "homeTeam": "Portugal",
     "awayTeam": "Uzbekistan",
     "awayFlag": "🇺🇿",
-    "timestamp": 1782223200,
+    "timestamp": 1782226800,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -239,7 +239,7 @@
     "homeTeam": "England",
     "awayTeam": "Ghana",
     "awayFlag": "🇬🇭",
-    "timestamp": 1782234000,
+    "timestamp": 1782237600,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -250,7 +250,7 @@
     "homeTeam": "Panama",
     "awayTeam": "Croatia",
     "awayFlag": "🇭🇷",
-    "timestamp": 1782244800,
+    "timestamp": 1782248400,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
@@ -261,11 +261,12 @@
     "homeTeam": "Colombia",
     "awayTeam": "Congo DR",
     "awayFlag": "🇨🇩",
-    "timestamp": 1782255600,
+    "timestamp": 1782259200,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false
   },
+    
     {
       "id": 1,
       "homeFlag": "🇲🇽",

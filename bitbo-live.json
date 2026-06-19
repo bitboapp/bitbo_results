@@ -20,9 +20,9 @@
     "awayTeam": "Bosnia and Herzegovina",
     "awayFlag": "🇧🇦",
     "timestamp": 1781809200,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 4,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 27,
@@ -31,9 +31,9 @@
     "awayTeam": "Qatar",
     "awayFlag": "🇶🇦",
     "timestamp": 1781820000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 6,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 28,
@@ -42,9 +42,9 @@
     "awayTeam": "South Korea",
     "awayFlag": "🇰🇷",
     "timestamp": 1781830800,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 29,

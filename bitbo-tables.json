@@ -71,7 +71,7 @@
         {
           "rank": 2,
           "teamName": "Switzerland",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
@@ -165,25 +165,25 @@
         {
           "rank": 1,
           "teamName": "USA",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 4,
+          "goalsFor": 6,
           "goalsAgainst": 1,
-          "goalDifference": 3,
-          "points": 3
+          "goalDifference": 5,
+          "points": 6
         },
         {
           "rank": 2,
           "teamName": "Australia",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 2,
-          "goalsAgainst": 0,
-          "goalDifference": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0,
           "points": 3
         },
         {

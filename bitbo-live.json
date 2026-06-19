@@ -53,9 +53,9 @@
     "awayTeam": "Australia",
     "awayFlag": "🇦🇺",
     "timestamp": 1781895600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 30,

@@ -64,9 +64,9 @@
     "awayTeam": "Morocco",
     "awayFlag": "🇲🇦",
     "timestamp": 1781906400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 31,
@@ -75,9 +75,9 @@
     "awayTeam": "Haiti",
     "awayFlag": "🇭🇹",
     "timestamp": 1781915400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 3,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 32,

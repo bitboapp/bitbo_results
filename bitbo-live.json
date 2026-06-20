@@ -108,9 +108,9 @@
     "awayTeam": "Côte d'Ivoire",
     "awayFlag": "🇨🇮",
     "timestamp": 1781985600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 35,

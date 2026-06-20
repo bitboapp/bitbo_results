@@ -86,9 +86,9 @@
     "awayTeam": "Paraguay",
     "awayFlag": "🇵🇾",
     "timestamp": 1781924400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 33,
@@ -97,9 +97,9 @@
     "awayTeam": "Sweden",
     "awayFlag": "🇸🇪",
     "timestamp": 1781974800,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 5,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 34,

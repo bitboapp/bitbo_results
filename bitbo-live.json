@@ -119,9 +119,9 @@
     "awayTeam": "Curaçao",
     "awayFlag": "🇨🇼",
     "timestamp": 1782000000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 36,
@@ -130,9 +130,9 @@
     "awayTeam": "Japan",
     "awayFlag": "🇯🇵",
     "timestamp": 1782014400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 4,
+    "isFinished": true
   },
   {
     "id": 37,

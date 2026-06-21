@@ -141,9 +141,9 @@
     "awayTeam": "Saudi Arabia",
     "awayFlag": "🇸🇦",
     "timestamp": 1782057600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 4,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 38,

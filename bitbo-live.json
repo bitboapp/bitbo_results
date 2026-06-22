@@ -152,9 +152,9 @@
     "awayTeam": "IR Iran",
     "awayFlag": "🇮🇷",
     "timestamp": 1782068400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 39,
@@ -163,9 +163,9 @@
     "awayTeam": "Cabo Verde",
     "awayFlag": "🇨🇻",
     "timestamp": 1782079200,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 2,
+    "isFinished": true
   },
   {
     "id": 40,
@@ -174,9 +174,9 @@
     "awayTeam": "Egypt",
     "awayFlag": "🇪🇬",
     "timestamp": 1782090000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 3,
+    "isFinished": true
   },
   {
     "id": 43,

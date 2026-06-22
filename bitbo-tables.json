@@ -218,50 +218,50 @@
         {
           "rank": 1,
           "teamName": "Germany",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 7,
-          "goalsAgainst": 1,
-          "goalDifference": 6,
-          "points": 3
+          "goalsFor": 9,
+          "goalsAgainst": 2,
+          "goalDifference": 7,
+          "points": 6
         },
         {
           "rank": 2,
           "teamName": "Côte d'Ivoire",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 0,
-          "goalDifference": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0,
           "points": 3
         },
         {
           "rank": 3,
           "teamName": "Ecuador",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "goalsFor": 0,
           "goalsAgainst": 1,
           "goalDifference": -1,
-          "points": 0
+          "points": 1
         },
         {
           "rank": 4,
           "teamName": "Curaçao",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
-          "lost": 0,
+          "drawn": 1,
+          "lost": 1,
           "goalsFor": 1,
           "goalsAgainst": 7,
           "goalDifference": -6,
-          "points": 0
+          "points": 1
         },
         
       ]
@@ -283,6 +283,18 @@
         },
         {
           "rank": 2,
+          "teamName": "Japan",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 2,
+          "goalDifference": 4,
+          "points": 4
+        },
+        {
+          "rank": 3,
           "teamName": "Sweden",
           "played": 2,
           "won": 1,
@@ -294,27 +306,15 @@
           "points": 3
         },
         {
-          "rank": 3,
-          "teamName": "Japan",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 1
-        },
-        {
           "rank": 4,
           "teamName": "Tunisia",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 1,
-          "goalsAgainst": 5,
-          "goalDifference": -4,
+          "goalsAgainst": 9,
+          "goalDifference": -8,
           "points": 0
         }
       ]
@@ -324,50 +324,50 @@
       "standings": [
         {
           "rank": 1,
-          "teamName": "IR Iran",
-          "played": 1,
-          "won": 0,
+          "teamName": "Egypt",
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "goalsFor": 2,
+          "goalsFor": 4,
           "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 1
+          "goalDifference": 2,
+          "points": 4
         },
         {
           "rank": 2,
-          "teamName": "New Zealand",
-          "played": 1,
+          "teamName": "IR Iran",
+          "played": 2,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "goalsFor": 2,
           "goalsAgainst": 2,
           "goalDifference": 0,
-          "points": 1
+          "points": 2
         },
         {
           "rank": 3,
           "teamName": "Belgium",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "goalsFor": 1,
           "goalsAgainst": 1,
           "goalDifference": 0,
-          "points": 1
+          "points": 2
         },
         {
           "rank": 4,
-          "teamName": "Egypt",
-          "played": 1,
+          "teamName": "New Zealand",
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDifference": 0,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "goalDifference": -2,
           "points": 1
         }
       ]
@@ -377,50 +377,50 @@
       "standings": [
         {
           "rank": 1,
-          "teamName": "Saudi Arabia",
-          "played": 1,
-          "won": 0,
+          "teamName": "Spain",
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDifference": 0,
-          "points": 1
+          "goalsFor": 4,
+          "goalsAgainst": 0,
+          "goalDifference": 4,
+          "points": 4
         },
         {
           "rank": 2,
           "teamName": "Uruguay",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 3,
           "goalDifference": 0,
-          "points": 1
+          "points": 2
         },
         {
           "rank": 3,
-          "teamName": "Spain",
-          "played": 1,
+          "teamName": "Cabo Verde",
+          "played": 2,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
           "goalDifference": 0,
-          "points": 1
+          "points": 2
         },
         {
           "rank": 4,
-          "teamName": "Cabo Verde",
-          "played": 1,
+          "teamName": "Saudi Arabia",
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 5,
+          "goalDifference": 4,
           "points": 1
         }
       ]

@@ -2,39 +2,6 @@
   "label": "Realtime",
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
-  {
-    "id": 39,
-    "homeFlag": "🇺🇾",
-    "homeTeam": "Uruguay",
-    "awayTeam": "Cabo Verde",
-    "awayFlag": "🇨🇻",
-    "timestamp": 1782079200,
-    "homeScore": 2,
-    "awayScore": 2,
-    "isFinished": true
-  },
-  {
-    "id": 40,
-    "homeFlag": "🇳🇿",
-    "homeTeam": "New Zealand",
-    "awayTeam": "Egypt",
-    "awayFlag": "🇪🇬",
-    "timestamp": 1782090000,
-    "homeScore": 1,
-    "awayScore": 3,
-    "isFinished": true
-  },
-  {
-    "id": 43,
-    "homeFlag": "🇦🇷",
-    "homeTeam": "Argentina",
-    "awayTeam": "Austria",
-    "awayFlag": "🇦🇹",
-    "timestamp": 1782147600,
-    "homeScore": 2,
-    "awayScore": 0,
-    "isFinished": true
-  },
       {
     "id": 42,
     "homeFlag": "🇫🇷",
@@ -42,9 +9,9 @@
     "awayTeam": "Iraq",
     "awayFlag": "🇮🇶",
     "timestamp": 1782162000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 3,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 41,
@@ -53,9 +20,9 @@
     "awayTeam": "Senegal",
     "awayFlag": "🇸🇳",
     "timestamp": 1782172800,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 3,
+    "awayScore": 2,
+    "isFinished": true
   },
   {
     "id": 44,
@@ -64,9 +31,9 @@
     "awayTeam": "Algeria",
     "awayFlag": "🇩🇿",
     "timestamp": 1782183600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 2,
+    "isFinished": true
   },
   {
     "id": 45,
@@ -75,9 +42,9 @@
     "awayTeam": "Uzbekistan",
     "awayFlag": "🇺🇿",
     "timestamp": 1782234000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 5,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 46,

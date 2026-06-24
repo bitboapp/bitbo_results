@@ -53,9 +53,9 @@
     "awayTeam": "Ghana",
     "awayFlag": "🇬🇭",
     "timestamp": 1782244800,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 47,
@@ -64,9 +64,9 @@
     "awayTeam": "Croatia",
     "awayFlag": "🇭🇷",
     "timestamp": 1782255600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 48,
@@ -75,9 +75,9 @@
     "awayTeam": "Congo DR",
     "awayFlag": "🇨🇩",
     "timestamp": 1782266400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 0,
+    "isFinished": true
   }
   ]
 }

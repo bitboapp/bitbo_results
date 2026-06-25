@@ -9,9 +9,9 @@
     "awayTeam": "Brazil",
     "awayFlag": "🇧🇷",
     "timestamp": 1782338400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 3,
+    "isFinished": true
   },
   {
     "id": 52,
@@ -20,9 +20,9 @@
     "awayTeam": "Haiti",
     "awayFlag": "🇭🇹",
     "timestamp": 1782338400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 4,
+    "awayScore": 2,
+    "isFinished": true
   },
   {
     "id": 53,
@@ -31,9 +31,9 @@
     "awayTeam": "Mexico",
     "awayFlag": "🇲🇽",
     "timestamp": 1782349200,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 3,
+    "isFinished": true
   },
   {
     "id": 54,
@@ -42,9 +42,9 @@
     "awayTeam": "South Korea",
     "awayFlag": "🇰🇷",
     "timestamp": 1782349200,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 55,

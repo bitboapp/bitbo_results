@@ -3,72 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
   {
-    "id": 51,
-    "homeFlag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "homeTeam": "Scotland",
-    "awayTeam": "Brazil",
-    "awayFlag": "🇧🇷",
-    "timestamp": 1782338400,
-    "homeScore": 0,
-    "awayScore": 3,
-    "isFinished": true
-  },
-  {
-    "id": 52,
-    "homeFlag": "🇲🇦",
-    "homeTeam": "Morocco",
-    "awayTeam": "Haiti",
-    "awayFlag": "🇭🇹",
-    "timestamp": 1782338400,
-    "homeScore": 4,
-    "awayScore": 2,
-    "isFinished": true
-  },
-  {
-    "id": 53,
-    "homeFlag": "🇨🇿",
-    "homeTeam": "Czechia",
-    "awayTeam": "Mexico",
-    "awayFlag": "🇲🇽",
-    "timestamp": 1782349200,
-    "homeScore": 0,
-    "awayScore": 3,
-    "isFinished": true
-  },
-  {
-    "id": 54,
-    "homeFlag": "🇿🇦",
-    "homeTeam": "South Africa",
-    "awayTeam": "South Korea",
-    "awayFlag": "🇰🇷",
-    "timestamp": 1782349200,
-    "homeScore": 1,
-    "awayScore": 0,
-    "isFinished": true
-  },
-  {
-    "id": 55,
-    "homeFlag": "🇪🇨",
-    "homeTeam": "Ecuador",
-    "awayTeam": "Germany",
-    "awayFlag": "🇩🇪",
-    "timestamp": 1782417600,
-    "homeScore": 2,
-    "awayScore": 1,
-    "isFinished": true
-  },
-  {
-    "id": 56,
-    "homeFlag": "🇨🇼",
-    "homeTeam": "Curaçao",
-    "awayTeam": "Ivory Coast",
-    "awayFlag": "🇨🇮",
-    "timestamp": 1782417600,
-    "homeScore": 0,
-    "awayScore": 2,
-    "isFinished": true
-  },
-  {
     "id": 57,
     "homeFlag": "🇯🇵",
     "homeTeam": "Japan",
@@ -119,9 +53,9 @@
     "awayTeam": "France",
     "awayFlag": "🇫🇷",
     "timestamp": 1782500400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 4,
+    "isFinished": true
   },
   {
     "id": 62,
@@ -130,9 +64,9 @@
     "awayTeam": "Iraq",
     "awayFlag": "🇮🇶",
     "timestamp": 1782500400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 5,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 63,
@@ -141,9 +75,9 @@
     "awayTeam": "Saudi Arabia",
     "awayFlag": "🇸🇦",
     "timestamp": 1782518400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 64,
@@ -152,9 +86,9 @@
     "awayTeam": "Spain",
     "awayFlag": "🇪🇸",
     "timestamp": 1782518400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 65,
@@ -163,9 +97,9 @@
     "awayTeam": "Iran",
     "awayFlag": "🇮🇷",
     "timestamp": 1782529200,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 66,
@@ -174,9 +108,9 @@
     "awayTeam": "Belgium",
     "awayFlag": "🇧🇪",
     "timestamp": 1782529200,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 5,
+    "isFinished": true
   },
   {
     "id": 67,

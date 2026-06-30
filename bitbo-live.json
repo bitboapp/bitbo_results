@@ -20,9 +20,9 @@
     "awayTeam": "Japan",
     "awayFlag": "🇯🇵",
     "timestamp": 1782752400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 3,
@@ -53,9 +53,9 @@
     "awayTeam": "Norway",
     "awayFlag": "🇳🇴",
     "timestamp": 1782838800,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 2,
+    "isFinished": true
   },
   {
     "id": 6,

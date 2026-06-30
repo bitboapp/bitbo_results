@@ -31,9 +31,9 @@
     "awayTeam": "Paraguay",
     "awayFlag": "🇵🇾",
     "timestamp": 1782765000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 4,
@@ -42,9 +42,9 @@
     "awayTeam": "Morocco",
     "awayFlag": "🇲🇦",
     "timestamp": 1782781200,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 5,

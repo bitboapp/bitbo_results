@@ -97,9 +97,9 @@
     "awayTeam": "Senegal",
     "awayFlag": "🇸🇳",
     "timestamp": 1782936000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 2,
+    "isFinished": true
   },
   {
     "id": 10,

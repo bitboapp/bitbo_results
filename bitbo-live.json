@@ -86,9 +86,9 @@
     "awayTeam": "DR Congo",
     "awayFlag": "🇨🇩",
     "timestamp": 1782921600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 9,

@@ -86,9 +86,9 @@
     "awayTeam": "Morocco",
     "awayFlag": "🇲🇦",
     "timestamp": 1783184400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 3,
+    "isFinished": true
   },
   {
     "id": 18,

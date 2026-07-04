@@ -64,9 +64,9 @@
     "awayTeam": "Cabo Verde",
     "awayFlag": "🇨🇻",
     "timestamp": 1783116000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 3,
+    "awayScore": 2,
+    "isFinished": true
   },
   {
     "id": 16,
@@ -75,9 +75,9 @@
     "awayTeam": "Ghana",
     "awayFlag": "🇬🇭",
     "timestamp": 1783128600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 17,

@@ -3,83 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
   {
-    "id": 10,
-    "homeFlag": "🇺🇸",
-    "homeTeam": "United States",
-    "awayTeam": "Bosnia & Herzegovina",
-    "awayFlag": "🇧🇦",
-    "timestamp": 1782950400,
-    "homeScore": 2,
-    "awayScore": 0,
-    "isFinished": true
-  },
-      {
-    "id": 12,
-    "homeFlag": "🇪🇸",
-    "homeTeam": "Spain",
-    "awayTeam": "Austria",
-    "awayFlag": "🇦🇹",
-    "timestamp": 1783018800,
-    "homeScore": 3,
-    "awayScore": 0,
-    "isFinished": true
-  },
-  {
-    "id": 11,
-    "homeFlag": "🇵🇹",
-    "homeTeam": "Portugal",
-    "awayTeam": "Croatia",
-    "awayFlag": "🇭🇷",
-    "timestamp": 1783033200,
-    "homeScore": 2,
-    "awayScore": 1,
-    "isFinished": true
-  },
-  {
-    "id": 13,
-    "homeFlag": "🇨🇭",
-    "homeTeam": "Switzerland",
-    "awayTeam": "Algeria",
-    "awayFlag": "🇩🇿",
-    "timestamp": 1783047600,
-    "homeScore": 2,
-    "awayScore": 0,
-    "isFinished": true
-  },
-      {
-    "id": 15,
-    "homeFlag": "🇪🇬",
-    "homeTeam": "Egypt",
-    "awayTeam": "Australia",
-    "awayFlag": "🇦🇺",
-    "timestamp": 1783101600,
-    "homeScore": 1,
-    "awayScore": 1,
-    "isFinished": true
-  },
-  {
-    "id": 14,
-    "homeFlag": "🇦🇷",
-    "homeTeam": "Argentina",
-    "awayTeam": "Cabo Verde",
-    "awayFlag": "🇨🇻",
-    "timestamp": 1783116000,
-    "homeScore": 3,
-    "awayScore": 2,
-    "isFinished": true
-  },
-  {
-    "id": 16,
-    "homeFlag": "🇨🇴",
-    "homeTeam": "Colombia",
-    "awayTeam": "Ghana",
-    "awayFlag": "🇬🇭",
-    "timestamp": 1783128600,
-    "homeScore": 1,
-    "awayScore": 0,
-    "isFinished": true
-  },
-  {
     "id": 17,
     "homeFlag": "🇨🇦",
     "homeTeam": "Canada",
@@ -97,9 +20,9 @@
     "awayTeam": "France",
     "awayFlag": "🇫🇷",
     "timestamp": 1783198800,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 19,

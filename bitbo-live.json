@@ -53,9 +53,9 @@
     "awayTeam": "Spain",
     "awayFlag": "🇪🇸",
     "timestamp": 1783364400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 22,
@@ -64,9 +64,9 @@
     "awayTeam": "Belgium",
     "awayFlag": "🇧🇪",
     "timestamp": 1783382400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 4,
+    "isFinished": true
   },
   {
     "id": 23,

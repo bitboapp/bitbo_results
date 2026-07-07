@@ -3,50 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
   {
-    "id": 17,
-    "homeFlag": "🇨🇦",
-    "homeTeam": "Canada",
-    "awayTeam": "Morocco",
-    "awayFlag": "🇲🇦",
-    "timestamp": 1783184400,
-    "homeScore": 0,
-    "awayScore": 3,
-    "isFinished": true
-  },
-  {
-    "id": 18,
-    "homeFlag": "🇵🇾",
-    "homeTeam": "Paraguay",
-    "awayTeam": "France",
-    "awayFlag": "🇫🇷",
-    "timestamp": 1783198800,
-    "homeScore": 0,
-    "awayScore": 1,
-    "isFinished": true
-  },
-  {
-    "id": 19,
-    "homeFlag": "🇧🇷",
-    "homeTeam": "Brazil",
-    "awayTeam": "Norway",
-    "awayFlag": "🇳🇴",
-    "timestamp": 1783281600,
-    "homeScore": 1,
-    "awayScore": 2,
-    "isFinished": true
-  },
-  {
-    "id": 20,
-    "homeFlag": "🇲🇽",
-    "homeTeam": "Mexico",
-    "awayTeam": "England",
-    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "timestamp": 1783296000,
-    "homeScore": 2,
-    "awayScore": 3,
-    "isFinished": true
-  },
-  {
     "id": 21,
     "homeFlag": "🇵🇹",
     "homeTeam": "Portugal",
@@ -75,17 +31,61 @@
     "awayTeam": "Argentina",
     "awayFlag": "🇦🇷",
     "timestamp": 1783440000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 3,
+    "isFinished": true
   },
   {
     "id": 24,
     "homeFlag": "🇨🇭",
     "homeTeam": "Switzerland",
-    "awayTeam": "",
+    "awayTeam": "Colombia",
     "awayFlag": "",
     "timestamp": 1783454400,
+    "homeScore": null,
+    "awayScore": null,
+    "isFinished": false
+  },
+  {
+    "id": 1,
+    "homeFlag": "🇫🇷",
+    "homeTeam": "France",
+    "awayTeam": "Morocco",
+    "awayFlag": "🇲🇦",
+    "timestamp": 1783627200,
+    "homeScore": null,
+    "awayScore": null,
+    "isFinished": false
+  },
+  {
+    "id": 2,
+    "homeFlag": "🇪🇸",
+    "homeTeam": "Spain",
+    "awayTeam": "Belgium",
+    "awayFlag": "🇧🇪",
+    "timestamp": 1783710000,
+    "homeScore": null,
+    "awayScore": null,
+    "isFinished": false
+  },
+  {
+    "id": 3,
+    "homeFlag": "🇳🇴",
+    "homeTeam": "Norway",
+    "awayTeam": "England",
+    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "timestamp": 1783803600,
+    "homeScore": null,
+    "awayScore": null,
+    "isFinished": false
+  },
+  {
+    "id": 4,
+    "homeFlag": "🇦🇷",
+    "homeTeam": "Argentina",
+    "awayTeam": "?",
+    "awayFlag": "",
+    "timestamp": 1783818000,
     "homeScore": null,
     "awayScore": null,
     "isFinished": false

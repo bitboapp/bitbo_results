@@ -42,9 +42,9 @@
     "awayTeam": "Colombia",
     "awayFlag": "",
     "timestamp": 1783454400,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": true
   },
   {
     "id": 1,

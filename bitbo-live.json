@@ -3,45 +3,12 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
   {
-    "id": 21,
-    "homeFlag": "🇵🇹",
-    "homeTeam": "Portugal",
-    "awayTeam": "Spain",
-    "awayFlag": "🇪🇸",
+    "id": 0,
+    "homeFlag": "⚠️",
+    "homeTeam": "Please proceed to the next day",
+    "awayTeam": "for simulation matches",
+    "awayFlag": "⚠️",
     "timestamp": 1783364400,
-    "homeScore": 0,
-    "awayScore": 1,
-    "isFinished": true
-  },
-  {
-    "id": 22,
-    "homeFlag": "🇺🇸",
-    "homeTeam": "United States",
-    "awayTeam": "Belgium",
-    "awayFlag": "🇧🇪",
-    "timestamp": 1783382400,
-    "homeScore": 1,
-    "awayScore": 4,
-    "isFinished": true
-  },
-  {
-    "id": 23,
-    "homeFlag": "🇪🇬",
-    "homeTeam": "Egypt",
-    "awayTeam": "Argentina",
-    "awayFlag": "🇦🇷",
-    "timestamp": 1783440000,
-    "homeScore": 2,
-    "awayScore": 3,
-    "isFinished": true
-  },
-  {
-    "id": 24,
-    "homeFlag": "🇨🇭",
-    "homeTeam": "Switzerland",
-    "awayTeam": "Colombia",
-    "awayFlag": "",
-    "timestamp": 1783454400,
     "homeScore": 0,
     "awayScore": 0,
     "isFinished": true

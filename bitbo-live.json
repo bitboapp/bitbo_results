@@ -8,10 +8,10 @@
     "homeTeam": "Please proceed to the next day",
     "awayTeam": "for simulation matches",
     "awayFlag": "⚠️",
-    "timestamp": 1783364400,
+    "timestamp": 1798758000,
     "homeScore": 0,
     "awayScore": 0,
-    "isFinished": true
+    "isFinished": false
   },
   {
     "id": 1,

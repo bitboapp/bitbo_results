@@ -31,9 +31,9 @@
     "awayTeam": "Belgium",
     "awayFlag": "🇧🇪",
     "timestamp": 1783710000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 3,

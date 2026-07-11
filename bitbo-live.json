@@ -42,9 +42,9 @@
     "awayTeam": "England",
     "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "timestamp": 1783803600,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 1,
+    "isFinished": true
   },
   {
     "id": 4,

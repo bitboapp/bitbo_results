@@ -53,9 +53,9 @@
     "awayTeam": "Switzerland",
     "awayFlag": "🇨🇭",
     "timestamp": 1783818000,
-    "homeScore": null,
-    "awayScore": null,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 1,
+    "isFinished": true
   }
   ]
 }

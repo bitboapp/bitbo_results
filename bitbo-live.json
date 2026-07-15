@@ -31,9 +31,9 @@
     "awayTeam": "Argentina",
     "awayFlag": "🇦🇷",
     "timestamp": 1784142000,
-    "homeScore": 0,
-    "awayScore": 0,
-    "isFinished": false
+    "homeScore": 1,
+    "awayScore": 2,
+    "isFinished": true
   }
   ]
 }

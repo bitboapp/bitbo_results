@@ -20,42 +20,20 @@
     "awayTeam": "England",
     "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "timestamp": 1784408400,
-    "homeScore": 0,
-    "awayScore": 0,
-    "isFinished": false
+    "homeScore": 4,
+    "awayScore": 6,
+    "isFinished": true
   },
       {
     "id": 2,
     "homeFlag": "🇦🇷",
     "homeTeam": "Argentina",
     "awayTeam": "Spain",
-    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "awayFlag": "🇪🇸",
     "timestamp": 1784487600,
     "homeScore": 0,
     "awayScore": 0,
     "isFinished": false
-  },
-  {
-    "id": 5,
-    "homeFlag": "🇫🇷",
-    "homeTeam": "France",
-    "awayTeam": "Spain",
-    "awayFlag": "🇪🇸",
-    "timestamp": 1784055600,
-    "homeScore": 0,
-    "awayScore": 2,
-    "isFinished": true
-  },
-  {
-    "id": 6,
-    "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "homeTeam": "England",
-    "awayTeam": "Argentina",
-    "awayFlag": "🇦🇷",
-    "timestamp": 1784142000,
-    "homeScore": 1,
-    "awayScore": 2,
-    "isFinished": true
   }
   ]
 }

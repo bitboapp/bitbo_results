@@ -491,7 +491,32 @@
         {"rank": 14, "teamName": "Mar del Plata", "played": 4, "won": 0, "drawn": 1, "lost": 3, "goalsFor": 3, "goalsAgainst": 6, "goalDifference": -3, "points": 1}, // Aldosivi
         {"rank": 15, "teamName": "Buenos Aires", "played": 4, "won": 0, "drawn": 0, "lost": 4, "goalsFor": 0, "goalsAgainst": 4, "goalDifference": -4, "points": 0} // Club Atlético River Plate
       ]
-    }
+    },
+{
+  "leagueName": "Brazil",
+  "standings": [
+    {"rank": 1, "teamName": "Rio", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Clube de Regatas do Flamengo
+    {"rank": 2, "teamName": "Sao Paulo", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Sociedade Esportiva Palmeiras
+    {"rank": 3, "teamName": "Belo Horizonte", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Clube Atletico Mineiro
+    {"rank": 4, "teamName": "Rio City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Botafogo de Futebol e Regatas
+    {"rank": 5, "teamName": "Sao Paulo City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Sao Paulo FC
+    {"rank": 6, "teamName": "Porto Alegre", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Sport Club Internacional
+    {"rank": 7, "teamName": "Porto Alegre City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Gremio FBPA
+    {"rank": 8, "teamName": "Rio District", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Fluminense FC
+    {"rank": 9, "teamName": "Sao Paulo District", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Sport Club Corinthians Paulista
+    {"rank": 10, "teamName": "Curitiba", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Club Athletico Paranaense
+    {"rank": 11, "teamName": "Belo Horizonte City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Cruzeiro Esporte Clube
+    {"rank": 12, "teamName": "Braganca", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Red Bull Bragantino
+    {"rank": 13, "teamName": "Santos", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Santos FC
+    {"rank": 14, "teamName": "Rio Metro", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // CR Vasco da Gama
+    {"rank": 15, "teamName": "Salvador", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Esporte Clube Bahia
+    {"rank": 16, "teamName": "Salvador City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Esporte Clube Vitoria
+    {"rank": 17, "teamName": "Curitiba City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Coritiba Foot Ball Club
+    {"rank": 18, "teamName": "Chapeco", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Chapecoense
+    {"rank": 19, "teamName": "Mirassol", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Mirassol Futebol Clube
+    {"rank": 20, "teamName": "Belem", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Clube do Remo
+  ]
+}
 
   ]
 }

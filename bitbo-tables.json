@@ -1,7 +1,7 @@
 {
   "leagues": [
        {
-      "leagueName": "Italy",
+      "leagueName": "Italy🇮🇹",
       "standings": [
         {"rank": 1, "teamName": "Milan Blue Black", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
         {"rank": 2, "teamName": "Naples", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "leagueName": "Turkiye",
+      "leagueName": "Turkiye🇹🇷",
       "standings": [
         {"rank": 1, "teamName": "Istanbul Yellows", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
         {"rank": 2, "teamName": "Istanbul Lions", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
@@ -49,7 +49,7 @@
       ]
     },
         {
-      "leagueName": "France",
+      "leagueName": "France🇫🇷",
       "standings": [
         {"rank": 1, "teamName": "Paris", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
         {"rank": 2, "teamName": "Monaco", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
@@ -72,7 +72,7 @@
       ]
     },
         {
-  "leagueName": "Brazil",
+  "leagueName": "Brazil🇧🇷",
   "standings": [
     {"rank": 1, "teamName": "Sao Paulo", "played": 22, "won": 14, "drawn": 6, "lost": 2, "goalsFor": 38, "goalsAgainst": 16, "goalDifference": 22, "points": 48},
     {"rank": 2, "teamName": "Rio", "played": 21, "won": 12, "drawn": 6, "lost": 3, "goalsFor": 39, "goalsAgainst": 18, "goalDifference": 21, "points": 42},
@@ -97,7 +97,7 @@
   ]
 },
     {
-      "leagueName": "Argentina A",
+      "leagueName": "Argentina A🇦🇷",
       "standings": [
         {"rank": 1, "teamName": "Buenos Aires West", "played": 4, "won": 3, "drawn": 1, "lost": 0, "goalsFor": 6, "goalsAgainst": 2, "goalDifference": 4, "points": 10},
         {"rank": 2, "teamName": "Cordoba District", "played": 4, "won": 3, "drawn": 0, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 9},
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "leagueName": "Argentina B",
+      "leagueName": "Argentina B🇦🇷",
       "standings": [
         {"rank": 1, "teamName": "Buenos Aires North", "played": 4, "won": 4, "drawn": 0, "lost": 0, "goalsFor": 9, "goalsAgainst": 3, "goalDifference": 6, "points": 12},
         {"rank": 2, "teamName": "La Plata City", "played": 4, "won": 3, "drawn": 0, "lost": 1, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 9},
@@ -137,7 +137,7 @@
       ]
     },
         {
-      "leagueName": "Portugal",
+      "leagueName": "Portugal🇵🇹",
       "standings": [
         {"rank": 1, "teamName": "Porto", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 0, "goalDifference": 2, "points": 3},
         {"rank": 2, "teamName": "Barcelos", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3},
@@ -160,7 +160,7 @@
       ]
     },
         {
-      "leagueName": "Spain",
+      "leagueName": "Spain🇪🇸",
       "standings": [
         {"rank": 1, "teamName": "Madrid White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
         {"rank": 2, "teamName": "Catalonia Blue Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "leagueName": "England",
+      "leagueName": "England🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "standings": [
         {"rank": 1, "teamName": "Manchester Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
         {"rank": 2, "teamName": "North London Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "leagueName": "Germany",
+      "leagueName": "Germany🇩🇪",
       "standings": [
         {"rank": 1, "teamName": "Leverkusen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
         {"rank": 2, "teamName": "Dortmund", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
@@ -233,7 +233,7 @@
       ]
     },
 {
-  "leagueName": "Netherland",
+  "leagueName": "Netherland🇳🇱",
   "standings": [
     {"rank": 1, "teamName": "Rotterdam District", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 0, "goalDifference": 4, "points": 3},
     {"rank": 2, "teamName": "Deventer", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 1, "goalDifference": 3, "points": 3},

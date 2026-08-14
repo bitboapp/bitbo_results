@@ -1,194 +1,1844 @@
 {
-  "leagues": [
-    {
-      "leagueName": "Turkiye",
-      "standings": [
-        {"rank": 1, "teamName": "Istanbul Yellows", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Fenerbahce
-        {"rank": 2, "teamName": "Istanbul Lions", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Galatasaray
-        {"rank": 3, "teamName": "Istanbul Eagles", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Besiktas
-        {"rank": 4, "teamName": "Trabzon", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Trabzonspor
-        {"rank": 5, "teamName": "Basaksehir", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Istanbul Basaksehir
-        {"rank": 6, "teamName": "Konya", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Konyaspor
-        {"rank": 7, "teamName": "Samsun", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Samsunspor
-        {"rank": 8, "teamName": "Alanya", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Alanyaspor
-        {"rank": 9, "teamName": "Kasimpasa", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Kasimpasa
-        {"rank": 10, "teamName": "Erzurum", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Erzurum
-        {"rank": 11, "teamName": "Gaziantep", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Gaziantep FK
-        {"rank": 12, "teamName": "Goztepe", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Goztepe
-        {"rank": 13, "teamName": "Eyup", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Eyupspor
-        {"rank": 14, "teamName": "Rize", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Caykur Rizespor
-        {"rank": 15, "teamName": "Corum", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Corum
-        {"rank": 16, "teamName": "Diyarbakir", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // 
-        {"rank": 17, "teamName": "Ankara Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // MKE Ankaragucu
-        {"rank": 18, "teamName": "Kocaeli", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Kocaelispor
-      ]
-    },
-    {
-      "leagueName": "England",
-      "standings": [
-        {"rank": 1, "teamName": "Manchester Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Manchester City
-        {"rank": 2, "teamName": "North London Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Arsenal
-        {"rank": 3, "teamName": "Merseyside Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Liverpool
-        {"rank": 4, "teamName": "West London Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Chelsea
-        {"rank": 5, "teamName": "Manchester Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Manchester United
-        {"rank": 6, "teamName": "Tyneside Black", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Newcastle United
-        {"rank": 7, "teamName": "North London White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Tottenham Hotspur
-        {"rank": 8, "teamName": "Birmingham Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Aston Villa
-        {"rank": 9, "teamName": "Sussex Seagulls", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Brighton & Hove Albion
-        {"rank": 10, "teamName": "East London Maroon", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // West Ham United+
-        {"rank": 11, "teamName": "South London Eagles", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Crystal Palace
-        {"rank": 12, "teamName": "West London White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Fulham
-        {"rank": 13, "teamName": "Bournemouth", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Bournemouth
-        {"rank": 14, "teamName": "Coventry", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Coventry
-        {"rank": 15, "teamName": "West London Bees", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Brentford
-        {"rank": 16, "teamName": "Nottingham Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Nottingham Forest
-        {"rank": 17, "teamName": "Merseyside Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Everton
-        {"rank": 18, "teamName": "Yorkshire Leeds", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Leeds United
-        {"rank": 19, "teamName": "Yorkshire Hull", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Hull City
-        {"rank": 20, "teamName": "Wearside Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Sunderland
-      ]
-    },
-    {
-      "leagueName": "Spain",
-      "standings": [
-        {"rank": 1, "teamName": "Madrid White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Real Madrid
-        {"rank": 2, "teamName": "Catalonia Blue Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Barcelona
-        {"rank": 3, "teamName": "Madrid Red White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Atletico Madrid
-        {"rank": 4, "teamName": "Bilbao Red White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Athletic Bilbao
-        {"rank": 5, "teamName": "San Sebastian Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Real Sociedad
-        {"rank": 6, "teamName": "Castellon Yellow", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Villarreal CF
-        {"rank": 7, "teamName": "Seville Green White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Real Betis
-        {"rank": 8, "teamName": "Seville White Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Sevilla FC
-        {"rank": 9, "teamName": "Málaga", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Málaga
-        {"rank": 10, "teamName": "Valencia Orange", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Valencia CF
-        {"rank": 11, "teamName": "A Coruña", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Deportivo A Coruña
-        {"rank": 12, "teamName": "Pamplona Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // CA Osasuna
-        {"rank": 13, "teamName": "Vigo Sky Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Celta Vigo
-        {"rank": 14, "teamName": "Vallecas Red Stripe", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Rayo Vallecano
-        {"rank": 15, "teamName": "Barcelona Blue White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Espanyol
-        {"rank": 16, "teamName": "Madrid South Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Getafe CF
-        {"rank": 17, "teamName": "Vitoria Alava", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Deportivo Alaves
-        {"rank": 18, "teamName": "Valencia Blue Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Levante UD
-        {"rank": 19, "teamName": "Alicante Elche", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Elche CF
-        {"rank": 20, "teamName": "Santander", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Racing Santander
-      ]
-    },
-    {
-      "leagueName": "Italy",
-      "standings": [
-        {"rank": 1, "teamName": "Milan Blue Black", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Inter Milan
-        {"rank": 2, "teamName": "Naples", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SSC Napoli
-        {"rank": 3, "teamName": "Turin Black White", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Juventus
-        {"rank": 4, "teamName": "Milan Red Black", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // AC Milan
-        {"rank": 5, "teamName": "Bergamo", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Atalanta BC
-        {"rank": 6, "teamName": "Rome Yellow Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // AS Roma
-        {"rank": 7, "teamName": "Rome Sky Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SS Lazio
-        {"rank": 8, "teamName": "Florence", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // ACF Fiorentina
-        {"rank": 9, "teamName": "Bologna", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Bologna FC
-        {"rank": 10, "teamName": "Torino", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Torino FC
-        {"rank": 11, "teamName": "Genoa", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Genoa CFC
-        {"rank": 12, "teamName": "Udine", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Udinese Calcio
-        {"rank": 13, "teamName": "Sardinia Red Blue", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Cagliari Calcio
-        {"rank": 14, "teamName": "Parma", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Parma Calcio
-        {"rank": 15, "teamName": "Lecce", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // US Lecce
-        {"rank": 16, "teamName": "Venedig", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // venedig
-        {"rank": 17, "teamName": "Como", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Como 1907
-        {"rank": 18, "teamName": "Sassuolo", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // US Sassuolo
-        {"rank": 19, "teamName": "Lecce", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Lecce
-        {"rank": 20, "teamName": "Udine", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Udinese
-      ]
-    },
-    {
-      "leagueName": "Germany",
-      "standings": [
-        {"rank": 1, "teamName": "Leverkusen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Bayer Leverkusen
-        {"rank": 2, "teamName": "Dortmund", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Borussia Dortmund
-        {"rank": 3, "teamName": "Leipzig", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // RB Leipzig
-        {"rank": 4, "teamName": "Stuttgart", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // VfB Stuttgart
-        {"rank": 5, "teamName": "Frankfurt", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Eintracht Frankfurt
-        {"rank": 6, "teamName": "Gelsenkirchen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Schalke 04
-        {"rank": 7, "teamName": "Freiburg", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SC Freiburg
-        {"rank": 8, "teamName": "Hoffenheim", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // TSG Hoffenheim
-        {"rank": 9, "teamName": "Bremen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Werder Bremen
-        {"rank": 10, "teamName": "Gladbach", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Borussia Monchengladbach
-        {"rank": 11, "teamName": "Mainz", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Mainz05
-        {"rank": 12, "teamName": "Berlin", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Union Berlin
-        {"rank": 13, "teamName": "Augsburg", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Augsburg
-        {"rank": 14, "teamName": "Elversberg", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SV Elversberg 
-        {"rank": 15, "teamName": "Paderborn", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SC Paderborn 07
-        {"rank": 16, "teamName": "Hamburg", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Hamburger SV
-        {"rank": 17, "teamName": "Cologne", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // 1. FC Koln
-        {"rank": 18, "teamName": "Munich", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // FC Bayern München
-      ]
-    },
-    {
-      "leagueName": "France",
-      "standings": [
-        {"rank": 1, "teamName": "Paris", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Paris Saint-Germain
-        {"rank": 2, "teamName": "Monaco", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // AS Monaco
-        {"rank": 3, "teamName": "Marseille", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Olympique de Marseille
-        {"rank": 4, "teamName": "Lyon", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Olympique Lyonnais
-        {"rank": 5, "teamName": "Lille", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // LOSC Lille
-        {"rank": 6, "teamName": "Lens", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // RC Lens
-        {"rank": 7, "teamName": "Nice", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // OGC Nice
-        {"rank": 8, "teamName": "Rennes", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Stade Rennais
-        {"rank": 9, "teamName": "Brest", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Stade Brestois
-        {"rank": 10, "teamName": "Strasbourg", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // RC Strasbourg
-        {"rank": 11, "teamName": "Toulouse", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Toulouse FC
-        {"rank": 12, "teamName": "Troyes", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // ES Troyes AC
-        {"rank": 13, "teamName": "Auxerre", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // AJ Auxerre
-        {"rank": 14, "teamName": "Angers", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Angers SCO
-        {"rank": 15, "teamName": "Le Havre", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Le Havre AC
-        {"rank": 16, "teamName": "Paris City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Paris FC
-        {"rank": 17, "teamName": "Lorient", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Lorient
-        {"rank": 18, "teamName": "Le Mans", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Le Mans FC
-      ]
-    },
-    {
-      "leagueName": "Netherland",
-      "standings": [
-        {"rank": 1, "teamName": "Eindhoven", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // PSV Eindhoven
-        {"rank": 2, "teamName": "Amsterdam", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Ajax
-        {"rank": 3, "teamName": "Rotterdam", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Feyenoord
-        {"rank": 4, "teamName": "Alkmaar", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // AZ Alkmaar
-        {"rank": 5, "teamName": "Enschede", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Twente
-        {"rank": 6, "teamName": "Utrecht", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Utrecht
-        {"rank": 7, "teamName": "Groningen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Groningen
-        {"rank": 8, "teamName": "Heerenveen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SC Heerenveen
-        {"rank": 9, "teamName": "Nijmegen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // NEC Nijmegen
-        {"rank": 10, "teamName": "Rotterdam City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Sparta Rotterdam
-        {"rank": 11, "teamName": "Deventer", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Go Ahead Eagles
-        {"rank": 12, "teamName": "Den Haag", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // ADO Den Haag
-        {"rank": 13, "teamName": "Leeuwarden", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SC Cambuur
-        {"rank": 14, "teamName": "Zwolle", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // PEC Zwolle
-        {"rank": 15, "teamName": "Sittard", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Fortuna Sittard
-        {"rank": 16, "teamName": "Rotterdam District", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Excelsior
-        {"rank": 17, "teamName": "Velsen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Telstar
-        {"rank": 18, "teamName": "Tilburg", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Willem II Tilburg
-      ]
-    },
-    {
-      "leagueName": "Portugal",
-      "standings": [
-        {"rank": 1, "teamName": "Lisbon City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Sporting CP
-        {"rank": 2, "teamName": "Lisbon Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Benfica
-        {"rank": 3, "teamName": "Porto", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Porto
-        {"rank": 4, "teamName": "Braga", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // SC Braga
-        {"rank": 5, "teamName": "Famalicao", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Famalicao
-        {"rank": 6, "teamName": "Ponta Delgada", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Santa Clara
-        {"rank": 7, "teamName": "Moreira", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Moreirense
-        {"rank": 8, "teamName": "Estoril", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Estoril Praia
-        {"rank": 9, "teamName": "Barcelos", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Gil Vicente
-        {"rank": 10, "teamName": "Lisbon District", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Casa Pia
-        {"rank": 11, "teamName": "Vila do Conde", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Rio Ave
-        {"rank": 12, "teamName": "Porto City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Boavista
-        {"rank": 13, "teamName": "Funchal", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // CD Nacional
-        {"rank": 14, "teamName": "Arouca", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Arouca
-        {"rank": 15, "teamName": "Amadora", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Estrela da Amadora
-        {"rank": 16, "teamName": "Funchal", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // Marítimo Funchal
-        {"rank": 17, "teamName": "Alverca", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}, // FC Alverca
-        {"rank": 18, "teamName": "Viseu", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0} // Académico de Viseu FC
-      ]
-    }
-  ]
+    "leagues": [
+        {
+            "leagueName": "Turkiye",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Istanbul Yellows",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Fenerbahce
+                {
+                    "rank": 2,
+                    "teamName": "Istanbul Lions",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Galatasaray
+                {
+                    "rank": 3,
+                    "teamName": "Istanbul Eagles",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Besiktas
+                {
+                    "rank": 4,
+                    "teamName": "Trabzon",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Trabzonspor
+                {
+                    "rank": 5,
+                    "teamName": "Basaksehir",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Istanbul Basaksehir
+                {
+                    "rank": 6,
+                    "teamName": "Konya",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Konyaspor
+                {
+                    "rank": 7,
+                    "teamName": "Samsun",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Samsunspor
+                {
+                    "rank": 8,
+                    "teamName": "Alanya",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Alanyaspor
+                {
+                    "rank": 9,
+                    "teamName": "Kasimpasa",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Kasimpasa
+                {
+                    "rank": 10,
+                    "teamName": "Erzurum",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Erzurum
+                {
+                    "rank": 11,
+                    "teamName": "Gaziantep",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Gaziantep FK
+                {
+                    "rank": 12,
+                    "teamName": "Goztepe",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Goztepe
+                {
+                    "rank": 13,
+                    "teamName": "Eyup",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Eyupspor
+                {
+                    "rank": 14,
+                    "teamName": "Rize",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Caykur Rizespor
+                {
+                    "rank": 15,
+                    "teamName": "Corum",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Corum
+                {
+                    "rank": 16,
+                    "teamName": "Diyarbakir",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // 
+                {
+                    "rank": 17,
+                    "teamName": "Ankara Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // MKE Ankaragucu
+                {
+                    "rank": 18,
+                    "teamName": "Kocaeli",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // Kocaelispor
+            ]
+        },
+        {
+            "leagueName": "England",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Manchester Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Manchester City
+                {
+                    "rank": 2,
+                    "teamName": "North London Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Arsenal
+                {
+                    "rank": 3,
+                    "teamName": "Merseyside Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Liverpool
+                {
+                    "rank": 4,
+                    "teamName": "West London Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Chelsea
+                {
+                    "rank": 5,
+                    "teamName": "Manchester Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Manchester United
+                {
+                    "rank": 6,
+                    "teamName": "Tyneside Black",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Newcastle United
+                {
+                    "rank": 7,
+                    "teamName": "North London White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Tottenham Hotspur
+                {
+                    "rank": 8,
+                    "teamName": "Birmingham Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Aston Villa
+                {
+                    "rank": 9,
+                    "teamName": "Sussex Seagulls",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Brighton & Hove Albion
+                {
+                    "rank": 10,
+                    "teamName": "East London Maroon",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // West Ham United+
+                {
+                    "rank": 11,
+                    "teamName": "South London Eagles",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Crystal Palace
+                {
+                    "rank": 12,
+                    "teamName": "West London White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Fulham
+                {
+                    "rank": 13,
+                    "teamName": "Bournemouth",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Bournemouth
+                {
+                    "rank": 14,
+                    "teamName": "Coventry",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Coventry
+                {
+                    "rank": 15,
+                    "teamName": "West London Bees",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Brentford
+                {
+                    "rank": 16,
+                    "teamName": "Nottingham Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Nottingham Forest
+                {
+                    "rank": 17,
+                    "teamName": "Merseyside Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Everton
+                {
+                    "rank": 18,
+                    "teamName": "Yorkshire Leeds",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Leeds United
+                {
+                    "rank": 19,
+                    "teamName": "Yorkshire Hull",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Hull City
+                {
+                    "rank": 20,
+                    "teamName": "Wearside Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // Sunderland
+            ]
+        },
+        {
+            "leagueName": "Spain",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Madrid White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Real Madrid
+                {
+                    "rank": 2,
+                    "teamName": "Catalonia Blue Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Barcelona
+                {
+                    "rank": 3,
+                    "teamName": "Madrid Red White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Atletico Madrid
+                {
+                    "rank": 4,
+                    "teamName": "Bilbao Red White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Athletic Bilbao
+                {
+                    "rank": 5,
+                    "teamName": "San Sebastian Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Real Sociedad
+                {
+                    "rank": 6,
+                    "teamName": "Castellon Yellow",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Villarreal CF
+                {
+                    "rank": 7,
+                    "teamName": "Seville Green White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Real Betis
+                {
+                    "rank": 8,
+                    "teamName": "Seville White Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Sevilla FC
+                {
+                    "rank": 9,
+                    "teamName": "Málaga",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Málaga
+                {
+                    "rank": 10,
+                    "teamName": "Valencia Orange",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Valencia CF
+                {
+                    "rank": 11,
+                    "teamName": "A Coruña",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Deportivo A Coruña
+                {
+                    "rank": 12,
+                    "teamName": "Pamplona Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // CA Osasuna
+                {
+                    "rank": 13,
+                    "teamName": "Vigo Sky Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Celta Vigo
+                {
+                    "rank": 14,
+                    "teamName": "Vallecas Red Stripe",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Rayo Vallecano
+                {
+                    "rank": 15,
+                    "teamName": "Barcelona Blue White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Espanyol
+                {
+                    "rank": 16,
+                    "teamName": "Madrid South Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Getafe CF
+                {
+                    "rank": 17,
+                    "teamName": "Vitoria Alava",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Deportivo Alaves
+                {
+                    "rank": 18,
+                    "teamName": "Valencia Blue Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Levante UD
+                {
+                    "rank": 19,
+                    "teamName": "Alicante Elche",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Elche CF
+                {
+                    "rank": 20,
+                    "teamName": "Santander",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // Racing Santander
+            ]
+        },
+        {
+            "leagueName": "Italy",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Milan Blue Black",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Inter Milan
+                {
+                    "rank": 2,
+                    "teamName": "Naples",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SSC Napoli
+                {
+                    "rank": 3,
+                    "teamName": "Turin Black White",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Juventus
+                {
+                    "rank": 4,
+                    "teamName": "Milan Red Black",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // AC Milan
+                {
+                    "rank": 5,
+                    "teamName": "Bergamo",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Atalanta BC
+                {
+                    "rank": 6,
+                    "teamName": "Rome Yellow Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // AS Roma
+                {
+                    "rank": 7,
+                    "teamName": "Rome Sky Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SS Lazio
+                {
+                    "rank": 8,
+                    "teamName": "Florence",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // ACF Fiorentina
+                {
+                    "rank": 9,
+                    "teamName": "Bologna",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Bologna FC
+                {
+                    "rank": 10,
+                    "teamName": "Torino",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Torino FC
+                {
+                    "rank": 11,
+                    "teamName": "Genoa",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Genoa CFC
+                {
+                    "rank": 12,
+                    "teamName": "Udine",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Udinese Calcio
+                {
+                    "rank": 13,
+                    "teamName": "Sardinia Red Blue",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Cagliari Calcio
+                {
+                    "rank": 14,
+                    "teamName": "Parma",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Parma Calcio
+                {
+                    "rank": 15,
+                    "teamName": "Lecce",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // US Lecce
+                {
+                    "rank": 16,
+                    "teamName": "Venedig",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // venedig
+                {
+                    "rank": 17,
+                    "teamName": "Como",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Como 1907
+                {
+                    "rank": 18,
+                    "teamName": "Sassuolo",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // US Sassuolo
+                {
+                    "rank": 19,
+                    "teamName": "Lecce",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Lecce
+                {
+                    "rank": 20,
+                    "teamName": "Udine",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // Udinese
+            ]
+        },
+        {
+            "leagueName": "Germany",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Leverkusen",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Bayer Leverkusen
+                {
+                    "rank": 2,
+                    "teamName": "Dortmund",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Borussia Dortmund
+                {
+                    "rank": 3,
+                    "teamName": "Leipzig",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // RB Leipzig
+                {
+                    "rank": 4,
+                    "teamName": "Stuttgart",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // VfB Stuttgart
+                {
+                    "rank": 5,
+                    "teamName": "Frankfurt",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Eintracht Frankfurt
+                {
+                    "rank": 6,
+                    "teamName": "Gelsenkirchen",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Schalke 04
+                {
+                    "rank": 7,
+                    "teamName": "Freiburg",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SC Freiburg
+                {
+                    "rank": 8,
+                    "teamName": "Hoffenheim",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // TSG Hoffenheim
+                {
+                    "rank": 9,
+                    "teamName": "Bremen",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Werder Bremen
+                {
+                    "rank": 10,
+                    "teamName": "Gladbach",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Borussia Monchengladbach
+                {
+                    "rank": 11,
+                    "teamName": "Mainz",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Mainz05
+                {
+                    "rank": 12,
+                    "teamName": "Berlin",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Union Berlin
+                {
+                    "rank": 13,
+                    "teamName": "Augsburg",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Augsburg
+                {
+                    "rank": 14,
+                    "teamName": "Elversberg",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SV Elversberg 
+                {
+                    "rank": 15,
+                    "teamName": "Paderborn",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SC Paderborn 07
+                {
+                    "rank": 16,
+                    "teamName": "Hamburg",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Hamburger SV
+                {
+                    "rank": 17,
+                    "teamName": "Cologne",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // 1. FC Koln
+        {
+                    "rank": 18,
+                    "teamName": "Munich",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // FC Bayern München
+            ]
+        },
+        {
+            "leagueName": "France",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Paris",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Paris Saint-Germain
+                {
+                    "rank": 2,
+                    "teamName": "Monaco",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // AS Monaco
+                {
+                    "rank": 3,
+                    "teamName": "Marseille",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Olympique de Marseille
+                {
+                    "rank": 4,
+                    "teamName": "Lyon",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Olympique Lyonnais
+                {
+                    "rank": 5,
+                    "teamName": "Lille",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // LOSC Lille
+                {
+                    "rank": 6,
+                    "teamName": "Lens",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // RC Lens
+                {
+                    "rank": 7,
+                    "teamName": "Nice",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // OGC Nice
+                {
+                    "rank": 8,
+                    "teamName": "Rennes",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Stade Rennais
+                {
+                    "rank": 9,
+                    "teamName": "Brest",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Stade Brestois
+                {
+                    "rank": 10,
+                    "teamName": "Strasbourg",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // RC Strasbourg
+                {
+                    "rank": 11,
+                    "teamName": "Toulouse",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Toulouse FC
+                {
+                    "rank": 12,
+                    "teamName": "Troyes",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // ES Troyes AC
+                {
+                    "rank": 13,
+                    "teamName": "Auxerre",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // AJ Auxerre
+                {
+                    "rank": 14,
+                    "teamName": "Angers",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Angers SCO
+                {
+                    "rank": 15,
+                    "teamName": "Le Havre",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Le Havre AC
+                {
+                    "rank": 16,
+                    "teamName": "Paris City",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Paris FC
+                {
+                    "rank": 17,
+                    "teamName": "Lorient",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Lorient
+                {
+                    "rank": 18,
+                    "teamName": "Le Mans",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // Le Mans FC
+            ]
+        },
+        {
+            "leagueName": "Netherland",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Eindhoven",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // PSV Eindhoven
+                {
+                    "rank": 2,
+                    "teamName": "Amsterdam",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Ajax
+                {
+                    "rank": 3,
+                    "teamName": "Rotterdam",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Feyenoord
+                {
+                    "rank": 4,
+                    "teamName": "Alkmaar",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // AZ Alkmaar
+                {
+                    "rank": 5,
+                    "teamName": "Enschede",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Twente
+                {
+                    "rank": 6,
+                    "teamName": "Utrecht",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Utrecht
+                {
+                    "rank": 7,
+                    "teamName": "Groningen",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Groningen
+                {
+                    "rank": 8,
+                    "teamName": "Heerenveen",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SC Heerenveen
+                {
+                    "rank": 9,
+                    "teamName": "Nijmegen",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // NEC Nijmegen
+                {
+                    "rank": 10,
+                    "teamName": "Rotterdam City",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Sparta Rotterdam
+                {
+                    "rank": 11,
+                    "teamName": "Deventer",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Go Ahead Eagles
+                {
+                    "rank": 12,
+                    "teamName": "Den Haag",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // ADO Den Haag
+                {
+                    "rank": 13,
+                    "teamName": "Leeuwarden",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SC Cambuur
+                {
+                    "rank": 14,
+                    "teamName": "Zwolle",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // PEC Zwolle
+                {
+                    "rank": 15,
+                    "teamName": "Sittard",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Fortuna Sittard
+                {
+                    "rank": 16,
+                    "teamName": "Rotterdam District",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Excelsior
+                {
+                    "rank": 17,
+                    "teamName": "Velsen",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Telstar
+                {
+                    "rank": 18,
+                    "teamName": "Tilburg",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // Willem II Tilburg
+            ]
+        },
+        {
+            "leagueName": "Portugal",
+            "standings": [
+                {
+                    "rank": 1,
+                    "teamName": "Lisbon City",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Sporting CP
+                {
+                    "rank": 2,
+                    "teamName": "Lisbon Red",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Benfica
+                {
+                    "rank": 3,
+                    "teamName": "Porto",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Porto
+                {
+                    "rank": 4,
+                    "teamName": "Braga",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // SC Braga
+                {
+                    "rank": 5,
+                    "teamName": "Famalicao",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Famalicao
+                {
+                    "rank": 6,
+                    "teamName": "Ponta Delgada",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Santa Clara
+                {
+                    "rank": 7,
+                    "teamName": "Moreira",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Moreirense
+                {
+                    "rank": 8,
+                    "teamName": "Estoril",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Estoril Praia
+                {
+                    "rank": 9,
+                    "teamName": "Barcelos",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Gil Vicente
+                {
+                    "rank": 10,
+                    "teamName": "Lisbon District",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Casa Pia
+                {
+                    "rank": 11,
+                    "teamName": "Vila do Conde",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Rio Ave
+                {
+                    "rank": 12,
+                    "teamName": "Porto City",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Boavista
+                {
+                    "rank": 13,
+                    "teamName": "Funchal",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // CD Nacional
+                {
+                    "rank": 14,
+                    "teamName": "Arouca",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Arouca
+                {
+                    "rank": 15,
+                    "teamName": "Amadora",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Estrela da Amadora
+                {
+                    "rank": 16,
+                    "teamName": "Funchal",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // Marítimo Funchal
+                {
+                    "rank": 17,
+                    "teamName": "Alverca",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                }, // FC Alverca
+                {
+                    "rank": 18,
+                    "teamName": "Viseu",
+                    "played": 0,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 0,
+                    "goalsAgainst": 0,
+                    "goalDifference": 0,
+                    "points": 0
+                } // Académico de Viseu FC
+            ]
+        }
+    ]
 }

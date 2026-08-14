@@ -13,6 +13,50 @@
     "awayScore": 0,
     "isFinished": false
   },
+    {
+    "id": 7,
+    "homeFlag": "🏠",
+    "homeTeam": "Istanbul Lions",
+    "awayTeam": "Corum",
+    "awayFlag": "✈️",
+    "timestamp": 1786732200,
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": false
+  },
+    {
+    "id": 8,
+    "homeFlag": "🏠",
+    "homeTeam": "Kasimpasa",
+    "awayTeam": "Trabzon",
+    "awayFlag": "✈️",
+    "timestamp": 1786809600,
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": false
+  },
+    {
+    "id": 9,
+    "homeFlag": "🏠",
+    "homeTeam": "Ankara Red",
+    "awayTeam": "Istanbul Yellows",
+    "awayFlag": "✈️",
+    "timestamp": 1786818600,
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": false
+  },
+    {
+    "id": 10,
+    "homeFlag": "🏠",
+    "homeTeam": "Istanbul Eagles",
+    "awayTeam": "Eyup",
+    "awayFlag": "✈️",
+    "timestamp": 1786905000,
+    "homeScore": 0,
+    "awayScore": 0,
+    "isFinished": false
+  },
       {
     "id": 1,
     "homeFlag": "❤️",

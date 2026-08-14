@@ -15,25 +15,14 @@
   },
       {
     "id": 1,
-    "homeFlag": "🇫🇷",
-    "homeTeam": "France",
-    "awayTeam": "England",
-    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "timestamp": 1784408400,
-    "homeScore": 4,
-    "awayScore": 6,
-    "isFinished": true
-  },
-      {
-    "id": 2,
-    "homeFlag": "🇦🇷",
-    "homeTeam": "Argentina",
-    "awayTeam": "Spain",
-    "awayFlag": "🇪🇸",
-    "timestamp": 1784487600,
+    "homeFlag": "⚠️",
+    "homeTeam": "New teams will be added",
+    "awayTeam": "to the leagues very soon",
+    "awayFlag": "⚠️",
+    "timestamp": 1798758000,
     "homeScore": 0,
     "awayScore": 0,
-    "isFinished": true
+    "isFinished": false
   }
   ]
 }

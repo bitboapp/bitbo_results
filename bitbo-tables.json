@@ -208,7 +208,7 @@
         {"rank": 19, "teamName": "Yorkshire Hull", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
         {"rank": 20, "teamName": "Wearside Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}
       ]
-    }
+    },
     {
       "leagueName": "Germany",
       "standings": [

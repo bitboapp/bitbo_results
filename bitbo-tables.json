@@ -144,29 +144,29 @@
         {"rank": 18, "teamName": "Le Mans", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}
       ]
     },
-    {
-      "leagueName": "Netherland",
-      "standings": [
-        {"rank": 1, "teamName": "Eindhoven", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 2, "teamName": "Amsterdam", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 3, "teamName": "Rotterdam", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 4, "teamName": "Alkmaar", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 5, "teamName": "Enschede", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 6, "teamName": "Utrecht", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 7, "teamName": "Groningen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 8, "teamName": "Heerenveen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 9, "teamName": "Nijmegen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 10, "teamName": "Rotterdam City", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 11, "teamName": "Deventer", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 12, "teamName": "Den Haag", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 13, "teamName": "Leeuwarden", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 14, "teamName": "Zwolle", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 15, "teamName": "Sittard", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 16, "teamName": "Rotterdam District", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 17, "teamName": "Velsen", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 18, "teamName": "Tilburg", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}
-      ]
-    },
+{
+  "leagueName": "Netherland",
+  "standings": [
+    {"rank": 1, "teamName": "Rotterdam District", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 0, "goalDifference": 4, "points": 3},
+    {"rank": 2, "teamName": "Deventer", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 1, "goalDifference": 3, "points": 3},
+    {"rank": 3, "teamName": "Amsterdam", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 0, "goalDifference": 2, "points": 3},
+    {"rank": 4, "teamName": "Alkmaar", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 0, "goalDifference": 2, "points": 3},
+    {"rank": 5, "teamName": "Velsen", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 1, "goalDifference": 1, "points": 3},
+    {"rank": 6, "teamName": "Groningen", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 1, "goalDifference": 1, "points": 3},
+    {"rank": 7, "teamName": "Heerenveen", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3},
+    {"rank": 8, "teamName": "Rotterdam", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3},
+    {"rank": 9, "teamName": "Sittard", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1},
+    {"rank": 10, "teamName": "Eindhoven", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1},
+    {"rank": 11, "teamName": "Nijmegen", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 2, "goalDifference": -1, "points": 0},
+    {"rank": 12, "teamName": "Utrecht", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 2, "goalDifference": -1, "points": 0},
+    {"rank": 13, "teamName": "Enschede", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0},
+    {"rank": 14, "teamName": "Rotterdam City", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0},
+    {"rank": 15, "teamName": "Zwolle", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 2, "goalDifference": -2, "points": 0},
+    {"rank": 16, "teamName": "Den Haag", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 2, "goalDifference": -2, "points": 0},
+    {"rank": 17, "teamName": "Tilburg", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 4, "goalDifference": -3, "points": 0},
+    {"rank": 18, "teamName": "Leeuwarden", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 4, "goalDifference": -4, "points": 0}
+  ]
+},
     {
       "leagueName": "Portugal",
       "standings": [

@@ -53,9 +53,9 @@
     "awayTeam": "Eyup",
     "awayFlag": "✈️",
     "timestamp": 1786905000,
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
-    "isFinished": false
+    "isFinished": true
   },
       {
     "id": 1,

@@ -96,9 +96,7 @@
     {"rank": 20, "teamName": "Chapeco", "played": 21, "won": 1, "drawn": 7, "lost": 13, "goalsFor": 20, "goalsAgainst": 43, "goalDifference": -23, "points": 10}
   ]
 },
-{
-  "leagues": [
-    {
+ {
       "leagueName": "Argentina A🇦🇷",
       "standings": [
         {"rank": 1, "teamName": "Cordoba District", "played": 5, "won": 4, "drawn": 0, "lost": 1, "goalsFor": 5, "goalsAgainst": 2, "goalDifference": 3, "points": 12},
@@ -137,9 +135,7 @@
         {"rank": 14, "teamName": "Buenos Aires", "played": 5, "won": 1, "drawn": 0, "lost": 4, "goalsFor": 2, "goalsAgainst": 4, "goalDifference": -2, "points": 3},
         {"rank": 15, "teamName": "Mar del Plata", "played": 5, "won": 0, "drawn": 2, "lost": 3, "goalsFor": 3, "goalsAgainst": 6, "goalDifference": -3, "points": 2}
       ]
-    }
-  ]
-},
+    },
         {
       "leagueName": "Portugal🇵🇹",
       "standings": [

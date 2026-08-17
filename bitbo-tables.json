@@ -25,29 +25,29 @@
         {"rank": 20, "teamName": "Udine", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}
       ]
     },
-    {
-      "leagueName": "Turkiye🇹🇷",
-      "standings": [
-        {"rank": 1, "teamName": "Istanbul Yellows", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 2, "teamName": "Istanbul Lions", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 3, "teamName": "Istanbul Eagles", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 4, "teamName": "Trabzon", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 5, "teamName": "Basaksehir", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 6, "teamName": "Konya", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 7, "teamName": "Samsun", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 8, "teamName": "Alanya", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 9, "teamName": "Kasimpasa", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 10, "teamName": "Erzurum", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 11, "teamName": "Gaziantep", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 12, "teamName": "Goztepe", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 13, "teamName": "Eyup", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 14, "teamName": "Rize", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 15, "teamName": "Corum", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 16, "teamName": "Diyarbakir", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 17, "teamName": "Ankara Red", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
-        {"rank": 18, "teamName": "Kocaeli", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0}
-      ]
-    },
+{
+  "leagueName": "Turkiye🇹🇷",
+  "standings": [
+    {"rank": 1, "teamName": "Diyarbakir", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 3, "goalsAgainst": 0, "goalDifference": 3, "points": 3},
+    {"rank": 2, "teamName": "Basaksehir", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 0, "goalDifference": 2, "points": 3},
+    {"rank": 3, "teamName": "Ankara Red", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 1, "goalDifference": 1, "points": 3},
+    {"rank": 4, "teamName": "Istanbul Eagles", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3},
+    {"rank": 5, "teamName": "Rize", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3},
+    {"rank": 6, "teamName": "Istanbul Lions", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1},
+    {"rank": 7, "teamName": "Corum", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1},
+    {"rank": 8, "teamName": "Alanya", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1},
+    {"rank": 9, "teamName": "Gaziantep", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1},
+    {"rank": 10, "teamName": "Kasimpasa", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1},
+    {"rank": 11, "teamName": "Trabzon", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1},
+    {"rank": 12, "teamName": "Goztepe", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
+    {"rank": 13, "teamName": "Samsun", "played": 0, "won": 0, "drawn": 0, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 0},
+    {"rank": 14, "teamName": "Istanbul Yellows", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 2, "goalDifference": -1, "points": 0},
+    {"rank": 15, "teamName": "Eyup", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0},
+    {"rank": 16, "teamName": "Konya", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0},
+    {"rank": 17, "teamName": "Kocaeli", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 2, "goalDifference": -2, "points": 0},
+    {"rank": 18, "teamName": "Erzurum", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 3, "goalDifference": -3, "points": 0}
+  ]
+},
         {
       "leagueName": "France🇫🇷",
       "standings": [
@@ -96,46 +96,50 @@
     {"rank": 20, "teamName": "Chapeco", "played": 21, "won": 1, "drawn": 7, "lost": 13, "goalsFor": 20, "goalsAgainst": 43, "goalDifference": -23, "points": 10}
   ]
 },
+{
+  "leagues": [
     {
       "leagueName": "Argentina A🇦🇷",
       "standings": [
-        {"rank": 1, "teamName": "Buenos Aires West", "played": 4, "won": 3, "drawn": 1, "lost": 0, "goalsFor": 6, "goalsAgainst": 2, "goalDifference": 4, "points": 10},
-        {"rank": 2, "teamName": "Cordoba District", "played": 4, "won": 3, "drawn": 0, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 9},
+        {"rank": 1, "teamName": "Cordoba District", "played": 5, "won": 4, "drawn": 0, "lost": 1, "goalsFor": 5, "goalsAgainst": 2, "goalDifference": 3, "points": 12},
+        {"rank": 2, "teamName": "Buenos Aires West", "played": 4, "won": 3, "drawn": 1, "lost": 0, "goalsFor": 6, "goalsAgainst": 2, "goalDifference": 4, "points": 10},
         {"rank": 3, "teamName": "Varela", "played": 4, "won": 2, "drawn": 1, "lost": 1, "goalsFor": 5, "goalsAgainst": 6, "goalDifference": -1, "points": 7},
-        {"rank": 4, "teamName": "Riestra", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 6},
-        {"rank": 5, "teamName": "Lanus", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 5, "goalsAgainst": 3, "goalDifference": 2, "points": 6},
-        {"rank": 6, "teamName": "Avellaneda City", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 6},
-        {"rank": 7, "teamName": "Mendoza City", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 6},
-        {"rank": 8, "teamName": "Santiago", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 3, "goalsAgainst": 4, "goalDifference": -1, "points": 6},
-        {"rank": 9, "teamName": "Buenos Aires City", "played": 4, "won": 1, "drawn": 2, "lost": 1, "goalsFor": 4, "goalsAgainst": 6, "goalDifference": -2, "points": 5},
-        {"rank": 10, "teamName": "Rosario City", "played": 4, "won": 1, "drawn": 1, "lost": 2, "goalsFor": 4, "goalsAgainst": 5, "goalDifference": -1, "points": 4},
-        {"rank": 11, "teamName": "Santa Fe", "played": 4, "won": 1, "drawn": 1, "lost": 2, "goalsFor": 5, "goalsAgainst": 7, "goalDifference": -2, "points": 4},
-        {"rank": 12, "teamName": "Vicente Lopez", "played": 4, "won": 1, "drawn": 1, "lost": 2, "goalsFor": 4, "goalsAgainst": 8, "goalDifference": -4, "points": 4},
-        {"rank": 13, "teamName": "Cordoba", "played": 4, "won": 1, "drawn": 0, "lost": 3, "goalsFor": 5, "goalsAgainst": 7, "goalDifference": -2, "points": 3},
-        {"rank": 14, "teamName": "La Plata", "played": 4, "won": 1, "drawn": 0, "lost": 3, "goalsFor": 3, "goalsAgainst": 5, "goalDifference": -2, "points": 3},
-        {"rank": 15, "teamName": "Buenos Aires South", "played": 4, "won": 1, "drawn": 0, "lost": 3, "goalsFor": 1, "goalsAgainst": 4, "goalDifference": -3, "points": 3}
+        {"rank": 4, "teamName": "Rosario City", "played": 5, "won": 2, "drawn": 1, "lost": 2, "goalsFor": 6, "goalsAgainst": 5, "goalDifference": 1, "points": 7},
+        {"rank": 5, "teamName": "La Plata", "played": 5, "won": 2, "drawn": 0, "lost": 3, "goalsFor": 7, "goalsAgainst": 5, "goalDifference": 2, "points": 6},
+        {"rank": 6, "teamName": "Lanus", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 5, "goalsAgainst": 3, "goalDifference": 2, "points": 6},
+        {"rank": 7, "teamName": "Riestra", "played": 5, "won": 2, "drawn": 0, "lost": 3, "goalsFor": 6, "goalsAgainst": 5, "goalDifference": 1, "points": 6},
+        {"rank": 8, "teamName": "Avellaneda City", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 6},
+        {"rank": 9, "teamName": "Mendoza City", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 6},
+        {"rank": 10, "teamName": "Santiago", "played": 5, "won": 2, "drawn": 0, "lost": 3, "goalsFor": 3, "goalsAgainst": 5, "goalDifference": -2, "points": 6},
+        {"rank": 11, "teamName": "Buenos Aires City", "played": 5, "won": 1, "drawn": 3, "lost": 1, "goalsFor": 5, "goalsAgainst": 7, "goalDifference": -2, "points": 6},
+        {"rank": 12, "teamName": "Buenos Aires South", "played": 5, "won": 2, "drawn": 0, "lost": 3, "goalsFor": 2, "goalsAgainst": 4, "goalDifference": -2, "points": 6},
+        {"rank": 13, "teamName": "Vicente Lopez", "played": 5, "won": 1, "drawn": 2, "lost": 2, "goalsFor": 5, "goalsAgainst": 9, "goalDifference": -4, "points": 5},
+        {"rank": 14, "teamName": "Santa Fe", "played": 5, "won": 1, "drawn": 1, "lost": 3, "goalsFor": 5, "goalsAgainst": 8, "goalDifference": -3, "points": 4},
+        {"rank": 15, "teamName": "Cordoba", "played": 4, "won": 1, "drawn": 0, "lost": 3, "goalsFor": 5, "goalsAgainst": 7, "goalDifference": -2, "points": 3}
       ]
     },
     {
       "leagueName": "Argentina B🇦🇷",
       "standings": [
-        {"rank": 1, "teamName": "Buenos Aires North", "played": 4, "won": 4, "drawn": 0, "lost": 0, "goalsFor": 9, "goalsAgainst": 3, "goalDifference": 6, "points": 12},
-        {"rank": 2, "teamName": "La Plata City", "played": 4, "won": 3, "drawn": 0, "lost": 1, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 9},
-        {"rank": 3, "teamName": "Barracas", "played": 4, "won": 3, "drawn": 0, "lost": 1, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 9},
-        {"rank": 4, "teamName": "Tigre", "played": 4, "won": 2, "drawn": 1, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 7},
-        {"rank": 5, "teamName": "Cordoba City", "played": 4, "won": 2, "drawn": 1, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 7},
-        {"rank": 6, "teamName": "Buenos Aires District", "played": 4, "won": 2, "drawn": 1, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 7},
-        {"rank": 7, "teamName": "Mendoza", "played": 4, "won": 2, "drawn": 1, "lost": 1, "goalsFor": 5, "goalsAgainst": 4, "goalDifference": 1, "points": 7},
-        {"rank": 8, "teamName": "Rosario", "played": 4, "won": 2, "drawn": 1, "lost": 1, "goalsFor": 4, "goalsAgainst": 3, "goalDifference": 1, "points": 7},
-        {"rank": 9, "teamName": "Junin", "played": 4, "won": 2, "drawn": 0, "lost": 2, "goalsFor": 8, "goalsAgainst": 8, "goalDifference": 0, "points": 6},
-        {"rank": 10, "teamName": "Tucuman", "played": 4, "won": 1, "drawn": 2, "lost": 1, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 5},
-        {"rank": 11, "teamName": "Avellaneda", "played": 4, "won": 1, "drawn": 1, "lost": 2, "goalsFor": 4, "goalsAgainst": 6, "goalDifference": -2, "points": 4},
-        {"rank": 12, "teamName": "Banfield", "played": 4, "won": 1, "drawn": 1, "lost": 2, "goalsFor": 3, "goalsAgainst": 5, "goalDifference": -2, "points": 4},
+        {"rank": 1, "teamName": "Buenos Aires North", "played": 5, "won": 4, "drawn": 0, "lost": 1, "goalsFor": 9, "goalsAgainst": 5, "goalDifference": 4, "points": 12},
+        {"rank": 2, "teamName": "Cordoba City", "played": 5, "won": 3, "drawn": 1, "lost": 1, "goalsFor": 6, "goalsAgainst": 2, "goalDifference": 4, "points": 10},
+        {"rank": 3, "teamName": "Rosario", "played": 5, "won": 3, "drawn": 1, "lost": 1, "goalsFor": 5, "goalsAgainst": 3, "goalDifference": 2, "points": 10},
+        {"rank": 4, "teamName": "Barracas", "played": 5, "won": 3, "drawn": 0, "lost": 2, "goalsFor": 3, "goalsAgainst": 3, "goalDifference": 0, "points": 9},
+        {"rank": 5, "teamName": "Junin", "played": 5, "won": 3, "drawn": 0, "lost": 2, "goalsFor": 10, "goalsAgainst": 8, "goalDifference": 2, "points": 9},
+        {"rank": 6, "teamName": "La Plata City", "played": 5, "won": 3, "drawn": 0, "lost": 2, "goalsFor": 6, "goalsAgainst": 7, "goalDifference": -1, "points": 9},
+        {"rank": 7, "teamName": "Tigre", "played": 5, "won": 2, "drawn": 2, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 8},
+        {"rank": 8, "teamName": "Banfield", "played": 5, "won": 2, "drawn": 1, "lost": 2, "goalsFor": 4, "goalsAgainst": 5, "goalDifference": -1, "points": 7},
+        {"rank": 9, "teamName": "Buenos Aires District", "played": 5, "won": 2, "drawn": 1, "lost": 2, "goalsFor": 4, "goalsAgainst": 4, "goalDifference": 0, "points": 7},
+        {"rank": 10, "teamName": "Mendoza", "played": 5, "won": 2, "drawn": 1, "lost": 2, "goalsFor": 5, "goalsAgainst": 6, "goalDifference": -1, "points": 7},
+        {"rank": 11, "teamName": "Tucuman", "played": 4, "won": 1, "drawn": 2, "lost": 1, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 5},
+        {"rank": 12, "teamName": "Avellaneda", "played": 5, "won": 1, "drawn": 1, "lost": 3, "goalsFor": 4, "goalsAgainst": 7, "goalDifference": -3, "points": 4},
         {"rank": 13, "teamName": "Rio Cuarto", "played": 4, "won": 1, "drawn": 1, "lost": 2, "goalsFor": 2, "goalsAgainst": 5, "goalDifference": -3, "points": 4},
-        {"rank": 14, "teamName": "Mar del Plata", "played": 4, "won": 0, "drawn": 1, "lost": 3, "goalsFor": 3, "goalsAgainst": 6, "goalDifference": -3, "points": 1},
-        {"rank": 15, "teamName": "Buenos Aires", "played": 4, "won": 0, "drawn": 0, "lost": 4, "goalsFor": 0, "goalsAgainst": 4, "goalDifference": -4, "points": 0}
+        {"rank": 14, "teamName": "Buenos Aires", "played": 5, "won": 1, "drawn": 0, "lost": 4, "goalsFor": 2, "goalsAgainst": 4, "goalDifference": -2, "points": 3},
+        {"rank": 15, "teamName": "Mar del Plata", "played": 5, "won": 0, "drawn": 2, "lost": 3, "goalsFor": 3, "goalsAgainst": 6, "goalDifference": -3, "points": 2}
       ]
-    },
+    }
+  ]
+},
         {
       "leagueName": "Portugal🇵🇹",
       "standings": [
@@ -235,24 +239,24 @@
 {
   "leagueName": "Netherland🇳🇱",
   "standings": [
-    {"rank": 1, "teamName": "Rotterdam District", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 0, "goalDifference": 4, "points": 3},
-    {"rank": 2, "teamName": "Deventer", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 1, "goalDifference": 3, "points": 3},
-    {"rank": 3, "teamName": "Amsterdam", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 0, "goalDifference": 2, "points": 3},
-    {"rank": 4, "teamName": "Alkmaar", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 0, "goalDifference": 2, "points": 3},
-    {"rank": 5, "teamName": "Velsen", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 1, "goalDifference": 1, "points": 3},
-    {"rank": 6, "teamName": "Groningen", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 2, "goalsAgainst": 1, "goalDifference": 1, "points": 3},
-    {"rank": 7, "teamName": "Heerenveen", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3},
-    {"rank": 8, "teamName": "Rotterdam", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3},
-    {"rank": 9, "teamName": "Sittard", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1},
-    {"rank": 10, "teamName": "Eindhoven", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1},
-    {"rank": 11, "teamName": "Nijmegen", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 2, "goalDifference": -1, "points": 0},
-    {"rank": 12, "teamName": "Utrecht", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 2, "goalDifference": -1, "points": 0},
-    {"rank": 13, "teamName": "Enschede", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0},
-    {"rank": 14, "teamName": "Rotterdam City", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0},
-    {"rank": 15, "teamName": "Zwolle", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 2, "goalDifference": -2, "points": 0},
-    {"rank": 16, "teamName": "Den Haag", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 2, "goalDifference": -2, "points": 0},
-    {"rank": 17, "teamName": "Tilburg", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 4, "goalDifference": -3, "points": 0},
-    {"rank": 18, "teamName": "Leeuwarden", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 4, "goalDifference": -4, "points": 0}
+    {"rank": 1, "teamName": "Alkmaar", "played": 2, "won": 2, "drawn": 0, "lost": 0, "goalsFor": 6, "goalsAgainst": 1, "goalDifference": 5, "points": 6},
+    {"rank": 2, "teamName": "Groningen", "played": 2, "won": 2, "drawn": 0, "lost": 0, "goalsFor": 6, "goalsAgainst": 2, "goalDifference": 4, "points": 6},
+    {"rank": 3, "teamName": "Deventer", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 4},
+    {"rank": 4, "teamName": "Sittard", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 5, "goalsAgainst": 3, "goalDifference": 2, "points": 4},
+    {"rank": 5, "teamName": "Amsterdam", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 4},
+    {"rank": 6, "teamName": "Eindhoven", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 4, "goalsAgainst": 3, "goalDifference": 1, "points": 4},
+    {"rank": 7, "teamName": "Heerenveen", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 4},
+    {"rank": 8, "teamName": "Rotterdam", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 4},
+    {"rank": 9, "teamName": "Rotterdam District", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 5, "goalsAgainst": 2, "goalDifference": 3, "points": 3},
+    {"rank": 10, "teamName": "Nijmegen", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 5, "goalsAgainst": 3, "goalDifference": 2, "points": 3},
+    {"rank": 11, "teamName": "Enschede", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 3},
+    {"rank": 12, "teamName": "Rotterdam City", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 3, "goalsAgainst": 2, "goalDifference": 1, "points": 3},
+    {"rank": 13, "teamName": "Velsen", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 3, "goalsAgainst": 4, "goalDifference": -1, "points": 3},
+    {"rank": 14, "teamName": "Utrecht", "played": 2, "won": 0, "drawn": 0, "lost": 2, "goalsFor": 2, "goalsAgainst": 6, "goalDifference": -4, "points": 0},
+    {"rank": 15, "teamName": "Zwolle", "played": 2, "won": 0, "drawn": 0, "lost": 2, "goalsFor": 1, "goalsAgainst": 5, "goalDifference": -4, "points": 0},
+    {"rank": 16, "teamName": "Den Haag", "played": 2, "won": 0, "drawn": 0, "lost": 2, "goalsFor": 1, "goalsAgainst": 6, "goalDifference": -5, "points": 0},
+    {"rank": 17, "teamName": "Tilburg", "played": 2, "won": 0, "drawn": 0, "lost": 2, "goalsFor": 2, "goalsAgainst": 8, "goalDifference": -6, "points": 0},
+    {"rank": 18, "teamName": "Leeuwarden", "played": 2, "won": 0, "drawn": 0, "lost": 2, "goalsFor": 1, "goalsAgainst": 7, "goalDifference": -6, "points": 0}
   ]
 }
   ]

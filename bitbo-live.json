@@ -31,9 +31,9 @@
     "awayTeam": "Rennes",
     "awayFlag": "✈️",
     "timestamp": 1787510700,
-    "homeScore": 0,
-    "awayScore": 0,
-    "isFinished": false
+    "homeScore": 2,
+    "awayScore": 2,
+    "isFinished": true
   },
           {
     "id": 3,
@@ -42,9 +42,9 @@
     "awayTeam": "Florence",
     "awayFlag": "✈️",
     "timestamp": 1787597100,
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0,
-    "isFinished": false
+    "isFinished": true
   },
           {
     "id": 4,

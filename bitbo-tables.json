@@ -99,41 +99,41 @@
 {
       "leagueName": "Argentina A🇦🇷",
       "standings": [
-        {"rank": 1, "teamName": "Cordoba District", "played": 6, "won": 4, "drawn": 1, "lost": 1, "goalsFor": 5, "goalsAgainst": 2, "goalDifference": 3, "points": 13}, // Instituto AC Córdoba
-        {"rank": 2, "teamName": "Mendoza City", "played": 6, "won": 4, "drawn": 0, "lost": 2, "goalsFor": 9, "goalsAgainst": 5, "goalDifference": 4, "points": 12}, // Gimnasia y Esgrima de Mendoza
-        {"rank": 3, "teamName": "Buenos Aires West", "played": 6, "won": 3, "drawn": 3, "lost": 0, "goalsFor": 9, "goalsAgainst": 5, "goalDifference": 4, "points": 12}, // Vélez Sarsfield
-        {"rank": 4, "teamName": "Varela", "played": 6, "won": 3, "drawn": 2, "lost": 1, "goalsFor": 8, "goalsAgainst": 8, "goalDifference": 0, "points": 11}, // Defensa y Justicia
-        {"rank": 5, "teamName": "Avellaneda City", "played": 6, "won": 3, "drawn": 1, "lost": 2, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 10}, // CA Independiente
-        {"rank": 6, "teamName": "Rosario City", "played": 6, "won": 3, "drawn": 1, "lost": 2, "goalsFor": 8, "goalsAgainst": 6, "goalDifference": 2, "points": 10}, // Newell's Old Boys
-        {"rank": 7, "teamName": "Vicente Lopez", "played": 6, "won": 2, "drawn": 2, "lost": 2, "goalsFor": 7, "goalsAgainst": 10, "goalDifference": -3, "points": 8}, // CA Platense
-        {"rank": 8, "teamName": "Riestra", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 6, "goalsAgainst": 5, "goalDifference": 1, "points": 7}, // Deportivo Riestra
-        {"rank": 9, "teamName": "Lanus", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 7, "goalsAgainst": 7, "goalDifference": 0, "points": 7}, // Club Atlético Lanús
-        {"rank": 10, "teamName": "Santa Fe", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 8, "goalsAgainst": 9, "goalDifference": -1, "points": 7}, // Unión de Santa Fe
-        {"rank": 11, "teamName": "Buenos Aires City", "played": 6, "won": 1, "drawn": 4, "lost": 1, "goalsFor": 6, "goalsAgainst": 8, "goalDifference": -2, "points": 7}, // Boca Juniors
-        {"rank": 12, "teamName": "Buenos Aires South", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 2, "goalsAgainst": 4, "goalDifference": -2, "points": 7}, // San Lorenzo de Almagro
-        {"rank": 13, "teamName": "La Plata", "played": 6, "won": 2, "drawn": 0, "lost": 4, "goalsFor": 7, "goalsAgainst": 7, "goalDifference": 0, "points": 6}, // Estudiantes de La Plata
-        {"rank": 14, "teamName": "Santiago", "played": 6, "won": 2, "drawn": 0, "lost": 4, "goalsFor": 4, "goalsAgainst": 7, "goalDifference": -3, "points": 6}, // Central Córdoba
-        {"rank": 15, "teamName": "Cordoba", "played": 6, "won": 1, "drawn": 1, "lost": 4, "goalsFor": 8, "goalsAgainst": 12, "goalDifference": -4, "points": 4} // CA Talleres
+        {"rank": 1, "teamName": "Cordoba District", "played": 6, "won": 4, "drawn": 1, "lost": 1, "goalsFor": 5, "goalsAgainst": 2, "goalDifference": 3, "points": 13},
+        {"rank": 2, "teamName": "Mendoza City", "played": 6, "won": 4, "drawn": 0, "lost": 2, "goalsFor": 9, "goalsAgainst": 5, "goalDifference": 4, "points": 12},
+        {"rank": 3, "teamName": "Buenos Aires West", "played": 6, "won": 3, "drawn": 3, "lost": 0, "goalsFor": 9, "goalsAgainst": 5, "goalDifference": 4, "points": 12},
+        {"rank": 4, "teamName": "Varela", "played": 6, "won": 3, "drawn": 2, "lost": 1, "goalsFor": 8, "goalsAgainst": 8, "goalDifference": 0, "points": 11},
+        {"rank": 5, "teamName": "Avellaneda City", "played": 6, "won": 3, "drawn": 1, "lost": 2, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 10},
+        {"rank": 6, "teamName": "Rosario City", "played": 6, "won": 3, "drawn": 1, "lost": 2, "goalsFor": 8, "goalsAgainst": 6, "goalDifference": 2, "points": 10},
+        {"rank": 7, "teamName": "Vicente Lopez", "played": 6, "won": 2, "drawn": 2, "lost": 2, "goalsFor": 7, "goalsAgainst": 10, "goalDifference": -3, "points": 8},
+        {"rank": 8, "teamName": "Riestra", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 6, "goalsAgainst": 5, "goalDifference": 1, "points": 7},
+        {"rank": 9, "teamName": "Lanus", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 7, "goalsAgainst": 7, "goalDifference": 0, "points": 7},
+        {"rank": 10, "teamName": "Santa Fe", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 8, "goalsAgainst": 9, "goalDifference": -1, "points": 7},
+        {"rank": 11, "teamName": "Buenos Aires City", "played": 6, "won": 1, "drawn": 4, "lost": 1, "goalsFor": 6, "goalsAgainst": 8, "goalDifference": -2, "points": 7},
+        {"rank": 12, "teamName": "Buenos Aires South", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 2, "goalsAgainst": 4, "goalDifference": -2, "points": 7},
+        {"rank": 13, "teamName": "La Plata", "played": 6, "won": 2, "drawn": 0, "lost": 4, "goalsFor": 7, "goalsAgainst": 7, "goalDifference": 0, "points": 6},
+        {"rank": 14, "teamName": "Santiago", "played": 6, "won": 2, "drawn": 0, "lost": 4, "goalsFor": 4, "goalsAgainst": 7, "goalDifference": -3, "points": 6},
+        {"rank": 15, "teamName": "Cordoba", "played": 6, "won": 1, "drawn": 1, "lost": 4, "goalsFor": 8, "goalsAgainst": 12, "goalDifference": -4, "points": 4}
       ]
     },
     {
       "leagueName": "Argentina B🇦🇷",
       "standings": [
-        {"rank": 1, "teamName": "Buenos Aires North", "played": 6, "won": 4, "drawn": 1, "lost": 1, "goalsFor": 10, "goalsAgainst": 6, "goalDifference": 4, "points": 13}, // Argentinos Juniors
-        {"rank": 2, "teamName": "Junin", "played": 6, "won": 4, "drawn": 0, "lost": 2, "goalsFor": 12, "goalsAgainst": 8, "goalDifference": 4, "points": 12}, // CA Sarmiento
-        {"rank": 3, "teamName": "Tigre", "played": 6, "won": 3, "drawn": 2, "lost": 1, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 11}, // CA Tigre
-        {"rank": 4, "teamName": "Rosario", "played": 6, "won": 3, "drawn": 2, "lost": 1, "goalsFor": 7, "goalsAgainst": 5, "goalDifference": 2, "points": 11}, // Rosario Central
-        {"rank": 5, "teamName": "Cordoba City", "played": 6, "won": 3, "drawn": 1, "lost": 2, "goalsFor": 7, "goalsAgainst": 4, "goalDifference": 3, "points": 10}, // CA Belgrano
-        {"rank": 6, "teamName": "Tucuman", "played": 6, "won": 2, "drawn": 3, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 9}, // Atlético Tucumán
-        {"rank": 7, "teamName": "Barracas", "played": 6, "won": 3, "drawn": 0, "lost": 3, "goalsFor": 4, "goalsAgainst": 5, "goalDifference": -1, "points": 9}, // Barracas Central
-        {"rank": 8, "teamName": "La Plata City", "played": 6, "won": 3, "drawn": 0, "lost": 3, "goalsFor": 8, "goalsAgainst": 10, "goalDifference": -2, "points": 9}, // Gimnasia y Esgrima La Plata
-        {"rank": 9, "teamName": "Buenos Aires District", "played": 6, "won": 2, "drawn": 2, "lost": 2, "goalsFor": 4, "goalsAgainst": 4, "goalDifference": 0, "points": 8}, // CA Huracán
-        {"rank": 10, "teamName": "Mendoza", "played": 6, "won": 2, "drawn": 2, "lost": 2, "goalsFor": 5, "goalsAgainst": 6, "goalDifference": -1, "points": 8}, // Independiente Rivadavia
-        {"rank": 11, "teamName": "Banfield", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 5, "goalsAgainst": 7, "goalDifference": -2, "points": 7}, // CA Banfield
-        {"rank": 12, "teamName": "Avellaneda", "played": 6, "won": 1, "drawn": 2, "lost": 3, "goalsFor": 5, "goalsAgainst": 8, "goalDifference": -3, "points": 5}, // Racing Club
-        {"rank": 13, "teamName": "Rio Cuarto", "played": 6, "won": 1, "drawn": 2, "lost": 3, "goalsFor": 2, "goalsAgainst": 6, "goalDifference": -4, "points": 5}, // Estudiantes de Río Cuarto
-        {"rank": 14, "teamName": "Buenos Aires", "played": 6, "won": 1, "drawn": 1, "lost": 4, "goalsFor": 4, "goalsAgainst": 6, "goalDifference": -2, "points": 4}, // Club Atlético River Plate
-        {"rank": 15, "teamName": "Mar del Plata", "played": 6, "won": 0, "drawn": 2, "lost": 4, "goalsFor": 4, "goalsAgainst": 9, "goalDifference": -5, "points": 2} // Aldosivi
+        {"rank": 1, "teamName": "Buenos Aires North", "played": 6, "won": 4, "drawn": 1, "lost": 1, "goalsFor": 10, "goalsAgainst": 6, "goalDifference": 4, "points": 13},
+        {"rank": 2, "teamName": "Junin", "played": 6, "won": 4, "drawn": 0, "lost": 2, "goalsFor": 12, "goalsAgainst": 8, "goalDifference": 4, "points": 12},
+        {"rank": 3, "teamName": "Tigre", "played": 6, "won": 3, "drawn": 2, "lost": 1, "goalsFor": 6, "goalsAgainst": 3, "goalDifference": 3, "points": 11},
+        {"rank": 4, "teamName": "Rosario", "played": 6, "won": 3, "drawn": 2, "lost": 1, "goalsFor": 7, "goalsAgainst": 5, "goalDifference": 2, "points": 11},
+        {"rank": 5, "teamName": "Cordoba City", "played": 6, "won": 3, "drawn": 1, "lost": 2, "goalsFor": 7, "goalsAgainst": 4, "goalDifference": 3, "points": 10},
+        {"rank": 6, "teamName": "Tucuman", "played": 6, "won": 2, "drawn": 3, "lost": 1, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 9},
+        {"rank": 7, "teamName": "Barracas", "played": 6, "won": 3, "drawn": 0, "lost": 3, "goalsFor": 4, "goalsAgainst": 5, "goalDifference": -1, "points": 9},
+        {"rank": 8, "teamName": "La Plata City", "played": 6, "won": 3, "drawn": 0, "lost": 3, "goalsFor": 8, "goalsAgainst": 10, "goalDifference": -2, "points": 9},
+        {"rank": 9, "teamName": "Buenos Aires District", "played": 6, "won": 2, "drawn": 2, "lost": 2, "goalsFor": 4, "goalsAgainst": 4, "goalDifference": 0, "points": 8},
+        {"rank": 10, "teamName": "Mendoza", "played": 6, "won": 2, "drawn": 2, "lost": 2, "goalsFor": 5, "goalsAgainst": 6, "goalDifference": -1, "points": 8},
+        {"rank": 11, "teamName": "Banfield", "played": 6, "won": 2, "drawn": 1, "lost": 3, "goalsFor": 5, "goalsAgainst": 7, "goalDifference": -2, "points": 7},
+        {"rank": 12, "teamName": "Avellaneda", "played": 6, "won": 1, "drawn": 2, "lost": 3, "goalsFor": 5, "goalsAgainst": 8, "goalDifference": -3, "points": 5},
+        {"rank": 13, "teamName": "Rio Cuarto", "played": 6, "won": 1, "drawn": 2, "lost": 3, "goalsFor": 2, "goalsAgainst": 6, "goalDifference": -4, "points": 5},
+        {"rank": 14, "teamName": "Buenos Aires", "played": 6, "won": 1, "drawn": 1, "lost": 4, "goalsFor": 4, "goalsAgainst": 6, "goalDifference": -2, "points": 4},
+        {"rank": 15, "teamName": "Mar del Plata", "played": 6, "won": 0, "drawn": 2, "lost": 4, "goalsFor": 4, "goalsAgainst": 9, "goalDifference": -5, "points": 2}
       ]
     },
 {

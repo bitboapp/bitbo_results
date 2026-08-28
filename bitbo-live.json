@@ -119,9 +119,9 @@
       "awayTeam": "Erzurum",
       "awayFlag": "✈️",
       "timestamp": 1787941800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 11,
@@ -130,9 +130,9 @@
       "awayTeam": "Stuttgart",
       "awayFlag": "✈️",
       "timestamp": 1787941800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 5,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 12,
@@ -141,31 +141,31 @@
       "awayTeam": "Venedig",
       "awayFlag": "✈️",
       "timestamp": 1787942700,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 13,
-      "homeFlag": "🏠",
-      "homeTeam": "Lille",
-      "awayTeam": "Paris",
-      "awayFlag": "✈️",
-      "timestamp": 1787942700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
-    },
-    {
-      "id": 14,
       "homeFlag": "🏠",
       "homeTeam": "South London Eagles",
       "awayTeam": "Manchester Blue",
       "awayFlag": "✈️",
       "timestamp": 1787943600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 4,
+      "isFinished": true
+    },
+    {
+      "id": 14,
+      "homeFlag": "🏠",
+      "homeTeam": "Lille",
+      "awayTeam": "Paris",
+      "awayFlag": "✈️",
+      "timestamp": 1787943600,
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 15,
@@ -175,8 +175,8 @@
       "awayFlag": "✈️",
       "timestamp": 1787944500,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 16,
@@ -185,7 +185,7 @@
       "awayTeam": "Junin",
       "awayFlag": "✈️",
       "timestamp": 1787954400,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },

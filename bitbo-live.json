@@ -185,9 +185,9 @@
       "awayTeam": "Junin",
       "awayFlag": "✈️",
       "timestamp": 1787954400,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 17,
@@ -196,9 +196,9 @@
       "awayTeam": "Nottingham Red",
       "awayFlag": "✈️",
       "timestamp": 1788003000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 18,
@@ -207,9 +207,9 @@
       "awayTeam": "Leverkusen",
       "awayFlag": "✈️",
       "timestamp": 1788010200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 19,
@@ -218,7 +218,7 @@
       "awayTeam": "Hamburg",
       "awayFlag": "✈️",
       "timestamp": 1788021000,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },
@@ -230,7 +230,7 @@
       "awayFlag": "✈️",
       "timestamp": 1788022800,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "isFinished": false
     },
     {

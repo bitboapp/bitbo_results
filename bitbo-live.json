@@ -220,7 +220,7 @@
       "timestamp": 1788021000,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 20,
@@ -230,8 +230,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788022800,
       "homeScore": 0,
-      "awayScore": 2,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 21,
@@ -240,9 +240,9 @@
       "awayTeam": "Buenos Aires West",
       "awayFlag": "✈️",
       "timestamp": 1788025500,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 22,
@@ -251,9 +251,9 @@
       "awayTeam": "Goztepe",
       "awayFlag": "✈️",
       "timestamp": 1788028200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 23,
@@ -262,9 +262,9 @@
       "awayTeam": "Parma",
       "awayFlag": "✈️",
       "timestamp": 1788029100,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 24,
@@ -273,9 +273,9 @@
       "awayTeam": "Madrid Red White",
       "awayFlag": "✈️",
       "timestamp": 1788031800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 25,

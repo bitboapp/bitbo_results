@@ -740,6 +740,18 @@
                 },
                 {
                     "rank": 5,
+                    "teamName": "Bergamo",
+                    "played": 2,
+                    "won": 2,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 3,
+                    "goalsAgainst": 1,
+                    "goalDifference": 2,
+                    "points": 6
+                },
+                {
+                    "rank": 6,
                     "teamName": "Rome Sky Blue",
                     "played": 2,
                     "won": 2,
@@ -751,7 +763,7 @@
                     "points": 6
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
                     "teamName": "Udine",
                     "played": 2,
                     "won": 1,
@@ -763,7 +775,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "teamName": "Como",
                     "played": 2,
                     "won": 1,
@@ -771,18 +783,6 @@
                     "lost": 0,
                     "goalsFor": 3,
                     "goalsAgainst": 2,
-                    "goalDifference": 1,
-                    "points": 4
-                },
-                {
-                    "rank": 8,
-                    "teamName": "Bergamo",
-                    "played": 2,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 2,
-                    "goalsAgainst": 1,
                     "goalDifference": 1,
                     "points": 4
                 },
@@ -848,18 +848,6 @@
                 },
                 {
                     "rank": 14,
-                    "teamName": "Bologna",
-                    "played": 2,
-                    "won": 0,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 0,
-                    "goalsAgainst": 1,
-                    "goalDifference": -1,
-                    "points": 1
-                },
-                {
-                    "rank": 15,
                     "teamName": "Torino",
                     "played": 2,
                     "won": 0,
@@ -867,6 +855,18 @@
                     "lost": 2,
                     "goalsFor": 2,
                     "goalsAgainst": 4,
+                    "goalDifference": -2,
+                    "points": 0
+                },
+                {
+                    "rank": 15,
+                    "teamName": "Bologna",
+                    "played": 2,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 2,
+                    "goalsFor": 0,
+                    "goalsAgainst": 2,
                     "goalDifference": -2,
                     "points": 0
                 },
@@ -1631,7 +1631,7 @@
                 },
                 {
                     "rank": 28,
-                    "teamName": "Sabah FK",
+                    "teamName": "Sabah",
                     "played": 0,
                     "won": 0,
                     "drawn": 0,
@@ -2385,7 +2385,7 @@
                 },
                 {
                     "rank": 18,
-                    "teamName": "Getafe",
+                    "teamName": "Madrid South Blue",
                     "played": 0,
                     "won": 0,
                     "drawn": 0,
@@ -2834,7 +2834,7 @@
                 },
                 {
                     "rank": 19,
-                    "teamName": "North London White",
+                    "teamName": "Birmingham Blue",
                     "played": 2,
                     "won": 0,
                     "drawn": 0,
@@ -2846,7 +2846,7 @@
                 },
                 {
                     "rank": 20,
-                    "teamName": "Birmingham Blue",
+                    "teamName": "North London White",
                     "played": 2,
                     "won": 0,
                     "drawn": 0,
@@ -2863,6 +2863,18 @@
             "standings": [
                 {
                     "rank": 1,
+                    "teamName": "Catalonia Blue Red",
+                    "played": 3,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 11,
+                    "goalsAgainst": 2,
+                    "goalDifference": 9,
+                    "points": 9
+                },
+                {
+                    "rank": 2,
                     "teamName": "Madrid White",
                     "played": 3,
                     "won": 3,
@@ -2870,18 +2882,6 @@
                     "lost": 0,
                     "goalsFor": 10,
                     "goalsAgainst": 2,
-                    "goalDifference": 8,
-                    "points": 9
-                },
-                {
-                    "rank": 2,
-                    "teamName": "Catalonia Blue Red",
-                    "played": 3,
-                    "won": 3,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 9,
-                    "goalsAgainst": 1,
                     "goalDifference": 8,
                     "points": 9
                 },
@@ -3048,9 +3048,9 @@
                     "won": 0,
                     "drawn": 1,
                     "lost": 2,
-                    "goalsFor": 3,
-                    "goalsAgainst": 5,
-                    "goalDifference": -2,
+                    "goalsFor": 4,
+                    "goalsAgainst": 7,
+                    "goalDifference": -3,
                     "points": 1
                 },
                 {
@@ -3604,8 +3604,8 @@
                     "drawn": 1,
                     "lost": 0,
                     "goalsFor": 11,
-                    "goalsAgainst": 2,
-                    "goalDifference": 9,
+                    "goalsAgainst": 3,
+                    "goalDifference": 8,
                     "points": 7
                 },
                 {
@@ -3646,6 +3646,18 @@
                 },
                 {
                     "rank": 9,
+                    "teamName": "Braga",
+                    "played": 2,
+                    "won": 1,
+                    "drawn": 1,
+                    "lost": 0,
+                    "goalsFor": 3,
+                    "goalsAgainst": 2,
+                    "goalDifference": 1,
+                    "points": 4
+                },
+                {
+                    "rank": 10,
                     "teamName": "Nacional",
                     "played": 4,
                     "won": 1,
@@ -3654,18 +3666,6 @@
                     "goalsFor": 6,
                     "goalsAgainst": 6,
                     "goalDifference": 0,
-                    "points": 4
-                },
-                {
-                    "rank": 10,
-                    "teamName": "Guimaraes",
-                    "played": 4,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 3,
-                    "goalsAgainst": 4,
-                    "goalDifference": -1,
                     "points": 4
                 },
                 {
@@ -3682,6 +3682,18 @@
                 },
                 {
                     "rank": 12,
+                    "teamName": "Guimaraes",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 3,
+                    "goalsFor": 3,
+                    "goalsAgainst": 5,
+                    "goalDifference": -2,
+                    "points": 3
+                },
+                {
+                    "rank": 13,
                     "teamName": "Vila do Conde",
                     "played": 4,
                     "won": 1,
@@ -3691,18 +3703,6 @@
                     "goalsAgainst": 7,
                     "goalDifference": -5,
                     "points": 3
-                },
-                {
-                    "rank": 13,
-                    "teamName": "Braga",
-                    "played": 2,
-                    "won": 0,
-                    "drawn": 2,
-                    "lost": 0,
-                    "goalsFor": 2,
-                    "goalsAgainst": 2,
-                    "goalDifference": 0,
-                    "points": 2
                 },
                 {
                     "rank": 14,
@@ -3747,9 +3747,9 @@
                     "won": 0,
                     "drawn": 1,
                     "lost": 3,
-                    "goalsFor": 1,
+                    "goalsFor": 2,
                     "goalsAgainst": 7,
-                    "goalDifference": -6,
+                    "goalDifference": -5,
                     "points": 1
                 },
                 {

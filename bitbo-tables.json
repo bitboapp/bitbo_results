@@ -896,7 +896,7 @@
                 },
                 {
                     "rank": 16,
-                    "teamName": "Parma",
+                    "teamName": "Genoa",
                     "played": 2,
                     "won": 0,
                     "drawn": 0,
@@ -908,7 +908,7 @@
                 },
                 {
                     "rank": 17,
-                    "teamName": "Genoa",
+                    "teamName": "Parma",
                     "played": 2,
                     "won": 0,
                     "drawn": 0,
@@ -1846,14 +1846,14 @@
                 {
                     "rank": 1,
                     "teamName": "Sao Paulo",
-                    "played": 24,
+                    "played": 25,
                     "won": 15,
-                    "drawn": 6,
+                    "drawn": 7,
                     "lost": 3,
-                    "goalsFor": 44,
-                    "goalsAgainst": 20,
+                    "goalsFor": 45,
+                    "goalsAgainst": 21,
                     "goalDifference": 24,
-                    "points": 51
+                    "points": 52
                 },
                 {
                     "rank": 2,
@@ -1862,9 +1862,9 @@
                     "won": 14,
                     "drawn": 6,
                     "lost": 4,
-                    "goalsFor": 46,
+                    "goalsFor": 48,
                     "goalsAgainst": 21,
-                    "goalDifference": 25,
+                    "goalDifference": 27,
                     "points": 48
                 },
                 {
@@ -1893,6 +1893,18 @@
                 },
                 {
                     "rank": 5,
+                    "teamName": "Salvador",
+                    "played": 25,
+                    "won": 10,
+                    "drawn": 10,
+                    "lost": 5,
+                    "goalsFor": 37,
+                    "goalsAgainst": 30,
+                    "goalDifference": 7,
+                    "points": 40
+                },
+                {
+                    "rank": 6,
                     "teamName": "Belo Horizonte City",
                     "played": 25,
                     "won": 11,
@@ -1902,18 +1914,6 @@
                     "goalsAgainst": 36,
                     "goalDifference": -1,
                     "points": 39
-                },
-                {
-                    "rank": 6,
-                    "teamName": "Salvador",
-                    "played": 24,
-                    "won": 9,
-                    "drawn": 10,
-                    "lost": 5,
-                    "goalsFor": 34,
-                    "goalsAgainst": 28,
-                    "goalDifference": 6,
-                    "points": 37
                 },
                 {
                     "rank": 7,
@@ -1983,8 +1983,8 @@
                     "drawn": 6,
                     "lost": 10,
                     "goalsFor": 37,
-                    "goalsAgainst": 38,
-                    "goalDifference": -1,
+                    "goalsAgainst": 40,
+                    "goalDifference": -3,
                     "points": 30
                 },
                 {
@@ -2014,17 +2014,29 @@
                 {
                     "rank": 15,
                     "teamName": "Porto Alegre City",
-                    "played": 23,
-                    "won": 6,
+                    "played": 24,
+                    "won": 7,
                     "drawn": 7,
                     "lost": 10,
-                    "goalsFor": 24,
-                    "goalsAgainst": 31,
-                    "goalDifference": -7,
-                    "points": 25
+                    "goalsFor": 27,
+                    "goalsAgainst": 32,
+                    "goalDifference": -5,
+                    "points": 28
                 },
                 {
                     "rank": 16,
+                    "teamName": "Mirassol",
+                    "played": 24,
+                    "won": 6,
+                    "drawn": 7,
+                    "lost": 11,
+                    "goalsFor": 27,
+                    "goalsAgainst": 37,
+                    "goalDifference": -10,
+                    "points": 25
+                },
+                {
+                    "rank": 17,
                     "teamName": "Rio Metro",
                     "played": 24,
                     "won": 6,
@@ -2036,28 +2048,16 @@
                     "points": 25
                 },
                 {
-                    "rank": 17,
+                    "rank": 18,
                     "teamName": "Porto Alegre",
-                    "played": 24,
+                    "played": 25,
                     "won": 5,
                     "drawn": 10,
-                    "lost": 9,
-                    "goalsFor": 24,
-                    "goalsAgainst": 28,
-                    "goalDifference": -4,
-                    "points": 25
-                },
-                {
-                    "rank": 18,
-                    "teamName": "Mirassol",
-                    "played": 23,
-                    "won": 6,
-                    "drawn": 6,
-                    "lost": 11,
+                    "lost": 10,
                     "goalsFor": 26,
-                    "goalsAgainst": 36,
-                    "goalDifference": -10,
-                    "points": 24
+                    "goalsAgainst": 31,
+                    "goalDifference": -5,
+                    "points": 25
                 },
                 {
                     "rank": 19,
@@ -2074,13 +2074,13 @@
                 {
                     "rank": 20,
                     "teamName": "Chapego",
-                    "played": 23,
+                    "played": 24,
                     "won": 2,
                     "drawn": 8,
-                    "lost": 13,
-                    "goalsFor": 24,
-                    "goalsAgainst": 46,
-                    "goalDifference": -22,
+                    "lost": 14,
+                    "goalsFor": 25,
+                    "goalsAgainst": 49,
+                    "goalDifference": -24,
                     "points": 14
                 }
             ]
@@ -2090,6 +2090,18 @@
             "standings": [
                 {
                     "rank": 1,
+                    "teamName": "Mendoza City",
+                    "played": 7,
+                    "won": 5,
+                    "drawn": 0,
+                    "lost": 2,
+                    "goalsFor": 12,
+                    "goalsAgainst": 5,
+                    "goalDifference": 7,
+                    "points": 15
+                },
+                {
+                    "rank": 2,
                     "teamName": "Buenos Aires West",
                     "played": 7,
                     "won": 3,
@@ -2101,7 +2113,7 @@
                     "points": 13
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
                     "teamName": "Cordoba District",
                     "played": 6,
                     "won": 4,
@@ -2111,18 +2123,6 @@
                     "goalsAgainst": 2,
                     "goalDifference": 3,
                     "points": 13
-                },
-                {
-                    "rank": 3,
-                    "teamName": "Mendoza City",
-                    "played": 6,
-                    "won": 4,
-                    "drawn": 0,
-                    "lost": 2,
-                    "goalsFor": 9,
-                    "goalsAgainst": 5,
-                    "goalDifference": 4,
-                    "points": 12
                 },
                 {
                     "rank": 4,
@@ -2138,18 +2138,6 @@
                 },
                 {
                     "rank": 5,
-                    "teamName": "Avellaneda City",
-                    "played": 6,
-                    "won": 3,
-                    "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 6,
-                    "goalsAgainst": 3,
-                    "goalDifference": 3,
-                    "points": 10
-                },
-                {
-                    "rank": 6,
                     "teamName": "Santa Fe",
                     "played": 7,
                     "won": 3,
@@ -2161,7 +2149,7 @@
                     "points": 10
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "teamName": "Rosario City",
                     "played": 6,
                     "won": 3,
@@ -2170,6 +2158,18 @@
                     "goalsFor": 8,
                     "goalsAgainst": 6,
                     "goalDifference": 2,
+                    "points": 10
+                },
+                {
+                    "rank": 7,
+                    "teamName": "Avellaneda City",
+                    "played": 7,
+                    "won": 3,
+                    "drawn": 1,
+                    "lost": 3,
+                    "goalsFor": 6,
+                    "goalsAgainst": 6,
+                    "goalDifference": 0,
                     "points": 10
                 },
                 {
@@ -2277,13 +2277,13 @@
                     "rank": 1,
                     "teamName": "Buenos Aires District",
                     "played": 7,
-                    "won": 4,
+                    "won": 5,
                     "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 10,
+                    "lost": 1,
+                    "goalsFor": 12,
                     "goalsAgainst": 7,
-                    "goalDifference": 3,
-                    "points": 13
+                    "goalDifference": 5,
+                    "points": 16
                 },
                 {
                     "rank": 2,
@@ -2335,7 +2335,7 @@
                 },
                 {
                     "rank": 6,
-                    "teamName": "Rosario",
+                    "teamName": "Mendoza City",
                     "played": 7,
                     "won": 3,
                     "drawn": 2,
@@ -2347,6 +2347,18 @@
                 },
                 {
                     "rank": 7,
+                    "teamName": "Rosario",
+                    "played": 7,
+                    "won": 3,
+                    "drawn": 2,
+                    "lost": 2,
+                    "goalsFor": 8,
+                    "goalsAgainst": 7,
+                    "goalDifference": 1,
+                    "points": 11
+                },
+                {
+                    "rank": 8,
                     "teamName": "Tucuman",
                     "played": 7,
                     "won": 2,
@@ -2358,7 +2370,7 @@
                     "points": 10
                 },
                 {
-                    "rank": 8,
+                    "rank": 9,
                     "teamName": "Buenos Aires District",
                     "played": 7,
                     "won": 2,
@@ -2370,7 +2382,7 @@
                     "points": 9
                 },
                 {
-                    "rank": 9,
+                    "rank": 10,
                     "teamName": "Barracas",
                     "played": 6,
                     "won": 3,
@@ -2380,18 +2392,6 @@
                     "goalsAgainst": 5,
                     "goalDifference": -1,
                     "points": 9
-                },
-                {
-                    "rank": 10,
-                    "teamName": "Mendoza City",
-                    "played": 6,
-                    "won": 2,
-                    "drawn": 2,
-                    "lost": 2,
-                    "goalsFor": 5,
-                    "goalsAgainst": 6,
-                    "goalDifference": -1,
-                    "points": 8
                 },
                 {
                     "rank": 11,
@@ -2432,26 +2432,26 @@
                 {
                     "rank": 14,
                     "teamName": "Avellaneda",
-                    "played": 6,
+                    "played": 7,
                     "won": 1,
                     "drawn": 2,
-                    "lost": 3,
-                    "goalsFor": 5,
-                    "goalsAgainst": 8,
-                    "goalDifference": -3,
+                    "lost": 4,
+                    "goalsFor": 6,
+                    "goalsAgainst": 11,
+                    "goalDifference": -5,
                     "points": 5
                 },
                 {
                     "rank": 15,
                     "teamName": "Mar del Plata",
                     "played": 7,
-                    "won": 1,
+                    "won": 0,
                     "drawn": 2,
-                    "lost": 4,
+                    "lost": 5,
                     "goalsFor": 5,
-                    "goalsAgainst": 9,
-                    "goalDifference": -4,
-                    "points": 5
+                    "goalsAgainst": 11,
+                    "goalDifference": -6,
+                    "points": 2
                 }
             ]
         }

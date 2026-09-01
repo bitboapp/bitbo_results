@@ -17,18 +17,18 @@
       "id": 1,
       "homeFlag": "🏠",
       "homeTeam": "Avellaneda City",
-      "awayTeam": "Mendoza City",
+      "awayTeam": "Independiente Rivadavia",
       "awayFlag": "✈️",
-      "timestamp": 1788128100,
+      "timestamp": 1787434200,
       "homeScore": 0,
-      "awayScore": 3,
+      "awayScore": 0,
       "isFinished": true
     },
     {
       "id": 2,
       "homeFlag": "🏠",
-      "homeTeam": "Mendoza City",
-      "awayTeam": "Avellaneda",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Racing Club",
       "awayFlag": "✈️",
       "timestamp": 1788136200,
       "homeScore": 3,
@@ -49,7 +49,7 @@
     {
       "id": 4,
       "homeFlag": "🏠",
-      "homeTeam": "Amed Sportif",
+      "homeTeam": "Diyarbakir",
       "awayTeam": "Trabzon",
       "awayFlag": "✈️",
       "timestamp": 1788201000,
@@ -108,20 +108,20 @@
       "awayTeam": "Buenos Aires South",
       "awayFlag": "✈️",
       "timestamp": 1788221700,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 10,
       "homeFlag": "🏠",
       "homeTeam": "Tigre",
-      "awayTeam": "Barracas",
+      "awayTeam": "Barracas Central",
       "awayFlag": "✈️",
       "timestamp": 1788221700,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 11,
@@ -192,8 +192,8 @@
     {
       "id": 17,
       "homeFlag": "🏠",
-      "homeTeam": "Rio Cuarto",
-      "awayTeam": "Junin",
+      "homeTeam": "Estudiantes de Río Cuarto",
+      "awayTeam": "Sarmiento",
       "awayFlag": "✈️",
       "timestamp": 1788551100,
       "homeScore": 0,
@@ -203,8 +203,8 @@
     {
       "id": 18,
       "homeFlag": "🏠",
-      "homeTeam": "Cordoba City",
-      "awayTeam": "Buenos Aires District",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Huracán",
       "awayFlag": "✈️",
       "timestamp": 1788559200,
       "homeScore": 0,
@@ -237,7 +237,7 @@
       "id": 21,
       "homeFlag": "🏠",
       "homeTeam": "Manchester Blue",
-      "awayTeam": "Coventry City",
+      "awayTeam": "Coventry",
       "awayFlag": "✈️",
       "timestamp": 1788616800,
       "homeScore": 0,
@@ -313,7 +313,7 @@
     {
       "id": 28,
       "homeFlag": "🏠",
-      "homeTeam": "La Plata City",
+      "homeTeam": "Gimnasia LP",
       "awayTeam": "Tigre",
       "awayFlag": "✈️",
       "timestamp": 1788629400,
@@ -456,7 +456,7 @@
     {
       "id": 41,
       "homeFlag": "🏠",
-      "homeTeam": "Botafogo",
+      "homeTeam": "Rio City",
       "awayTeam": "Sao Paulo",
       "awayFlag": "✈️",
       "timestamp": 1788730200,

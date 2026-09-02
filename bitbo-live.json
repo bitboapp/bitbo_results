@@ -14,28 +14,6 @@
       "isFinished": false
     },
     {
-      "id": 1,
-      "homeFlag": "🏠",
-      "homeTeam": "Avellaneda City",
-      "awayTeam": "Independiente Rivadavia",
-      "awayFlag": "✈️",
-      "timestamp": 1787434200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 2,
-      "homeFlag": "🏠",
-      "homeTeam": "Independiente Rivadavia",
-      "awayTeam": "Racing Club",
-      "awayFlag": "✈️",
-      "timestamp": 1788136200,
-      "homeScore": 3,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
       "id": 3,
       "homeFlag": "🏠",
       "homeTeam": "Lecce",

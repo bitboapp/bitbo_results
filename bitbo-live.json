@@ -14,72 +14,6 @@
       "isFinished": false
     },
     {
-      "id": 3,
-      "homeFlag": "🏠",
-      "homeTeam": "Lecce",
-      "awayTeam": "Rome Yellow Red",
-      "awayFlag": "✈️",
-      "timestamp": 1788193800,
-      "homeScore": 0,
-      "awayScore": 4,
-      "isFinished": true
-    },
-    {
-      "id": 4,
-      "homeFlag": "🏠",
-      "homeTeam": "Diyarbakir",
-      "awayTeam": "Trabzon",
-      "awayFlag": "✈️",
-      "timestamp": 1788201000,
-      "homeScore": 2,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 5,
-      "homeFlag": "🏠",
-      "homeTeam": "Istanbul Eagles",
-      "awayTeam": "Corum",
-      "awayFlag": "✈️",
-      "timestamp": 1788201000,
-      "homeScore": 6,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 6,
-      "homeFlag": "🏠",
-      "homeTeam": "Birmingham Blue",
-      "awayTeam": "North London Red",
-      "awayFlag": "✈️",
-      "timestamp": 1788202800,
-      "homeScore": 0,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 7,
-      "homeFlag": "🏠",
-      "homeTeam": "Lisbon Red",
-      "awayTeam": "Estoril",
-      "awayFlag": "✈️",
-      "timestamp": 1788203700,
-      "homeScore": 2,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 8,
-      "homeFlag": "🏠",
-      "homeTeam": "Catalonia Blue Red",
-      "awayTeam": "Vallecas Red Stripe",
-      "awayFlag": "✈️",
-      "timestamp": 1788204600,
-      "homeScore": 5,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
       "id": 9,
       "homeFlag": "🏠",
       "homeTeam": "Cordoba District",
@@ -108,9 +42,9 @@
       "awayTeam": "Mirassol",
       "awayFlag": "✈️",
       "timestamp": 1788388200,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 12,

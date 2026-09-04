@@ -33,7 +33,7 @@
       "timestamp": 1788548400,
       "homeScore": 0,
       "awayScore": 2,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 14,
@@ -42,9 +42,9 @@
       "awayTeam": "Madrid White",
       "awayFlag": "✈️",
       "timestamp": 1788548400,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 15,
@@ -53,9 +53,9 @@
       "awayTeam": "Monaco",
       "awayFlag": "✈️",
       "timestamp": 1788548700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 16,
@@ -64,9 +64,9 @@
       "awayTeam": "Moreira",
       "awayFlag": "✈️",
       "timestamp": 1788549300,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 17,
@@ -76,8 +76,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788551100,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 18,

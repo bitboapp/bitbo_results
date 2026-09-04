@@ -14,48 +14,15 @@
       "isFinished": false
     },
     {
-      "id": 9,
-      "homeFlag": "🏠",
-      "homeTeam": "Cordoba District",
-      "awayTeam": "Buenos Aires South",
-      "awayFlag": "✈️",
-      "timestamp": 1788221700,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 10,
-      "homeFlag": "🏠",
-      "homeTeam": "Tigre",
-      "awayTeam": "Barracas Central",
-      "awayFlag": "✈️",
-      "timestamp": 1788221700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 11,
-      "homeFlag": "🏠",
-      "homeTeam": "Rio",
-      "awayTeam": "Mirassol",
-      "awayFlag": "✈️",
-      "timestamp": 1788388200,
-      "homeScore": 2,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
       "id": 12,
       "homeFlag": "🏠",
       "homeTeam": "Basaksehir",
       "awayTeam": "Istanbul Lions",
       "awayFlag": "✈️",
       "timestamp": 1788541200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 13,
@@ -65,7 +32,7 @@
       "awayFlag": "✈️",
       "timestamp": 1788548400,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "isFinished": false
     },
     {

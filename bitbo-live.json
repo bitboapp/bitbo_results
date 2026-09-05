@@ -97,9 +97,9 @@
       "awayTeam": "Berlin",
       "awayFlag": "✈️",
       "timestamp": 1788615000,
-      "homeScore": 0,
+      "homeScore": 4,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 20,
@@ -108,9 +108,9 @@
       "awayTeam": "Dortmund",
       "awayFlag": "✈️",
       "timestamp": 1788615000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 21,
@@ -119,7 +119,7 @@
       "awayTeam": "Coventry",
       "awayFlag": "✈️",
       "timestamp": 1788616800,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },
@@ -130,7 +130,7 @@
       "awayTeam": "Madrid Red White",
       "awayFlag": "✈️",
       "timestamp": 1788617700,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

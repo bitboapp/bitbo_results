@@ -121,7 +121,7 @@
       "timestamp": 1788616800,
       "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 22,
@@ -130,9 +130,9 @@
       "awayTeam": "Madrid Red White",
       "awayFlag": "✈️",
       "timestamp": 1788617700,
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 23,
@@ -141,9 +141,9 @@
       "awayTeam": "Naples",
       "awayFlag": "✈️",
       "timestamp": 1788624000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 24,
@@ -154,7 +154,7 @@
       "timestamp": 1788625800,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 25,
@@ -165,7 +165,7 @@
       "timestamp": 1788625800,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 26,
@@ -174,9 +174,9 @@
       "awayTeam": "Istanbul Eagles",
       "awayFlag": "✈️",
       "timestamp": 1788627600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 27,
@@ -186,8 +186,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788627600,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 28,
@@ -196,9 +196,9 @@
       "awayTeam": "Tigre",
       "awayFlag": "✈️",
       "timestamp": 1788629400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 29,
@@ -207,20 +207,9 @@
       "awayTeam": "Bergamo",
       "awayFlag": "✈️",
       "timestamp": 1788633900,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
-    },
-    {
-      "id": 30,
-      "homeFlag": "🏠",
-      "homeTeam": "Mendoza City",
-      "awayTeam": "Buenos Aires",
-      "awayFlag": "✈️",
-      "timestamp": 1788636600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 31,
@@ -229,7 +218,7 @@
       "awayTeam": "Nacional",
       "awayFlag": "✈️",
       "timestamp": 1788636600,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

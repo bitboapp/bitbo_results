@@ -86,9 +86,9 @@
       "awayTeam": "Huracán",
       "awayFlag": "✈️",
       "timestamp": 1788559200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 19,

@@ -220,7 +220,7 @@
       "timestamp": 1788636600,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 32,
@@ -229,9 +229,9 @@
       "awayTeam": "La Plata",
       "awayFlag": "✈️",
       "timestamp": 1788653700,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 33,

@@ -29,30 +29,54 @@
                 },
                 {
                     "rank": 3,
+                    "teamName": "Kocaeli",
+                    "played": 4,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 5,
+                    "goalsAgainst": 3,
+                    "goalDifference": 2,
+                    "points": 9
+                },
+                {
+                    "rank": 4,
+                    "teamName": "Trabzon",
+                    "played": 4,
+                    "won": 2,
+                    "drawn": 1,
+                    "lost": 1,
+                    "goalsFor": 9,
+                    "goalsAgainst": 4,
+                    "goalDifference": 5,
+                    "points": 7
+                },
+                {
+                    "rank": 5,
                     "teamName": "Diyarbakir",
                     "played": 4,
                     "won": 2,
                     "drawn": 1,
                     "lost": 1,
-                    "goalsFor": 5,
-                    "goalsAgainst": 3,
+                    "goalsFor": 7,
+                    "goalsAgainst": 5,
                     "goalDifference": 2,
                     "points": 7
                 },
                 {
-                    "rank": 4,
+                    "rank": 6,
                     "teamName": "Ankara Red",
-                    "played": 3,
+                    "played": 4,
                     "won": 2,
                     "drawn": 1,
-                    "lost": 0,
+                    "lost": 1,
                     "goalsFor": 4,
-                    "goalsAgainst": 2,
-                    "goalDifference": 2,
+                    "goalsAgainst": 7,
+                    "goalDifference": -3,
                     "points": 7
                 },
                 {
-                    "rank": 5,
+                    "rank": 7,
                     "teamName": "Istanbul Yellows",
                     "played": 4,
                     "won": 2,
@@ -64,31 +88,19 @@
                     "points": 6
                 },
                 {
-                    "rank": 6,
-                    "teamName": "Kocaeli",
-                    "played": 3,
-                    "won": 2,
-                    "drawn": 0,
-                    "lost": 1,
-                    "goalsFor": 4,
-                    "goalsAgainst": 3,
-                    "goalDifference": 1,
-                    "points": 6
-                },
-                {
-                    "rank": 7,
+                    "rank": 8,
                     "teamName": "Kasimpasa",
                     "played": 4,
                     "won": 1,
                     "drawn": 3,
                     "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 2,
+                    "goalsFor": 5,
+                    "goalsAgainst": 4,
                     "goalDifference": 1,
                     "points": 6
                 },
                 {
-                    "rank": 8,
+                    "rank": 9,
                     "teamName": "Rize",
                     "played": 3,
                     "won": 2,
@@ -100,7 +112,7 @@
                     "points": 6
                 },
                 {
-                    "rank": 9,
+                    "rank": 10,
                     "teamName": "Basaksehir",
                     "played": 4,
                     "won": 1,
@@ -112,31 +124,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 10,
-                    "teamName": "Samsun",
-                    "played": 3,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 5,
-                    "goalsAgainst": 5,
-                    "goalDifference": 0,
-                    "points": 4
-                },
-                {
                     "rank": 11,
-                    "teamName": "Trabzon",
-                    "played": 3,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 4,
-                    "goalsAgainst": 4,
-                    "goalDifference": 0,
-                    "points": 4
-                },
-                {
-                    "rank": 12,
                     "teamName": "Alanya",
                     "played": 3,
                     "won": 1,
@@ -148,7 +136,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 13,
+                    "rank": 12,
                     "teamName": "Gaziantep",
                     "played": 3,
                     "won": 1,
@@ -160,15 +148,27 @@
                     "points": 4
                 },
                 {
-                    "rank": 14,
-                    "teamName": "Eyup",
+                    "rank": 13,
+                    "teamName": "Samsun",
                     "played": 4,
                     "won": 1,
                     "drawn": 1,
                     "lost": 2,
-                    "goalsFor": 2,
-                    "goalsAgainst": 3,
+                    "goalsFor": 5,
+                    "goalsAgainst": 6,
                     "goalDifference": -1,
+                    "points": 4
+                },
+                {
+                    "rank": 14,
+                    "teamName": "Corum",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 7,
+                    "goalsAgainst": 9,
+                    "goalDifference": -2,
                     "points": 4
                 },
                 {
@@ -185,15 +185,15 @@
                 },
                 {
                     "rank": 16,
-                    "teamName": "Corum",
+                    "teamName": "Eyup",
                     "played": 4,
-                    "won": 0,
-                    "drawn": 2,
-                    "lost": 2,
-                    "goalsFor": 4,
-                    "goalsAgainst": 9,
-                    "goalDifference": -5,
-                    "points": 2
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 3,
+                    "goalsFor": 2,
+                    "goalsAgainst": 6,
+                    "goalDifference": -4,
+                    "points": 3
                 },
                 {
                     "rank": 17,
@@ -226,6 +226,18 @@
             "standings": [
                 {
                     "rank": 1,
+                    "teamName": "Rio",
+                    "played": 26,
+                    "won": 15,
+                    "drawn": 7,
+                    "lost": 4,
+                    "goalsFor": 50,
+                    "goalsAgainst": 21,
+                    "goalDifference": 29,
+                    "points": 52
+                },
+                {
+                    "rank": 2,
                     "teamName": "Sao Paulo",
                     "played": 25,
                     "won": 15,
@@ -237,28 +249,16 @@
                     "points": 52
                 },
                 {
-                    "rank": 2,
-                    "teamName": "Rio",
-                    "played": 25,
-                    "won": 15,
-                    "drawn": 6,
-                    "lost": 4,
-                    "goalsFor": 50,
-                    "goalsAgainst": 21,
-                    "goalDifference": 29,
-                    "points": 51
-                },
-                {
                     "rank": 3,
                     "teamName": "Curitiba",
-                    "played": 25,
+                    "played": 26,
                     "won": 13,
-                    "drawn": 6,
+                    "drawn": 7,
                     "lost": 6,
-                    "goalsFor": 37,
-                    "goalsAgainst": 25,
+                    "goalsFor": 38,
+                    "goalsAgainst": 26,
                     "goalDifference": 12,
-                    "points": 45
+                    "points": 46
                 },
                 {
                     "rank": 4,
@@ -287,25 +287,25 @@
                 {
                     "rank": 6,
                     "teamName": "Belo Horizonte City",
-                    "played": 25,
+                    "played": 26,
                     "won": 11,
-                    "drawn": 6,
+                    "drawn": 7,
                     "lost": 8,
-                    "goalsFor": 35,
-                    "goalsAgainst": 36,
+                    "goalsFor": 36,
+                    "goalsAgainst": 37,
                     "goalDifference": -1,
-                    "points": 39
+                    "points": 40
                 },
                 {
                     "rank": 7,
                     "teamName": "Curitiba City",
-                    "played": 25,
+                    "played": 26,
                     "won": 10,
                     "drawn": 7,
-                    "lost": 8,
-                    "goalsFor": 33,
-                    "goalsAgainst": 33,
-                    "goalDifference": 0,
+                    "lost": 9,
+                    "goalsFor": 34,
+                    "goalsAgainst": 35,
+                    "goalDifference": -1,
                     "points": 37
                 },
                 {
@@ -346,6 +346,18 @@
                 },
                 {
                     "rank": 11,
+                    "teamName": "Santos",
+                    "played": 25,
+                    "won": 8,
+                    "drawn": 8,
+                    "lost": 9,
+                    "goalsFor": 37,
+                    "goalsAgainst": 36,
+                    "goalDifference": 1,
+                    "points": 32
+                },
+                {
+                    "rank": 12,
                     "teamName": "Sao Paulo District",
                     "played": 25,
                     "won": 8,
@@ -357,7 +369,7 @@
                     "points": 32
                 },
                 {
-                    "rank": 12,
+                    "rank": 13,
                     "teamName": "Rio City",
                     "played": 24,
                     "won": 8,
@@ -369,7 +381,7 @@
                     "points": 30
                 },
                 {
-                    "rank": 13,
+                    "rank": 14,
                     "teamName": "Salvador City",
                     "played": 25,
                     "won": 8,
@@ -378,18 +390,6 @@
                     "goalsFor": 24,
                     "goalsAgainst": 37,
                     "goalDifference": -13,
-                    "points": 29
-                },
-                {
-                    "rank": 14,
-                    "teamName": "Santos",
-                    "played": 24,
-                    "won": 7,
-                    "drawn": 8,
-                    "lost": 9,
-                    "goalsFor": 34,
-                    "goalsAgainst": 36,
-                    "goalDifference": -2,
                     "points": 29
                 },
                 {
@@ -407,14 +407,14 @@
                 {
                     "rank": 16,
                     "teamName": "Mirassol",
-                    "played": 25,
-                    "won": 6,
+                    "played": 26,
+                    "won": 7,
                     "drawn": 7,
                     "lost": 12,
-                    "goalsFor": 27,
-                    "goalsAgainst": 39,
-                    "goalDifference": -12,
-                    "points": 25
+                    "goalsFor": 29,
+                    "goalsAgainst": 40,
+                    "goalDifference": -11,
+                    "points": 28
                 },
                 {
                     "rank": 17,
@@ -431,26 +431,26 @@
                 {
                     "rank": 18,
                     "teamName": "Porto Alegre",
-                    "played": 25,
+                    "played": 26,
                     "won": 5,
                     "drawn": 10,
-                    "lost": 10,
+                    "lost": 11,
                     "goalsFor": 26,
-                    "goalsAgainst": 31,
-                    "goalDifference": -5,
+                    "goalsAgainst": 34,
+                    "goalDifference": -8,
                     "points": 25
                 },
                 {
                     "rank": 19,
                     "teamName": "Belem",
-                    "played": 25,
+                    "played": 26,
                     "won": 5,
-                    "drawn": 8,
+                    "drawn": 9,
                     "lost": 12,
                     "goalsFor": 30,
                     "goalsAgainst": 42,
                     "goalDifference": -12,
-                    "points": 23
+                    "points": 24
                 },
                 {
                     "rank": 20,
@@ -507,18 +507,42 @@
                 },
                 {
                     "rank": 4,
+                    "teamName": "Rennes",
+                    "played": 3,
+                    "won": 2,
+                    "drawn": 1,
+                    "lost": 0,
+                    "goalsFor": 7,
+                    "goalsAgainst": 5,
+                    "goalDifference": 2,
+                    "points": 7
+                },
+                {
+                    "rank": 5,
                     "teamName": "Strasbourg",
                     "played": 3,
                     "won": 2,
                     "drawn": 0,
                     "lost": 1,
-                    "goalsFor": 4,
-                    "goalsAgainst": 6,
-                    "goalDifference": -2,
+                    "goalsFor": 8,
+                    "goalsAgainst": 7,
+                    "goalDifference": 1,
                     "points": 6
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
+                    "teamName": "Paris City",
+                    "played": 3,
+                    "won": 1,
+                    "drawn": 2,
+                    "lost": 0,
+                    "goalsFor": 5,
+                    "goalsAgainst": 2,
+                    "goalDifference": 3,
+                    "points": 5
+                },
+                {
+                    "rank": 7,
                     "teamName": "Brest",
                     "played": 3,
                     "won": 1,
@@ -530,39 +554,15 @@
                     "points": 5
                 },
                 {
-                    "rank": 6,
-                    "teamName": "Paris City",
-                    "played": 2,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 0,
-                    "goalDifference": 3,
-                    "points": 4
-                },
-                {
-                    "rank": 7,
-                    "teamName": "Rennes",
-                    "played": 2,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 5,
-                    "goalsAgainst": 4,
-                    "goalDifference": 1,
-                    "points": 4
-                },
-                {
                     "rank": 8,
-                    "teamName": "Troyes",
+                    "teamName": "Marseille",
                     "played": 3,
                     "won": 1,
                     "drawn": 1,
                     "lost": 1,
-                    "goalsFor": 3,
-                    "goalsAgainst": 3,
-                    "goalDifference": 0,
+                    "goalsFor": 6,
+                    "goalsAgainst": 4,
+                    "goalDifference": 2,
                     "points": 4
                 },
                 {
@@ -579,15 +579,15 @@
                 },
                 {
                     "rank": 10,
-                    "teamName": "Marseille",
-                    "played": 2,
+                    "teamName": "Troyes",
+                    "played": 3,
                     "won": 1,
-                    "drawn": 0,
+                    "drawn": 1,
                     "lost": 1,
                     "goalsFor": 4,
-                    "goalsAgainst": 2,
-                    "goalDifference": 2,
-                    "points": 3
+                    "goalsAgainst": 7,
+                    "goalDifference": -3,
+                    "points": 4
                 },
                 {
                     "rank": 11,
@@ -604,13 +604,13 @@
                 {
                     "rank": 12,
                     "teamName": "Angers",
-                    "played": 2,
+                    "played": 3,
                     "won": 1,
                     "drawn": 0,
-                    "lost": 1,
-                    "goalsFor": 3,
-                    "goalsAgainst": 3,
-                    "goalDifference": 0,
+                    "lost": 2,
+                    "goalsFor": 4,
+                    "goalsAgainst": 5,
+                    "goalDifference": -1,
                     "points": 3
                 },
                 {
@@ -716,6 +716,30 @@
                 },
                 {
                     "rank": 3,
+                    "teamName": "Milan Red Black",
+                    "played": 3,
+                    "won": 2,
+                    "drawn": 1,
+                    "lost": 0,
+                    "goalsFor": 4,
+                    "goalsAgainst": 1,
+                    "goalDifference": 3,
+                    "points": 7
+                },
+                {
+                    "rank": 4,
+                    "teamName": "Turin Black White",
+                    "played": 3,
+                    "won": 2,
+                    "drawn": 1,
+                    "lost": 0,
+                    "goalsFor": 3,
+                    "goalsAgainst": 0,
+                    "goalDifference": 3,
+                    "points": 7
+                },
+                {
+                    "rank": 5,
                     "teamName": "Como",
                     "played": 3,
                     "won": 2,
@@ -727,31 +751,19 @@
                     "points": 7
                 },
                 {
-                    "rank": 4,
-                    "teamName": "Turin Black White",
-                    "played": 2,
-                    "won": 2,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 0,
-                    "goalDifference": 3,
-                    "points": 6
-                },
-                {
-                    "rank": 5,
-                    "teamName": "Milan Red Black",
-                    "played": 2,
-                    "won": 2,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 4,
-                    "goalsAgainst": 1,
-                    "goalDifference": 3,
-                    "points": 6
-                },
-                {
                     "rank": 6,
+                    "teamName": "Frosinone",
+                    "played": 3,
+                    "won": 2,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 6,
+                    "goalsAgainst": 3,
+                    "goalDifference": 3,
+                    "points": 6
+                },
+                {
+                    "rank": 7,
                     "teamName": "Rome Sky Blue",
                     "played": 2,
                     "won": 2,
@@ -763,7 +775,7 @@
                     "points": 6
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "teamName": "Bergamo",
                     "played": 3,
                     "won": 2,
@@ -772,18 +784,6 @@
                     "goalsFor": 4,
                     "goalsAgainst": 3,
                     "goalDifference": 1,
-                    "points": 6
-                },
-                {
-                    "rank": 8,
-                    "teamName": "Frosinone",
-                    "played": 3,
-                    "won": 2,
-                    "drawn": 0,
-                    "lost": 1,
-                    "goalsFor": 5,
-                    "goalsAgainst": 1,
-                    "goalDifference": 4,
                     "points": 6
                 },
                 {
@@ -801,14 +801,14 @@
                 {
                     "rank": 10,
                     "teamName": "Sassuolo",
-                    "played": 2,
+                    "played": 3,
                     "won": 1,
-                    "drawn": 0,
+                    "drawn": 1,
                     "lost": 1,
-                    "goalsFor": 3,
-                    "goalsAgainst": 3,
+                    "goalsFor": 5,
+                    "goalsAgainst": 5,
                     "goalDifference": 0,
-                    "points": 3
+                    "points": 4
                 },
                 {
                     "rank": 11,
@@ -836,30 +836,6 @@
                 },
                 {
                     "rank": 13,
-                    "teamName": "Lecce",
-                    "played": 2,
-                    "won": 1,
-                    "drawn": 0,
-                    "lost": 1,
-                    "goalsFor": 2,
-                    "goalsAgainst": 4,
-                    "goalDifference": -2,
-                    "points": 3
-                },
-                {
-                    "rank": 14,
-                    "teamName": "Monza",
-                    "played": 3,
-                    "won": 1,
-                    "drawn": 0,
-                    "lost": 2,
-                    "goalsFor": 4,
-                    "goalsAgainst": 7,
-                    "goalDifference": -3,
-                    "points": 3
-                },
-                {
-                    "rank": 15,
                     "teamName": "Torino",
                     "played": 3,
                     "won": 1,
@@ -871,31 +847,67 @@
                     "points": 3
                 },
                 {
-                    "rank": 16,
-                    "teamName": "Bologna",
+                    "rank": 14,
+                    "teamName": "Lecce",
                     "played": 2,
-                    "won": 0,
+                    "won": 1,
                     "drawn": 0,
-                    "lost": 2,
-                    "goalsFor": 0,
-                    "goalsAgainst": 2,
+                    "lost": 1,
+                    "goalsFor": 2,
+                    "goalsAgainst": 4,
                     "goalDifference": -2,
-                    "points": 0
+                    "points": 3
+                },
+                {
+                    "rank": 15,
+                    "teamName": "Parma",
+                    "played": 3,
+                    "won": 0,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 1,
+                    "goalsAgainst": 4,
+                    "goalDifference": -3,
+                    "points": 1
+                },
+                {
+                    "rank": 16,
+                    "teamName": "Monza",
+                    "played": 3,
+                    "won": 0,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 4,
+                    "goalsAgainst": 8,
+                    "goalDifference": -4,
+                    "points": 1
                 },
                 {
                     "rank": 17,
-                    "teamName": "Parma",
+                    "teamName": "Bologna",
+                    "played": 3,
+                    "won": 0,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 2,
+                    "goalsAgainst": 4,
+                    "goalDifference": -2,
+                    "points": 1
+                },
+                {
+                    "rank": 18,
+                    "teamName": "Venedig",
                     "played": 3,
                     "won": 0,
                     "drawn": 0,
                     "lost": 3,
-                    "goalsFor": 0,
-                    "goalsAgainst": 4,
-                    "goalDifference": -4,
+                    "goalsFor": 2,
+                    "goalsAgainst": 7,
+                    "goalDifference": -5,
                     "points": 0
                 },
                 {
-                    "rank": 18,
+                    "rank": 19,
                     "teamName": "Genoa",
                     "played": 3,
                     "won": 0,
@@ -903,18 +915,6 @@
                     "lost": 3,
                     "goalsFor": 1,
                     "goalsAgainst": 7,
-                    "goalDifference": -6,
-                    "points": 0
-                },
-                {
-                    "rank": 19,
-                    "teamName": "Venedig",
-                    "played": 3,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 3,
-                    "goalsFor": 0,
-                    "goalsAgainst": 6,
                     "goalDifference": -6,
                     "points": 0
                 },
@@ -974,26 +974,26 @@
                 {
                     "rank": 4,
                     "teamName": "Varela",
-                    "played": 7,
+                    "played": 8,
                     "won": 4,
-                    "drawn": 2,
+                    "drawn": 3,
                     "lost": 1,
                     "goalsFor": 9,
                     "goalsAgainst": 8,
                     "goalDifference": 1,
-                    "points": 14
+                    "points": 15
                 },
                 {
                     "rank": 5,
                     "teamName": "Rosario City",
-                    "played": 7,
+                    "played": 8,
                     "won": 3,
-                    "drawn": 2,
+                    "drawn": 3,
                     "lost": 2,
-                    "goalsFor": 8,
-                    "goalsAgainst": 6,
+                    "goalsFor": 9,
+                    "goalsAgainst": 7,
                     "goalDifference": 2,
-                    "points": 11
+                    "points": 12
                 },
                 {
                     "rank": 6,
@@ -1069,23 +1069,23 @@
                 },
                 {
                     "rank": 12,
+                    "teamName": "Lanus",
+                    "played": 8,
+                    "won": 2,
+                    "drawn": 2,
+                    "lost": 4,
+                    "goalsFor": 7,
+                    "goalsAgainst": 8,
+                    "goalDifference": -1,
+                    "points": 8
+                },
+                {
+                    "rank": 13,
                     "teamName": "La Plata",
                     "played": 8,
                     "won": 2,
                     "drawn": 1,
                     "lost": 5,
-                    "goalsFor": 7,
-                    "goalsAgainst": 8,
-                    "goalDifference": -1,
-                    "points": 7
-                },
-                {
-                    "rank": 13,
-                    "teamName": "Lanus",
-                    "played": 7,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 4,
                     "goalsFor": 7,
                     "goalsAgainst": 8,
                     "goalDifference": -1,
@@ -1182,19 +1182,19 @@
                 },
                 {
                     "rank": 6,
-                    "teamName": "Mendoza City",
-                    "played": 7,
+                    "teamName": "Rosario",
+                    "played": 8,
                     "won": 3,
-                    "drawn": 2,
+                    "drawn": 3,
                     "lost": 2,
-                    "goalsFor": 8,
-                    "goalsAgainst": 7,
+                    "goalsFor": 9,
+                    "goalsAgainst": 8,
                     "goalDifference": 1,
-                    "points": 11
+                    "points": 12
                 },
                 {
                     "rank": 7,
-                    "teamName": "Rosario",
+                    "teamName": "Mendoza City",
                     "played": 7,
                     "won": 3,
                     "drawn": 2,
@@ -2630,6 +2630,18 @@
                 },
                 {
                     "rank": 2,
+                    "teamName": "North London Red",
+                    "played": 3,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 6,
+                    "goalsAgainst": 1,
+                    "goalDifference": 5,
+                    "points": 9
+                },
+                {
+                    "rank": 3,
                     "teamName": "Yorkshire Hull",
                     "played": 3,
                     "won": 2,
@@ -2641,27 +2653,15 @@
                     "points": 7
                 },
                 {
-                    "rank": 3,
-                    "teamName": "North London Red",
-                    "played": 2,
-                    "won": 2,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 4,
-                    "goalsAgainst": 0,
-                    "goalDifference": 4,
-                    "points": 6
-                },
-                {
                     "rank": 4,
                     "teamName": "West London Blue",
-                    "played": 2,
+                    "played": 3,
                     "won": 2,
                     "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 7,
-                    "goalsAgainst": 5,
-                    "goalDifference": 2,
+                    "lost": 1,
+                    "goalsFor": 8,
+                    "goalsAgainst": 7,
+                    "goalDifference": 1,
                     "points": 6
                 },
                 {
@@ -2707,8 +2707,8 @@
                     "won": 1,
                     "drawn": 2,
                     "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 1,
+                    "goalsFor": 5,
+                    "goalsAgainst": 3,
                     "goalDifference": 2,
                     "points": 5
                 },
@@ -2743,8 +2743,8 @@
                     "won": 1,
                     "drawn": 1,
                     "lost": 1,
-                    "goalsFor": 5,
-                    "goalsAgainst": 4,
+                    "goalsFor": 7,
+                    "goalsAgainst": 6,
                     "goalDifference": 1,
                     "points": 4
                 },
@@ -2864,17 +2864,29 @@
                 {
                     "rank": 1,
                     "teamName": "Catalonia Blue Red",
-                    "played": 3,
-                    "won": 3,
+                    "played": 4,
+                    "won": 4,
                     "drawn": 0,
                     "lost": 0,
-                    "goalsFor": 12,
+                    "goalsFor": 17,
                     "goalsAgainst": 2,
-                    "goalDifference": 10,
-                    "points": 9
+                    "goalDifference": 15,
+                    "points": 12
                 },
                 {
                     "rank": 2,
+                    "teamName": "Vitoria Alava",
+                    "played": 4,
+                    "won": 3,
+                    "drawn": 1,
+                    "lost": 0,
+                    "goalsFor": 10,
+                    "goalsAgainst": 3,
+                    "goalDifference": 7,
+                    "points": 10
+                },
+                {
+                    "rank": 3,
                     "teamName": "Madrid White",
                     "played": 4,
                     "won": 3,
@@ -2886,7 +2898,7 @@
                     "points": 9
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "teamName": "Seville Green White",
                     "played": 4,
                     "won": 3,
@@ -2898,7 +2910,7 @@
                     "points": 9
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "teamName": "A Coruña",
                     "played": 4,
                     "won": 2,
@@ -2910,31 +2922,7 @@
                     "points": 8
                 },
                 {
-                    "rank": 5,
-                    "teamName": "Vitoria Alava",
-                    "played": 3,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 5,
-                    "goalsAgainst": 1,
-                    "goalDifference": 4,
-                    "points": 7
-                },
-                {
                     "rank": 6,
-                    "teamName": "Pamplona Red",
-                    "played": 3,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 1,
-                    "goalDifference": 2,
-                    "points": 7
-                },
-                {
-                    "rank": 7,
                     "teamName": "Madrid Red White",
                     "played": 4,
                     "won": 2,
@@ -2946,7 +2934,31 @@
                     "points": 7
                 },
                 {
+                    "rank": 7,
+                    "teamName": "Seville White Red",
+                    "played": 4,
+                    "won": 2,
+                    "drawn": 1,
+                    "lost": 1,
+                    "goalsFor": 6,
+                    "goalsAgainst": 5,
+                    "goalDifference": 1,
+                    "points": 7
+                },
+                {
                     "rank": 8,
+                    "teamName": "Pamplona Red",
+                    "played": 4,
+                    "won": 2,
+                    "drawn": 1,
+                    "lost": 1,
+                    "goalsFor": 5,
+                    "goalsAgainst": 6,
+                    "goalDifference": -1,
+                    "points": 7
+                },
+                {
+                    "rank": 9,
                     "teamName": "Bilbao Red White",
                     "played": 4,
                     "won": 2,
@@ -2958,31 +2970,31 @@
                     "points": 6
                 },
                 {
-                    "rank": 9,
-                    "teamName": "Seville White Red",
-                    "played": 3,
-                    "won": 2,
-                    "drawn": 0,
-                    "lost": 1,
-                    "goalsFor": 6,
-                    "goalsAgainst": 5,
-                    "goalDifference": 1,
-                    "points": 6
-                },
-                {
                     "rank": 10,
                     "teamName": "Valencia Blue Red",
-                    "played": 3,
+                    "played": 4,
                     "won": 1,
-                    "drawn": 1,
+                    "drawn": 2,
                     "lost": 1,
                     "goalsFor": 5,
                     "goalsAgainst": 5,
                     "goalDifference": 0,
-                    "points": 4
+                    "points": 5
                 },
                 {
                     "rank": 11,
+                    "teamName": "Barcelona Blue White",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 5,
+                    "goalsAgainst": 4,
+                    "goalDifference": 1,
+                    "points": 4
+                },
+                {
+                    "rank": 12,
                     "teamName": "Santander",
                     "played": 4,
                     "won": 1,
@@ -2994,7 +3006,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 12,
+                    "rank": 13,
                     "teamName": "Vallecas Red Stripe",
                     "played": 4,
                     "won": 1,
@@ -3006,7 +3018,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 13,
+                    "rank": 14,
                     "teamName": "San Sebastian Blue",
                     "played": 4,
                     "won": 1,
@@ -3016,18 +3028,6 @@
                     "goalsAgainst": 6,
                     "goalDifference": -3,
                     "points": 4
-                },
-                {
-                    "rank": 14,
-                    "teamName": "Barcelona Blue White",
-                    "played": 3,
-                    "won": 1,
-                    "drawn": 0,
-                    "lost": 2,
-                    "goalsFor": 5,
-                    "goalsAgainst": 4,
-                    "goalDifference": 1,
-                    "points": 3
                 },
                 {
                     "rank": 15,
@@ -3067,15 +3067,15 @@
                 },
                 {
                     "rank": 18,
-                    "teamName": "Valencia Orange",
-                    "played": 3,
+                    "teamName": "Málaga",
+                    "played": 4,
                     "won": 0,
-                    "drawn": 1,
+                    "drawn": 2,
                     "lost": 2,
                     "goalsFor": 1,
-                    "goalsAgainst": 4,
-                    "goalDifference": -3,
-                    "points": 1
+                    "goalsAgainst": 7,
+                    "goalDifference": -6,
+                    "points": 2
                 },
                 {
                     "rank": 19,
@@ -3091,14 +3091,14 @@
                 },
                 {
                     "rank": 20,
-                    "teamName": "Málaga",
-                    "played": 3,
+                    "teamName": "Valencia Orange",
+                    "played": 4,
                     "won": 0,
                     "drawn": 1,
-                    "lost": 2,
+                    "lost": 3,
                     "goalsFor": 1,
-                    "goalsAgainst": 7,
-                    "goalDifference": -6,
+                    "goalsAgainst": 9,
+                    "goalDifference": -8,
                     "points": 1
                 }
             ]
@@ -3132,6 +3132,18 @@
                 },
                 {
                     "rank": 3,
+                    "teamName": "Ponta Delgada",
+                    "played": 5,
+                    "won": 3,
+                    "drawn": 2,
+                    "lost": 0,
+                    "goalsFor": 9,
+                    "goalsAgainst": 3,
+                    "goalDifference": 6,
+                    "points": 11
+                },
+                {
+                    "rank": 4,
                     "teamName": "Lisbon Red",
                     "played": 4,
                     "won": 3,
@@ -3143,7 +3155,7 @@
                     "points": 10
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "teamName": "Arouca",
                     "played": 4,
                     "won": 3,
@@ -3155,31 +3167,7 @@
                     "points": 9
                 },
                 {
-                    "rank": 5,
-                    "teamName": "Ponta Delgada",
-                    "played": 4,
-                    "won": 2,
-                    "drawn": 2,
-                    "lost": 0,
-                    "goalsFor": 5,
-                    "goalsAgainst": 3,
-                    "goalDifference": 2,
-                    "points": 8
-                },
-                {
                     "rank": 6,
-                    "teamName": "Barcelos",
-                    "played": 3,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 0,
-                    "goalDifference": 3,
-                    "points": 7
-                },
-                {
-                    "rank": 7,
                     "teamName": "Braga",
                     "played": 3,
                     "won": 2,
@@ -3187,6 +3175,18 @@
                     "lost": 0,
                     "goalsFor": 5,
                     "goalsAgainst": 3,
+                    "goalDifference": 2,
+                    "points": 7
+                },
+                {
+                    "rank": 7,
+                    "teamName": "Barcelos",
+                    "played": 4,
+                    "won": 2,
+                    "drawn": 1,
+                    "lost": 1,
+                    "goalsFor": 3,
+                    "goalsAgainst": 1,
                     "goalDifference": 2,
                     "points": 7
                 },
@@ -3216,6 +3216,18 @@
                 },
                 {
                     "rank": 10,
+                    "teamName": "Viseu",
+                    "played": 5,
+                    "won": 1,
+                    "drawn": 2,
+                    "lost": 2,
+                    "goalsFor": 5,
+                    "goalsAgainst": 8,
+                    "goalDifference": -3,
+                    "points": 5
+                },
+                {
+                    "rank": 11,
                     "teamName": "Nacional",
                     "played": 5,
                     "won": 1,
@@ -3227,7 +3239,19 @@
                     "points": 4
                 },
                 {
-                    "rank": 11,
+                    "rank": 12,
+                    "teamName": "Guimaraes",
+                    "played": 5,
+                    "won": 1,
+                    "drawn": 1,
+                    "lost": 3,
+                    "goalsFor": 3,
+                    "goalsAgainst": 5,
+                    "goalDifference": -2,
+                    "points": 4
+                },
+                {
+                    "rank": 13,
                     "teamName": "Moreira",
                     "played": 4,
                     "won": 1,
@@ -3239,19 +3263,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 12,
-                    "teamName": "Guimaraes",
-                    "played": 4,
-                    "won": 1,
-                    "drawn": 0,
-                    "lost": 3,
-                    "goalsFor": 3,
-                    "goalsAgainst": 5,
-                    "goalDifference": -2,
-                    "points": 3
-                },
-                {
-                    "rank": 13,
+                    "rank": 14,
                     "teamName": "Famalicao",
                     "played": 5,
                     "won": 0,
@@ -3263,28 +3275,16 @@
                     "points": 3
                 },
                 {
-                    "rank": 14,
+                    "rank": 15,
                     "teamName": "Vila do Conde",
-                    "played": 4,
+                    "played": 5,
                     "won": 1,
                     "drawn": 0,
-                    "lost": 3,
+                    "lost": 4,
                     "goalsFor": 2,
-                    "goalsAgainst": 7,
-                    "goalDifference": -5,
+                    "goalsAgainst": 11,
+                    "goalDifference": -9,
                     "points": 3
-                },
-                {
-                    "rank": 15,
-                    "teamName": "Viseu",
-                    "played": 4,
-                    "won": 0,
-                    "drawn": 2,
-                    "lost": 2,
-                    "goalsFor": 4,
-                    "goalsAgainst": 8,
-                    "goalDifference": -4,
-                    "points": 2
                 },
                 {
                     "rank": 16,
@@ -3313,14 +3313,14 @@
                 {
                     "rank": 18,
                     "teamName": "Lisbon District",
-                    "played": 4,
+                    "played": 5,
                     "won": 0,
-                    "drawn": 0,
+                    "drawn": 1,
                     "lost": 4,
                     "goalsFor": 0,
                     "goalsAgainst": 11,
                     "goalDifference": -11,
-                    "points": 0
+                    "points": 1
                 }
             ]
         },
@@ -3329,6 +3329,18 @@
             "standings": [
                 {
                     "rank": 1,
+                    "teamName": "Augsburg",
+                    "played": 2,
+                    "won": 2,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 7,
+                    "goalsAgainst": 1,
+                    "goalDifference": 6,
+                    "points": 6
+                },
+                {
+                    "rank": 2,
                     "teamName": "Freiburg",
                     "played": 2,
                     "won": 2,
@@ -3340,7 +3352,7 @@
                     "points": 6
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
                     "teamName": "Dortmund",
                     "played": 2,
                     "won": 2,
@@ -3352,7 +3364,7 @@
                     "points": 6
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "teamName": "Elversberg",
                     "played": 2,
                     "won": 2,
@@ -3364,7 +3376,19 @@
                     "points": 6
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
+                    "teamName": "Mainz",
+                    "played": 2,
+                    "won": 1,
+                    "drawn": 1,
+                    "lost": 0,
+                    "goalsFor": 5,
+                    "goalsAgainst": 0,
+                    "goalDifference": 5,
+                    "points": 4
+                },
+                {
+                    "rank": 6,
                     "teamName": "Munich",
                     "played": 2,
                     "won": 1,
@@ -3376,19 +3400,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 5,
-                    "teamName": "Mainz",
-                    "played": 2,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 1,
-                    "goalsAgainst": 0,
-                    "goalDifference": 1,
-                    "points": 4
-                },
-                {
-                    "rank": 6,
+                    "rank": 7,
                     "teamName": "Leverkusen",
                     "played": 2,
                     "won": 1,
@@ -3396,18 +3408,6 @@
                     "lost": 1,
                     "goalsFor": 6,
                     "goalsAgainst": 3,
-                    "goalDifference": 3,
-                    "points": 3
-                },
-                {
-                    "rank": 7,
-                    "teamName": "Augsburg",
-                    "played": 1,
-                    "won": 1,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 0,
                     "goalDifference": 3,
                     "points": 3
                 },
@@ -3461,18 +3461,6 @@
                 },
                 {
                     "rank": 12,
-                    "teamName": "Frankfurt",
-                    "played": 1,
-                    "won": 0,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 3,
-                    "goalsAgainst": 3,
-                    "goalDifference": 0,
-                    "points": 1
-                },
-                {
-                    "rank": 13,
                     "teamName": "Paderborn",
                     "played": 2,
                     "won": 0,
@@ -3481,6 +3469,18 @@
                     "goalsFor": 0,
                     "goalsAgainst": 1,
                     "goalDifference": -1,
+                    "points": 1
+                },
+                {
+                    "rank": 13,
+                    "teamName": "Frankfurt",
+                    "played": 2,
+                    "won": 0,
+                    "drawn": 1,
+                    "lost": 1,
+                    "goalsFor": 4,
+                    "goalsAgainst": 7,
+                    "goalDifference": -3,
                     "points": 1
                 },
                 {
@@ -3521,18 +3521,6 @@
                 },
                 {
                     "rank": 17,
-                    "teamName": "Hamburg",
-                    "played": 2,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 2,
-                    "goalsFor": 0,
-                    "goalsAgainst": 3,
-                    "goalDifference": -3,
-                    "points": 0
-                },
-                {
-                    "rank": 18,
                     "teamName": "Gladbach",
                     "played": 2,
                     "won": 0,
@@ -3542,6 +3530,18 @@
                     "goalsAgainst": 7,
                     "goalDifference": -4,
                     "points": 0
+                },
+                {
+                    "rank": 18,
+                    "teamName": "Hamburg",
+                    "played": 2,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 2,
+                    "goalsFor": 0,
+                    "goalsAgainst": 7,
+                    "goalDifference": -7,
+                    "points": 0
                 }
             ]
         },
@@ -3550,6 +3550,18 @@
             "standings": [
                 {
                     "rank": 1,
+                    "teamName": "Alkmaar",
+                    "played": 5,
+                    "won": 5,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 16,
+                    "goalsAgainst": 5,
+                    "goalDifference": 11,
+                    "points": 15
+                },
+                {
+                    "rank": 2,
                     "teamName": "Eindhoven",
                     "played": 5,
                     "won": 4,
@@ -3558,18 +3570,6 @@
                     "goalsFor": 18,
                     "goalsAgainst": 6,
                     "goalDifference": 12,
-                    "points": 13
-                },
-                {
-                    "rank": 2,
-                    "teamName": "Alkmaar",
-                    "played": 5,
-                    "won": 4,
-                    "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 15,
-                    "goalsAgainst": 5,
-                    "goalDifference": 10,
                     "points": 13
                 },
                 {
@@ -3586,6 +3586,18 @@
                 },
                 {
                     "rank": 4,
+                    "teamName": "Sittard",
+                    "played": 5,
+                    "won": 3,
+                    "drawn": 1,
+                    "lost": 1,
+                    "goalsFor": 11,
+                    "goalsAgainst": 9,
+                    "goalDifference": 2,
+                    "points": 10
+                },
+                {
+                    "rank": 5,
                     "teamName": "Rotterdam District",
                     "played": 4,
                     "won": 3,
@@ -3597,7 +3609,7 @@
                     "points": 9
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
                     "teamName": "Amsterdam",
                     "played": 4,
                     "won": 2,
@@ -3609,7 +3621,7 @@
                     "points": 7
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
                     "teamName": "Enschede",
                     "played": 4,
                     "won": 2,
@@ -3621,7 +3633,7 @@
                     "points": 7
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "teamName": "Deventer",
                     "played": 4,
                     "won": 2,
@@ -3630,18 +3642,6 @@
                     "goalsFor": 11,
                     "goalsAgainst": 9,
                     "goalDifference": 2,
-                    "points": 7
-                },
-                {
-                    "rank": 8,
-                    "teamName": "Sittard",
-                    "played": 4,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 8,
-                    "goalsAgainst": 7,
-                    "goalDifference": 1,
                     "points": 7
                 },
                 {
@@ -3670,18 +3670,6 @@
                 },
                 {
                     "rank": 11,
-                    "teamName": "Heerenveen",
-                    "played": 5,
-                    "won": 1,
-                    "drawn": 3,
-                    "lost": 1,
-                    "goalsFor": 7,
-                    "goalsAgainst": 8,
-                    "goalDifference": -1,
-                    "points": 6
-                },
-                {
-                    "rank": 12,
                     "teamName": "Rotterdam City",
                     "played": 5,
                     "won": 1,
@@ -3693,7 +3681,31 @@
                     "points": 5
                 },
                 {
+                    "rank": 12,
+                    "teamName": "Heerenveen",
+                    "played": 5,
+                    "won": 1,
+                    "drawn": 2,
+                    "lost": 2,
+                    "goalsFor": 7,
+                    "goalsAgainst": 9,
+                    "goalDifference": -2,
+                    "points": 5
+                },
+                {
                     "rank": 13,
+                    "teamName": "Velsen",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 5,
+                    "goalsAgainst": 10,
+                    "goalDifference": -5,
+                    "points": 4
+                },
+                {
+                    "rank": 14,
                     "teamName": "Zwolle",
                     "played": 5,
                     "won": 1,
@@ -3705,43 +3717,7 @@
                     "points": 4
                 },
                 {
-                    "rank": 14,
-                    "teamName": "Velsen",
-                    "played": 4,
-                    "won": 1,
-                    "drawn": 0,
-                    "lost": 3,
-                    "goalsFor": 4,
-                    "goalsAgainst": 10,
-                    "goalDifference": -6,
-                    "points": 3
-                },
-                {
                     "rank": 15,
-                    "teamName": "Leeuwarden",
-                    "played": 5,
-                    "won": 1,
-                    "drawn": 0,
-                    "lost": 4,
-                    "goalsFor": 6,
-                    "goalsAgainst": 17,
-                    "goalDifference": -11,
-                    "points": 3
-                },
-                {
-                    "rank": 16,
-                    "teamName": "Den Haag",
-                    "played": 4,
-                    "won": 0,
-                    "drawn": 1,
-                    "lost": 3,
-                    "goalsFor": 4,
-                    "goalsAgainst": 11,
-                    "goalDifference": -7,
-                    "points": 1
-                },
-                {
-                    "rank": 17,
                     "teamName": "Utrecht",
                     "played": 4,
                     "won": 0,
@@ -3753,7 +3729,7 @@
                     "points": 1
                 },
                 {
-                    "rank": 18,
+                    "rank": 16,
                     "teamName": "Tilburg",
                     "played": 4,
                     "won": 0,
@@ -3762,6 +3738,30 @@
                     "goalsFor": 4,
                     "goalsAgainst": 13,
                     "goalDifference": -9,
+                    "points": 1
+                },
+                {
+                    "rank": 17,
+                    "teamName": "Den Haag",
+                    "played": 5,
+                    "won": 0,
+                    "drawn": 1,
+                    "lost": 4,
+                    "goalsFor": 6,
+                    "goalsAgainst": 14,
+                    "goalDifference": -8,
+                    "points": 1
+                },
+                {
+                    "rank": 18,
+                    "teamName": "Leeuwarden",
+                    "played": 5,
+                    "won": 0,
+                    "drawn": 1,
+                    "lost": 4,
+                    "goalsFor": 6,
+                    "goalsAgainst": 18,
+                    "goalDifference": -12,
                     "points": 1
                 }
             ]

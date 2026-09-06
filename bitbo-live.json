@@ -240,9 +240,9 @@
       "awayTeam": "Manchester Red",
       "awayFlag": "✈️",
       "timestamp": 1788699600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 34,
@@ -252,8 +252,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788704100,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 5,
+      "isFinished": true
     },
     {
       "id": 35,
@@ -262,9 +262,9 @@
       "awayTeam": "West London Blue",
       "awayFlag": "✈️",
       "timestamp": 1788708600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 36,
@@ -273,9 +273,9 @@
       "awayTeam": "Ankara Red",
       "awayFlag": "✈️",
       "timestamp": 1788714000,
-      "homeScore": 0,
+      "homeScore": 5,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 37,
@@ -284,8 +284,8 @@
       "awayTeam": "Paris City",
       "awayFlag": "✈️",
       "timestamp": 1788720300,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 2,
       "isFinished": false
     },
     {
@@ -306,8 +306,8 @@
       "awayTeam": "Curitiba",
       "awayFlag": "✈️",
       "timestamp": 1788721200,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "isFinished": false
     },
     {

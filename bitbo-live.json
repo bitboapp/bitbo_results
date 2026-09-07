@@ -285,8 +285,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788720300,
       "homeScore": 2,
-      "awayScore": 2,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 38,
@@ -295,9 +295,9 @@
       "awayTeam": "Milan Red Black",
       "awayFlag": "✈️",
       "timestamp": 1788720300,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 39,
@@ -306,9 +306,9 @@
       "awayTeam": "Curitiba",
       "awayFlag": "✈️",
       "timestamp": 1788721200,
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 40,
@@ -318,8 +318,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788721200,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 41,
@@ -330,13 +330,13 @@
       "timestamp": 1788730200,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 42,
       "homeFlag": "🏠",
-      "homeTeam": "Barracas",
-      "awayTeam": "Buenos Aires District",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Argentinos Juniors",
       "awayFlag": "✈️",
       "timestamp": 1788818400,
       "homeScore": 0,
@@ -743,7 +743,7 @@
       "id": 79,
       "homeFlag": "🏠",
       "homeTeam": "Tigre",
-      "awayTeam": "Rosario",
+      "awayTeam": "Rosario Central",
       "awayFlag": "✈️",
       "timestamp": 1789321500,
       "homeScore": 0,
@@ -786,8 +786,8 @@
     {
       "id": 83,
       "homeFlag": "🏠",
-      "homeTeam": "Buenos Aires District",
-      "awayTeam": "La Plata City",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Gimnasia LP",
       "awayFlag": "✈️",
       "timestamp": 1789329600,
       "homeScore": 0,

@@ -64,8 +64,8 @@
       "awayTeam": "Seville Green White",
       "awayFlag": "✈️",
       "timestamp": 1788894000,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -75,7 +75,7 @@
       "awayTeam": "Milan Blue Black",
       "awayFlag": "✈️",
       "timestamp": 1788894000,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

@@ -14,105 +14,6 @@
       "isFinished": false
     },
     {
-      "id": 33,
-      "homeFlag": "🏠",
-      "homeTeam": "Merseyside Blue",
-      "awayTeam": "Manchester Red",
-      "awayFlag": "✈️",
-      "timestamp": 1788699600,
-      "homeScore": 2,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 34,
-      "homeFlag": "🏠",
-      "homeTeam": "Valencia Orange",
-      "awayTeam": "Catalonia Blue Red",
-      "awayFlag": "✈️",
-      "timestamp": 1788704100,
-      "homeScore": 0,
-      "awayScore": 5,
-      "isFinished": true
-    },
-    {
-      "id": 35,
-      "homeFlag": "🏠",
-      "homeTeam": "North London Red",
-      "awayTeam": "West London Blue",
-      "awayFlag": "✈️",
-      "timestamp": 1788708600,
-      "homeScore": 2,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 36,
-      "homeFlag": "🏠",
-      "homeTeam": "Trabzon",
-      "awayTeam": "Ankara Red",
-      "awayFlag": "✈️",
-      "timestamp": 1788714000,
-      "homeScore": 5,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 37,
-      "homeFlag": "🏠",
-      "homeTeam": "Marseille",
-      "awayTeam": "Paris City",
-      "awayFlag": "✈️",
-      "timestamp": 1788720300,
-      "homeScore": 2,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
-      "id": 38,
-      "homeFlag": "🏠",
-      "homeTeam": "Turin Black White",
-      "awayTeam": "Milan Red Black",
-      "awayFlag": "✈️",
-      "timestamp": 1788720300,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 39,
-      "homeFlag": "🏠",
-      "homeTeam": "Belo Horizonte City",
-      "awayTeam": "Curitiba",
-      "awayFlag": "✈️",
-      "timestamp": 1788721200,
-      "homeScore": 3,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 40,
-      "homeFlag": "🏠",
-      "homeTeam": "Belem",
-      "awayTeam": "Rio",
-      "awayFlag": "✈️",
-      "timestamp": 1788721200,
-      "homeScore": 0,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 41,
-      "homeFlag": "🏠",
-      "homeTeam": "Rio City",
-      "awayTeam": "Sao Paulo",
-      "awayFlag": "✈️",
-      "timestamp": 1788730200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
       "id": 42,
       "homeFlag": "🏠",
       "homeTeam": "Barracas Central",
@@ -121,7 +22,7 @@
       "timestamp": 1788818400,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 43,
@@ -130,9 +31,9 @@
       "awayTeam": "Cordoba District",
       "awayFlag": "✈️",
       "timestamp": 1788826500,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 44,

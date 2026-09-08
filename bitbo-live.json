@@ -20,8 +20,8 @@
       "awayTeam": "Castellon Yellow",
       "awayFlag": "✈️",
       "timestamp": 1788894000,
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 2,
       "isFinished": false
     },
     {
@@ -32,8 +32,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788894000,
       "homeScore": 0,
-      "awayScore": 1,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 46,
@@ -44,7 +44,7 @@
       "timestamp": 1788894000,
       "homeScore": 2,
       "awayScore": 3,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 47,
@@ -54,8 +54,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788894000,
       "homeScore": 2,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 48,

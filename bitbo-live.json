@@ -14,36 +14,14 @@
       "isFinished": false
     },
     {
-      "id": 42,
-      "homeFlag": "🏠",
-      "homeTeam": "Barracas Central",
-      "awayTeam": "Argentinos Juniors",
-      "awayFlag": "✈️",
-      "timestamp": 1788818400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 43,
-      "homeFlag": "🏠",
-      "homeTeam": "Santa Fe",
-      "awayTeam": "Cordoba District",
-      "awayFlag": "✈️",
-      "timestamp": 1788826500,
-      "homeScore": 3,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
       "id": 44,
       "homeFlag": "🏠",
       "homeTeam": "Dortmund",
       "awayTeam": "Castellon Yellow",
       "awayFlag": "✈️",
       "timestamp": 1788894000,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -54,7 +32,7 @@
       "awayFlag": "✈️",
       "timestamp": 1788894000,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -65,7 +43,7 @@
       "awayFlag": "✈️",
       "timestamp": 1788894000,
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 3,
       "isFinished": false
     },
     {

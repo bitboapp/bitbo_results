@@ -77,7 +77,7 @@
       "timestamp": 1788980400,
       "homeScore": 2,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 50,
@@ -86,9 +86,9 @@
       "awayTeam": "Bratislava",
       "awayFlag": "✈️",
       "timestamp": 1788980400,
-      "homeScore": 5,
+      "homeScore": 6,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 51,
@@ -97,9 +97,9 @@
       "awayTeam": "Istanbul Lions",
       "awayFlag": "✈️",
       "timestamp": 1788980400,
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 52,
@@ -109,8 +109,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788980400,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 53,
@@ -120,8 +120,8 @@
       "awayFlag": "✈️",
       "timestamp": 1788983100,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 54,

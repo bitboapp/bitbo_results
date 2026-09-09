@@ -64,9 +64,9 @@
       "awayTeam": "Rotterdam",
       "awayFlag": "✈️",
       "timestamp": 1788972300,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 5,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 49,
@@ -75,8 +75,8 @@
       "awayTeam": "Madrid Red White",
       "awayFlag": "✈️",
       "timestamp": 1788980400,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -86,8 +86,8 @@
       "awayTeam": "Bratislava",
       "awayFlag": "✈️",
       "timestamp": 1788980400,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 5,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -97,8 +97,8 @@
       "awayTeam": "Istanbul Lions",
       "awayFlag": "✈️",
       "timestamp": 1788980400,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "isFinished": false
     },
     {

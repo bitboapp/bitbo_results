@@ -130,9 +130,9 @@
       "awayTeam": "Rome Yellow Red",
       "awayFlag": "✈️",
       "timestamp": 1789058700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 55,
@@ -141,9 +141,9 @@
       "awayTeam": "Bodø Glimt",
       "awayFlag": "✈️",
       "timestamp": 1789066800,
-      "homeScore": 0,
+      "homeScore": 5,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 56,
@@ -152,9 +152,9 @@
       "awayTeam": "Sabah",
       "awayFlag": "✈️",
       "timestamp": 1789066800,
-      "homeScore": 0,
+      "homeScore": 4,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 57,

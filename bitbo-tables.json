@@ -14,13 +14,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": 8,
                     "points": 12,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "L",
-                        "W"
-                    ],
+                    "form": "WWWLW",
                     "lastMatches": [
                         {
                             "opponent": "Erzurum",
@@ -85,12 +79,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 6,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWWD",
                     "lastMatches": [
                         {
                             "opponent": "Basaksehir",
@@ -145,12 +134,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 2,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WWWL",
                     "lastMatches": [
                         {
                             "opponent": "Samsun",
@@ -205,12 +189,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": 5,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WLWD",
                     "lastMatches": [
                         {
                             "opponent": "Ankara Red",
@@ -265,12 +244,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 2,
                     "points": 7,
-                    "form": [
-                        "D",
-                        "W",
-                        "L",
-                        "W"
-                    ],
+                    "form": "DWLW",
                     "lastMatches": [
                         {
                             "opponent": "Kasimpasa",
@@ -325,12 +299,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 2,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WLWD",
                     "lastMatches": [
                         {
                             "opponent": "Goztepe",
@@ -385,12 +354,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 1,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WLWD",
                     "lastMatches": [
                         {
                             "opponent": "Rize",
@@ -445,12 +409,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -3,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "D",
-                        "W",
-                        "W"
-                    ],
+                    "form": "LDWW",
                     "lastMatches": [
                         {
                             "opponent": "Trabzon",
@@ -505,12 +464,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 2,
                     "points": 6,
-                    "form": [
-                        "L",
-                        "W",
-                        "W",
-                        "L"
-                    ],
+                    "form": "LWWL",
                     "lastMatches": [
                         {
                             "opponent": "Istanbul Eagles",
@@ -565,12 +519,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": 1,
                     "points": 6,
-                    "form": [
-                        "D",
-                        "D",
-                        "W",
-                        "D"
-                    ],
+                    "form": "DDWD",
                     "lastMatches": [
                         {
                             "opponent": "Diyarbakir",
@@ -625,12 +574,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -1,
                     "points": 6,
-                    "form": [
-                        "L",
-                        "W",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LWLW",
                     "lastMatches": [
                         {
                             "opponent": "Alanya",
@@ -685,12 +629,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 0,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "D",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LDLW",
                     "lastMatches": [
                         {
                             "opponent": "Istanbul Lions",
@@ -745,12 +684,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -1,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "LLWD",
                     "lastMatches": [
                         {
                             "opponent": "Kocaeli",
@@ -805,12 +739,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": -2,
                     "points": 4,
-                    "form": [
-                        "W",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "WLLD",
                     "lastMatches": [
                         {
                             "opponent": "Eyup",
@@ -865,13 +794,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -9,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "W",
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LWDLL",
                     "lastMatches": [
                         {
                             "opponent": "Istanbul Eagles",
@@ -936,12 +859,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -4,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LWLL",
                     "lastMatches": [
                         {
                             "opponent": "Corum",
@@ -996,12 +914,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -4,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "LLLD",
                     "lastMatches": [
                         {
                             "opponent": "Gaziantep",
@@ -1056,12 +969,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -5,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLLL",
                     "lastMatches": [
                         {
                             "opponent": "Erzurum",
@@ -1121,13 +1029,7 @@
                     "goalsAgainst": 21,
                     "goalDifference": 30,
                     "points": 54,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "L",
-                        "W"
-                    ],
+                    "form": "WWWLW",
                     "lastMatches": [
                         {
                             "opponent": "Belem",
@@ -1192,13 +1094,7 @@
                     "goalsAgainst": 21,
                     "goalDifference": 24,
                     "points": 53,
-                    "form": [
-                        "D",
-                        "D",
-                        "W",
-                        "L",
-                        "D"
-                    ],
+                    "form": "DDWLD",
                     "lastMatches": [
                         {
                             "opponent": "Rio City",
@@ -1263,13 +1159,7 @@
                     "goalsAgainst": 28,
                     "goalDifference": 10,
                     "points": 45,
-                    "form": [
-                        "L",
-                        "D",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "LDWDW",
                     "lastMatches": [
                         {
                             "opponent": "Belo Horizonte City",
@@ -1334,13 +1224,7 @@
                     "goalsAgainst": 32,
                     "goalDifference": 8,
                     "points": 45,
-                    "form": [
-                        "W",
-                        "D",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WDWWD",
                     "lastMatches": [
                         {
                             "opponent": "Rio Metro",
@@ -1405,13 +1289,7 @@
                     "goalsAgainst": 32,
                     "goalDifference": 8,
                     "points": 43,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "D",
-                        "D"
-                    ],
+                    "form": "WWWDD",
                     "lastMatches": [
                         {
                             "opponent": "RB Bragantino",
@@ -1476,13 +1354,7 @@
                     "goalsAgainst": 37,
                     "goalDifference": 1,
                     "points": 42,
-                    "form": [
-                        "W",
-                        "L",
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WLWWW",
                     "lastMatches": [
                         {
                             "opponent": "Curitiba",
@@ -1547,13 +1419,7 @@
                     "goalsAgainst": 35,
                     "goalDifference": -1,
                     "points": 37,
-                    "form": [
-                        "L",
-                        "W",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "LWWDW",
                     "lastMatches": [
                         {
                             "opponent": "Mirassol",
@@ -1618,13 +1484,7 @@
                     "goalsAgainst": 30,
                     "goalDifference": 2,
                     "points": 36,
-                    "form": [
-                        "L",
-                        "W",
-                        "D",
-                        "W",
-                        "D"
-                    ],
+                    "form": "LWDWD",
                     "lastMatches": [
                         {
                             "opponent": "Sao Paulo City",
@@ -1689,13 +1549,7 @@
                     "goalsAgainst": 28,
                     "goalDifference": 3,
                     "points": 35,
-                    "form": [
-                        "L",
-                        "L",
-                        "W",
-                        "D",
-                        "L"
-                    ],
+                    "form": "LLWDL",
                     "lastMatches": [
                         {
                             "opponent": "Salvador",
@@ -1760,13 +1614,7 @@
                     "goalsAgainst": 28,
                     "goalDifference": 3,
                     "points": 33,
-                    "form": [
-                        "W",
-                        "W",
-                        "L",
-                        "D",
-                        "L"
-                    ],
+                    "form": "WWLDL",
                     "lastMatches": [
                         {
                             "opponent": "Belo Horizonte",
@@ -1831,13 +1679,7 @@
                     "goalsAgainst": 37,
                     "goalDifference": -12,
                     "points": 32,
-                    "form": [
-                        "W",
-                        "L",
-                        "L",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WLLWL",
                     "lastMatches": [
                         {
                             "opponent": "Porto Alegre City",
@@ -1902,13 +1744,7 @@
                     "goalsAgainst": 27,
                     "goalDifference": 0,
                     "points": 32,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LLLLW",
                     "lastMatches": [
                         {
                             "opponent": "Chapeco",
@@ -1973,13 +1809,7 @@
                     "goalsAgainst": 38,
                     "goalDifference": -1,
                     "points": 32,
-                    "form": [
-                        "W",
-                        "W",
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WWDWL",
                     "lastMatches": [
                         {
                             "opponent": "Porto Alegre",
@@ -2044,13 +1874,7 @@
                     "goalsAgainst": 40,
                     "goalDifference": -3,
                     "points": 31,
-                    "form": [
-                        "D",
-                        "L",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "DLLLD",
                     "lastMatches": [
                         {
                             "opponent": "Sao Paulo",
@@ -2115,13 +1939,7 @@
                     "goalsAgainst": 33,
                     "goalDifference": -6,
                     "points": 28,
-                    "form": [
-                        "L",
-                        "W",
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LWLLW",
                     "lastMatches": [
                         {
                             "opponent": "Salvador City",
@@ -2186,13 +2004,7 @@
                     "goalsAgainst": 40,
                     "goalDifference": -11,
                     "points": 28,
-                    "form": [
-                        "W",
-                        "L",
-                        "D",
-                        "D",
-                        "L"
-                    ],
+                    "form": "WLDDL",
                     "lastMatches": [
                         {
                             "opponent": "Curitiba City",
@@ -2257,13 +2069,7 @@
                     "goalsAgainst": 40,
                     "goalDifference": -13,
                     "points": 25,
-                    "form": [
-                        "L",
-                        "W",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "LWLLD",
                     "lastMatches": [
                         {
                             "opponent": "Rio District",
@@ -2328,13 +2134,7 @@
                     "goalsAgainst": 34,
                     "goalDifference": -6,
                     "points": 25,
-                    "form": [
-                        "L",
-                        "L",
-                        "D",
-                        "D",
-                        "D"
-                    ],
+                    "form": "LLDDD",
                     "lastMatches": [
                         {
                             "opponent": "Santos",
@@ -2399,13 +2199,7 @@
                     "goalsAgainst": 43,
                     "goalDifference": -13,
                     "points": 23,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "D",
-                        "D"
-                    ],
+                    "form": "LLLDD",
                     "lastMatches": [
                         {
                             "opponent": "Rio",
@@ -2470,13 +2264,7 @@
                     "goalsAgainst": 50,
                     "goalDifference": -23,
                     "points": 17,
-                    "form": [
-                        "W",
-                        "L",
-                        "W",
-                        "D",
-                        "L"
-                    ],
+                    "form": "WLWDL",
                     "lastMatches": [
                         {
                             "opponent": "Sao Paulo District",
@@ -2546,12 +2334,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 3,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWWD",
                     "lastMatches": [
                         {
                             "opponent": "Marseille",
@@ -2606,11 +2389,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 4,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWW",
                     "lastMatches": [
                         {
                             "opponent": "Paris",
@@ -2655,11 +2434,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 4,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWD",
                     "lastMatches": [
                         {
                             "opponent": "Marseille",
@@ -2704,11 +2479,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 4,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "WDW",
                     "lastMatches": [
                         {
                             "opponent": "Auxerre",
@@ -2753,11 +2524,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 3,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "WDW",
                     "lastMatches": [
                         {
                             "opponent": "Toulouse",
@@ -2802,11 +2569,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": 1,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WWL",
                     "lastMatches": [
                         {
                             "opponent": "Troyes",
@@ -2851,11 +2614,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 1,
                     "points": 5,
-                    "form": [
-                        "W",
-                        "D",
-                        "D"
-                    ],
+                    "form": "WDD",
                     "lastMatches": [
                         {
                             "opponent": "Le Havre",
@@ -2900,11 +2659,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 0,
                     "points": 4,
-                    "form": [
-                        "W",
-                        "L",
-                        "D"
-                    ],
+                    "form": "WLD",
                     "lastMatches": [
                         {
                             "opponent": "Lens",
@@ -2949,11 +2704,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -3,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "LWD",
                     "lastMatches": [
                         {
                             "opponent": "Strasbourg",
@@ -2998,11 +2749,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LLW",
                     "lastMatches": [
                         {
                             "opponent": "Lorient",
@@ -3047,12 +2794,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 0,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LLLW",
                     "lastMatches": [
                         {
                             "opponent": "Rennes",
@@ -3107,11 +2849,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -1,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "W",
-                        "L"
-                    ],
+                    "form": "LWL",
                     "lastMatches": [
                         {
                             "opponent": "Rennes",
@@ -3156,11 +2894,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -1,
                     "points": 2,
-                    "form": [
-                        "L",
-                        "D",
-                        "D"
-                    ],
+                    "form": "LDD",
                     "lastMatches": [
                         {
                             "opponent": "Monaco",
@@ -3205,11 +2939,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -1,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "L",
-                        "D"
-                    ],
+                    "form": "DLD",
                     "lastMatches": [
                         {
                             "opponent": "Nice",
@@ -3254,11 +2984,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -3,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "L",
-                        "D"
-                    ],
+                    "form": "DLD",
                     "lastMatches": [
                         {
                             "opponent": "Le Mans",
@@ -3303,11 +3029,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -2,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "D",
-                        "L"
-                    ],
+                    "form": "LDL",
                     "lastMatches": [
                         {
                             "opponent": "Brest",
@@ -3352,11 +3074,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -3,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "D",
-                        "L"
-                    ],
+                    "form": "LDL",
                     "lastMatches": [
                         {
                             "opponent": "Lille",
@@ -3401,11 +3119,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -7,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLL",
                     "lastMatches": [
                         {
                             "opponent": "Lyon",
@@ -3455,11 +3169,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 9,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWW",
                     "lastMatches": [
                         {
                             "opponent": "Bergamo",
@@ -3504,11 +3214,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 5,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWW",
                     "lastMatches": [
                         {
                             "opponent": "Naples",
@@ -3553,11 +3259,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 3,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWW",
                     "lastMatches": [
                         {
                             "opponent": "Udine",
@@ -3602,11 +3304,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 4,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWD",
                     "lastMatches": [
                         {
                             "opponent": "Genoa",
@@ -3651,11 +3349,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 3,
                     "points": 7,
-                    "form": [
-                        "D",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DWW",
                     "lastMatches": [
                         {
                             "opponent": "Turin Black White",
@@ -3700,11 +3394,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 3,
                     "points": 7,
-                    "form": [
-                        "D",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DWW",
                     "lastMatches": [
                         {
                             "opponent": "Milan Red Black",
@@ -3749,11 +3439,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 3,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WWL",
                     "lastMatches": [
                         {
                             "opponent": "Venedig",
@@ -3798,11 +3484,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 1,
                     "points": 6,
-                    "form": [
-                        "L",
-                        "W",
-                        "W"
-                    ],
+                    "form": "LWW",
                     "lastMatches": [
                         {
                             "opponent": "Rome Yellow Red",
@@ -3847,11 +3529,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 1,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "L",
-                        "W"
-                    ],
+                    "form": "WLW",
                     "lastMatches": [
                         {
                             "opponent": "Lecce",
@@ -3896,11 +3574,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 0,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "DWL",
                     "lastMatches": [
                         {
                             "opponent": "Bologna",
@@ -3945,11 +3619,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 0,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "LWD",
                     "lastMatches": [
                         {
                             "opponent": "Rome Sky Blue",
@@ -3994,11 +3664,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 0,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LLW",
                     "lastMatches": [
                         {
                             "opponent": "Milan Blue Black",
@@ -4043,11 +3709,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -1,
                     "points": 3,
-                    "form": [
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "WLL",
                     "lastMatches": [
                         {
                             "opponent": "Florence",
@@ -4092,11 +3754,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -3,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LLW",
                     "lastMatches": [
                         {
                             "opponent": "Sardinia Red Blue",
@@ -4141,12 +3799,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -6,
                     "points": 3,
-                    "form": [
-                        "W",
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "WLLL",
                     "lastMatches": [
                         {
                             "opponent": "Venedig",
@@ -4201,11 +3854,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -2,
                     "points": 1,
-                    "form": [
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLL",
                     "lastMatches": [
                         {
                             "opponent": "Sassuolo",
@@ -4250,11 +3899,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -3,
                     "points": 1,
-                    "form": [
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLL",
                     "lastMatches": [
                         {
                             "opponent": "Monza",
@@ -4299,11 +3944,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -4,
                     "points": 1,
-                    "form": [
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLL",
                     "lastMatches": [
                         {
                             "opponent": "Parma",
@@ -4348,11 +3989,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -6,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLL",
                     "lastMatches": [
                         {
                             "opponent": "Como",
@@ -4397,12 +4034,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -7,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLLL",
                     "lastMatches": [
                         {
                             "opponent": "Florence",
@@ -4455,21 +4087,25 @@
                     "rank": 1,
                     "teamName": "Buenos Aires West",
                     "played": 9,
-                    "won": 5,
-                    "drawn": 4,
+                    "won": 4,
+                    "drawn": 5,
                     "lost": 0,
                     "goalsFor": 12,
-                    "goalsAgainst": 6,
-                    "goalDifference": 6,
-                    "points": 19,
-                    "form": [
-                        "W",
-                        "D",
-                        "D",
-                        "D",
-                        "D"
-                    ],
+                    "goalsAgainst": 7,
+                    "goalDifference": 5,
+                    "points": 17,
+                    "form": "DWDDD",
                     "lastMatches": [
+                        {
+                            "opponent": "Rosario City",
+                            "homeAway": "away",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1789156800,
+                            "sourceMatchId": "5116004"
+                        },
                         {
                             "opponent": "La Plata",
                             "homeAway": "home",
@@ -4509,179 +4145,21 @@
                             "result": "D",
                             "timestamp": 1787004900,
                             "sourceMatchId": "5115947"
-                        },
-                        {
-                            "opponent": "Buenos Aires",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1786227300,
-                            "sourceMatchId": "5115921"
                         }
                     ]
                 },
                 {
                     "rank": 2,
-                    "teamName": "Gimnasia Mendoza",
-                    "played": 8,
-                    "won": 5,
-                    "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 14,
-                    "goalsAgainst": 7,
-                    "goalDifference": 7,
-                    "points": 16,
-                    "form": [
-                        "D",
-                        "W",
-                        "W",
-                        "W",
-                        "L"
-                    ],
-                    "lastMatches": [
-                        {
-                            "opponent": "Buenos Aires",
-                            "homeAway": "home",
-                            "score": "2-2",
-                            "goalsFor": 2,
-                            "goalsAgainst": 2,
-                            "result": "D",
-                            "timestamp": 1788636600,
-                            "sourceMatchId": "5115984"
-                        },
-                        {
-                            "opponent": "Avellaneda City",
-                            "homeAway": "away",
-                            "score": "3-0",
-                            "goalsFor": 3,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788128100,
-                            "sourceMatchId": "5115971"
-                        },
-                        {
-                            "opponent": "Gimnasia LP",
-                            "homeAway": "away",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1787425200,
-                            "sourceMatchId": "5115953"
-                        },
-                        {
-                            "opponent": "Cordoba",
-                            "homeAway": "home",
-                            "score": "3-1",
-                            "goalsFor": 3,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1787013000,
-                            "sourceMatchId": "5115939"
-                        },
-                        {
-                            "opponent": "Cordoba District",
-                            "homeAway": "away",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1786235400,
-                            "sourceMatchId": "5115927"
-                        }
-                    ]
-                },
-                {
-                    "rank": 3,
-                    "teamName": "Cordoba District",
-                    "played": 8,
-                    "won": 5,
-                    "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 8,
-                    "goalsAgainst": 5,
-                    "goalDifference": 3,
-                    "points": 16,
-                    "form": [
-                        "L",
-                        "W",
-                        "D",
-                        "W",
-                        "W"
-                    ],
-                    "lastMatches": [
-                        {
-                            "opponent": "Santa Fe",
-                            "homeAway": "away",
-                            "score": "2-3",
-                            "goalsFor": 2,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1788826500,
-                            "sourceMatchId": "5115991"
-                        },
-                        {
-                            "opponent": "Buenos Aires South",
-                            "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788221700,
-                            "sourceMatchId": "5115973"
-                        },
-                        {
-                            "opponent": "Atlético Tucumán",
-                            "homeAway": "away",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1787425200,
-                            "sourceMatchId": "5115949"
-                        },
-                        {
-                            "opponent": "Santiago",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786922100,
-                            "sourceMatchId": "5115936"
-                        },
-                        {
-                            "opponent": "Gimnasia Mendoza",
-                            "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786235400,
-                            "sourceMatchId": "5115927"
-                        }
-                    ]
-                },
-                {
-                    "rank": 4,
                     "teamName": "Varela",
-                    "played": 8,
-                    "won": 4,
+                    "played": 9,
+                    "won": 5,
                     "drawn": 2,
                     "lost": 2,
-                    "goalsFor": 9,
+                    "goalsFor": 11,
                     "goalsAgainst": 9,
-                    "goalDifference": 0,
-                    "points": 14,
-                    "form": [
-                        "L",
-                        "W",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "goalDifference": 2,
+                    "points": 17,
+                    "form": "LWWDW",
                     "lastMatches": [
                         {
                             "opponent": "Lanus",
@@ -4736,6 +4214,136 @@
                     ]
                 },
                 {
+                    "rank": 3,
+                    "teamName": "Gimnasia Mendoza",
+                    "played": 9,
+                    "won": 5,
+                    "drawn": 1,
+                    "lost": 3,
+                    "goalsFor": 14,
+                    "goalsAgainst": 9,
+                    "goalDifference": 5,
+                    "points": 16,
+                    "form": "DWWWL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Buenos Aires",
+                            "homeAway": "home",
+                            "score": "2-2",
+                            "goalsFor": 2,
+                            "goalsAgainst": 2,
+                            "result": "D",
+                            "timestamp": 1788636600,
+                            "sourceMatchId": "5115984"
+                        },
+                        {
+                            "opponent": "Avellaneda City",
+                            "homeAway": "away",
+                            "score": "3-0",
+                            "goalsFor": 3,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788128100,
+                            "sourceMatchId": "5115971"
+                        },
+                        {
+                            "opponent": "Gimnasia LP",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1787425200,
+                            "sourceMatchId": "5115953"
+                        },
+                        {
+                            "opponent": "Cordoba",
+                            "homeAway": "home",
+                            "score": "3-1",
+                            "goalsFor": 3,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1787013000,
+                            "sourceMatchId": "5115939"
+                        },
+                        {
+                            "opponent": "Cordoba District",
+                            "homeAway": "away",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1786235400,
+                            "sourceMatchId": "5115927"
+                        }
+                    ]
+                },
+                {
+                    "rank": 4,
+                    "teamName": "Cordoba District",
+                    "played": 8,
+                    "won": 5,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 8,
+                    "goalsAgainst": 5,
+                    "goalDifference": 3,
+                    "points": 16,
+                    "form": "LWDWW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Santa Fe",
+                            "homeAway": "away",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1788826500,
+                            "sourceMatchId": "5115991"
+                        },
+                        {
+                            "opponent": "Buenos Aires South",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788221700,
+                            "sourceMatchId": "5115973"
+                        },
+                        {
+                            "opponent": "Atlético Tucumán",
+                            "homeAway": "away",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1787425200,
+                            "sourceMatchId": "5115949"
+                        },
+                        {
+                            "opponent": "Santiago",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1786922100,
+                            "sourceMatchId": "5115936"
+                        },
+                        {
+                            "opponent": "Gimnasia Mendoza",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1786235400,
+                            "sourceMatchId": "5115927"
+                        }
+                    ]
+                },
+                {
                     "rank": 5,
                     "teamName": "Santa Fe",
                     "played": 8,
@@ -4746,13 +4354,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": 3,
                     "points": 13,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "WWWLL",
                     "lastMatches": [
                         {
                             "opponent": "Cordoba District",
@@ -4808,6 +4410,71 @@
                 },
                 {
                     "rank": 6,
+                    "teamName": "Rosario City",
+                    "played": 9,
+                    "won": 3,
+                    "drawn": 4,
+                    "lost": 2,
+                    "goalsFor": 10,
+                    "goalsAgainst": 8,
+                    "goalDifference": 2,
+                    "points": 13,
+                    "form": "DDDWW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Buenos Aires West",
+                            "homeAway": "home",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1789156800,
+                            "sourceMatchId": "5116004"
+                        },
+                        {
+                            "opponent": "Rosario Central",
+                            "homeAway": "away",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1788716700,
+                            "sourceMatchId": "5115989"
+                        },
+                        {
+                            "opponent": "La Plata",
+                            "homeAway": "away",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1788213600,
+                            "sourceMatchId": "5115969"
+                        },
+                        {
+                            "opponent": "Banfield",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1787443200,
+                            "sourceMatchId": "5115957"
+                        },
+                        {
+                            "opponent": "Riestra",
+                            "homeAway": "home",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1786831200,
+                            "sourceMatchId": "5115941"
+                        }
+                    ]
+                },
+                {
+                    "rank": 7,
                     "teamName": "Avellaneda City",
                     "played": 8,
                     "won": 4,
@@ -4817,13 +4484,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 1,
                     "points": 13,
-                    "form": [
-                        "W",
-                        "L",
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WLDWL",
                     "lastMatches": [
                         {
                             "opponent": "Santiago",
@@ -4878,77 +4539,6 @@
                     ]
                 },
                 {
-                    "rank": 7,
-                    "teamName": "Rosario City",
-                    "played": 9,
-                    "won": 3,
-                    "drawn": 3,
-                    "lost": 3,
-                    "goalsFor": 9,
-                    "goalsAgainst": 8,
-                    "goalDifference": 1,
-                    "points": 12,
-                    "form": [
-                        "D",
-                        "D",
-                        "W",
-                        "W",
-                        "L"
-                    ],
-                    "lastMatches": [
-                        {
-                            "opponent": "Rosario Central",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1788716700,
-                            "sourceMatchId": "5115989"
-                        },
-                        {
-                            "opponent": "La Plata",
-                            "homeAway": "away",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1788213600,
-                            "sourceMatchId": "5115969"
-                        },
-                        {
-                            "opponent": "Banfield",
-                            "homeAway": "home",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1787443200,
-                            "sourceMatchId": "5115957"
-                        },
-                        {
-                            "opponent": "Riestra",
-                            "homeAway": "home",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786831200,
-                            "sourceMatchId": "5115941"
-                        },
-                        {
-                            "opponent": "Varela",
-                            "homeAway": "away",
-                            "score": "1-2",
-                            "goalsFor": 1,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1786308300,
-                            "sourceMatchId": "5115922"
-                        }
-                    ]
-                },
-                {
                     "rank": 8,
                     "teamName": "Buenos Aires",
                     "played": 8,
@@ -4959,13 +4549,7 @@
                     "goalsAgainst": 10,
                     "goalDifference": -1,
                     "points": 11,
-                    "form": [
-                        "D",
-                        "W",
-                        "D",
-                        "D",
-                        "D"
-                    ],
+                    "form": "DWDDD",
                     "lastMatches": [
                         {
                             "opponent": "Gimnasia Mendoza",
@@ -5030,13 +4614,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": 0,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "L",
-                        "D",
-                        "L",
-                        "W"
-                    ],
+                    "form": "WLDLW",
                     "lastMatches": [
                         {
                             "opponent": "Varela",
@@ -5101,13 +4679,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -2,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "L",
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WLDWL",
                     "lastMatches": [
                         {
                             "opponent": "Cordoba",
@@ -5172,13 +4744,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": 1,
                     "points": 9,
-                    "form": [
-                        "D",
-                        "D",
-                        "D",
-                        "L",
-                        "W"
-                    ],
+                    "form": "DDDLW",
                     "lastMatches": [
                         {
                             "opponent": "Vicente Lopez",
@@ -5243,13 +4809,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": -4,
                     "points": 9,
-                    "form": [
-                        "D",
-                        "L",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "DLWDW",
                     "lastMatches": [
                         {
                             "opponent": "Riestra",
@@ -5314,13 +4874,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -1,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "D",
-                        "L",
-                        "W",
-                        "L"
-                    ],
+                    "form": "LDLWL",
                     "lastMatches": [
                         {
                             "opponent": "Buenos Aires West",
@@ -5385,13 +4939,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -4,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "D",
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LDLLW",
                     "lastMatches": [
                         {
                             "opponent": "Avellaneda City",
@@ -5456,13 +5004,7 @@
                     "goalsAgainst": 13,
                     "goalDifference": -5,
                     "points": 5,
-                    "form": [
-                        "L",
-                        "D",
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LDDLL",
                     "lastMatches": [
                         {
                             "opponent": "Buenos Aires South",
@@ -5532,13 +5074,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": 5,
                     "points": 17,
-                    "form": [
-                        "D",
-                        "W",
-                        "D",
-                        "L",
-                        "W"
-                    ],
+                    "form": "DWDLW",
                     "lastMatches": [
                         {
                             "opponent": "Barracas",
@@ -5603,13 +5139,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": 3,
                     "points": 15,
-                    "form": [
-                        "W",
-                        "L",
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WLWWW",
                     "lastMatches": [
                         {
                             "opponent": "Rio Cuarto",
@@ -5674,13 +5204,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": 0,
                     "points": 15,
-                    "form": [
-                        "W",
-                        "W",
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "WWLLW",
                     "lastMatches": [
                         {
                             "opponent": "Tigre",
@@ -5745,13 +5269,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 3,
                     "points": 13,
-                    "form": [
-                        "W",
-                        "D",
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WDDWL",
                     "lastMatches": [
                         {
                             "opponent": "Avellaneda",
@@ -5816,13 +5334,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 3,
                     "points": 12,
-                    "form": [
-                        "D",
-                        "D",
-                        "L",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DDLWW",
                     "lastMatches": [
                         {
                             "opponent": "Buenos Aires District",
@@ -5887,13 +5399,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 2,
                     "points": 12,
-                    "form": [
-                        "L",
-                        "D",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "LDWDW",
                     "lastMatches": [
                         {
                             "opponent": "La Plata City",
@@ -5958,13 +5464,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": 1,
                     "points": 12,
-                    "form": [
-                        "D",
-                        "L",
-                        "D",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DLDWW",
                     "lastMatches": [
                         {
                             "opponent": "Newell's Old Boys",
@@ -6029,13 +5529,7 @@
                     "goalsAgainst": 10,
                     "goalDifference": -1,
                     "points": 11,
-                    "form": [
-                        "L",
-                        "W",
-                        "D",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LWDLW",
                     "lastMatches": [
                         {
                             "opponent": "Buenos Aires City",
@@ -6100,13 +5594,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -1,
                     "points": 11,
-                    "form": [
-                        "D",
-                        "D",
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DDLLL",
                     "lastMatches": [
                         {
                             "opponent": "Buenos Aires District",
@@ -6171,13 +5659,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": 1,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "W",
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WWDWL",
                     "lastMatches": [
                         {
                             "opponent": "Mendoza City",
@@ -6242,13 +5724,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 0,
                     "points": 10,
-                    "form": [
-                        "D",
-                        "D",
-                        "D",
-                        "L",
-                        "W"
-                    ],
+                    "form": "DDDLW",
                     "lastMatches": [
                         {
                             "opponent": "Cordoba City",
@@ -6313,13 +5789,7 @@
                     "goalsAgainst": 13,
                     "goalDifference": -5,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "W",
-                        "L"
-                    ],
+                    "form": "LLLWL",
                     "lastMatches": [
                         {
                             "opponent": "Mar del Plata",
@@ -6384,13 +5854,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": -6,
                     "points": 6,
-                    "form": [
-                        "L",
-                        "D",
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LDDLL",
                     "lastMatches": [
                         {
                             "opponent": "Junin",
@@ -6455,13 +5919,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": -4,
                     "points": 5,
-                    "form": [
-                        "W",
-                        "L",
-                        "L",
-                        "D",
-                        "L"
-                    ],
+                    "form": "WLLDL",
                     "lastMatches": [
                         {
                             "opponent": "Banfield",
@@ -6526,13 +5984,7 @@
                     "goalsAgainst": 13,
                     "goalDifference": -6,
                     "points": 5,
-                    "form": [
-                        "L",
-                        "L",
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLDLL",
                     "lastMatches": [
                         {
                             "opponent": "Tucuman",
@@ -6602,9 +6054,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 5,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Bratislava",
@@ -6629,9 +6079,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 5,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Bodø Glimt",
@@ -6656,9 +6104,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 4,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Rotterdam",
@@ -6683,9 +6129,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 4,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Sabah",
@@ -6710,9 +6154,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 3,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Leipzig",
@@ -6737,9 +6179,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 2,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Istanbul Lions",
@@ -6764,9 +6204,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 2,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Viking",
@@ -6791,9 +6229,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 2,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Porto",
@@ -6818,9 +6254,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Bruges",
@@ -6845,9 +6279,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Prague",
@@ -6872,9 +6304,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Lille",
@@ -6899,9 +6329,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Castellon Yellow",
@@ -6926,9 +6354,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Madrid Red White",
@@ -6953,9 +6379,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Milan Blue Black",
@@ -6980,9 +6404,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "Naples",
@@ -7007,9 +6429,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "W"
-                    ],
+                    "form": "W",
                     "lastMatches": [
                         {
                             "opponent": "LASK",
@@ -7034,9 +6454,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 0,
                     "points": 1,
-                    "form": [
-                        "D"
-                    ],
+                    "form": "D",
                     "lastMatches": [
                         {
                             "opponent": "Istanbul Yellows",
@@ -7061,9 +6479,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 0,
                     "points": 1,
-                    "form": [
-                        "D"
-                    ],
+                    "form": "D",
                     "lastMatches": [
                         {
                             "opponent": "Eindhoven",
@@ -7088,9 +6504,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 0,
                     "points": 1,
-                    "form": [
-                        "D"
-                    ],
+                    "form": "D",
                     "lastMatches": [
                         {
                             "opponent": "Rome Yellow Red",
@@ -7115,9 +6529,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 0,
                     "points": 1,
-                    "form": [
-                        "D"
-                    ],
+                    "form": "D",
                     "lastMatches": [
                         {
                             "opponent": "Donetsk",
@@ -7142,9 +6554,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Dortmund",
@@ -7169,9 +6579,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Birmingham Blue",
@@ -7196,9 +6604,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Seville Green White",
@@ -7223,9 +6629,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Lens",
@@ -7250,9 +6654,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Merseyside Red",
@@ -7277,9 +6679,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Madrid White",
@@ -7304,9 +6704,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Athens",
@@ -7331,9 +6729,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": -1,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "North London Red",
@@ -7358,9 +6754,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": -2,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Lisbon City",
@@ -7385,9 +6779,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": -2,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Stuttgart",
@@ -7412,9 +6804,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": -2,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Manchester Blue",
@@ -7439,9 +6829,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -3,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Como",
@@ -7466,9 +6854,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -4,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Catalonia Blue Red",
@@ -7493,9 +6879,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -4,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Manchester Red",
@@ -7520,9 +6904,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -5,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Paris",
@@ -7547,9 +6929,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -5,
                     "points": 0,
-                    "form": [
-                        "L"
-                    ],
+                    "form": "L",
                     "lastMatches": [
                         {
                             "opponent": "Munich",
@@ -7579,7 +6959,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7593,7 +6973,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7607,7 +6987,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7621,7 +7001,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7635,7 +7015,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7649,7 +7029,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7663,7 +7043,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7677,7 +7057,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7691,7 +7071,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7705,7 +7085,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7719,7 +7099,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7733,7 +7113,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7747,7 +7127,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7761,7 +7141,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7775,7 +7155,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7789,7 +7169,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7803,7 +7183,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7817,7 +7197,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7831,7 +7211,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7845,7 +7225,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7859,7 +7239,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7873,7 +7253,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7887,7 +7267,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7901,7 +7281,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7915,7 +7295,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7929,7 +7309,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7943,7 +7323,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7957,7 +7337,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7971,7 +7351,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7985,7 +7365,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -7999,7 +7379,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8013,7 +7393,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8027,7 +7407,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8041,7 +7421,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8055,7 +7435,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8069,7 +7449,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 }
             ]
@@ -8088,7 +7468,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8102,7 +7482,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8116,7 +7496,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8130,7 +7510,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8144,7 +7524,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8158,7 +7538,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8172,7 +7552,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8186,7 +7566,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8200,7 +7580,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8214,7 +7594,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8228,7 +7608,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8242,7 +7622,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8256,7 +7636,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8270,7 +7650,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8284,7 +7664,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8298,7 +7678,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8312,7 +7692,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8326,7 +7706,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8340,7 +7720,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8354,7 +7734,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8368,7 +7748,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8382,7 +7762,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8396,7 +7776,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8410,7 +7790,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8424,7 +7804,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8438,7 +7818,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8452,7 +7832,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8466,7 +7846,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8480,7 +7860,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8494,7 +7874,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8508,7 +7888,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8522,7 +7902,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8536,7 +7916,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8550,7 +7930,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8564,7 +7944,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 },
                 {
@@ -8578,7 +7958,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 0,
                     "points": 0,
-                    "form": [],
+                    "form": "",
                     "lastMatches": []
                 }
             ]
@@ -8597,11 +7977,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 5,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWW",
                     "lastMatches": [
                         {
                             "opponent": "Coventry",
@@ -8646,11 +8022,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 5,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWW",
                     "lastMatches": [
                         {
                             "opponent": "West London Blue",
@@ -8695,11 +8067,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 3,
                     "points": 7,
-                    "form": [
-                        "D",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DWW",
                     "lastMatches": [
                         {
                             "opponent": "Birmingham Blue",
@@ -8744,11 +8112,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": 1,
                     "points": 6,
-                    "form": [
-                        "L",
-                        "W",
-                        "W"
-                    ],
+                    "form": "LWW",
                     "lastMatches": [
                         {
                             "opponent": "North London Red",
@@ -8793,11 +8157,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 3,
                     "points": 5,
-                    "form": [
-                        "D",
-                        "D",
-                        "W"
-                    ],
+                    "form": "DDW",
                     "lastMatches": [
                         {
                             "opponent": "Wearside Red",
@@ -8842,11 +8202,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": 2,
                     "points": 5,
-                    "form": [
-                        "W",
-                        "D",
-                        "D"
-                    ],
+                    "form": "WDD",
                     "lastMatches": [
                         {
                             "opponent": "Ipswich Town",
@@ -8891,11 +8247,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": 2,
                     "points": 5,
-                    "form": [
-                        "D",
-                        "W",
-                        "D"
-                    ],
+                    "form": "DWD",
                     "lastMatches": [
                         {
                             "opponent": "Bournemouth",
@@ -8940,11 +8292,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 2,
                     "points": 5,
-                    "form": [
-                        "D",
-                        "D",
-                        "W"
-                    ],
+                    "form": "DDW",
                     "lastMatches": [
                         {
                             "opponent": "Manchester Red",
@@ -8989,11 +8337,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 1,
                     "points": 5,
-                    "form": [
-                        "D",
-                        "D",
-                        "W"
-                    ],
+                    "form": "DDW",
                     "lastMatches": [
                         {
                             "opponent": "Sussex Seagulls",
@@ -9038,11 +8382,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 3,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "L",
-                        "W"
-                    ],
+                    "form": "DLW",
                     "lastMatches": [
                         {
                             "opponent": "Yorkshire Leeds",
@@ -9087,11 +8427,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 1,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "DWL",
                     "lastMatches": [
                         {
                             "opponent": "Merseyside Blue",
@@ -9136,11 +8472,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 0,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "DWL",
                     "lastMatches": [
                         {
                             "opponent": "West London Bees",
@@ -9185,11 +8517,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -4,
                     "points": 3,
-                    "form": [
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "WLL",
                     "lastMatches": [
                         {
                             "opponent": "West London White",
@@ -9234,11 +8562,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -4,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LLW",
                     "lastMatches": [
                         {
                             "opponent": "Merseyside Red",
@@ -9283,11 +8607,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -1,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "D",
-                        "L"
-                    ],
+                    "form": "DDL",
                     "lastMatches": [
                         {
                             "opponent": "Tyneside Black",
@@ -9332,11 +8652,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": -1,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "D",
-                        "L"
-                    ],
+                    "form": "DDL",
                     "lastMatches": [
                         {
                             "opponent": "North London White",
@@ -9381,11 +8697,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -5,
                     "points": 1,
-                    "form": [
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLL",
                     "lastMatches": [
                         {
                             "opponent": "Yorkshire Hull",
@@ -9430,11 +8742,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -5,
                     "points": 1,
-                    "form": [
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLL",
                     "lastMatches": [
                         {
                             "opponent": "Nottingham Red",
@@ -9479,11 +8787,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -3,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLL",
                     "lastMatches": [
                         {
                             "opponent": "South London Eagles",
@@ -9528,11 +8832,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -5,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLL",
                     "lastMatches": [
                         {
                             "opponent": "Manchester Blue",
@@ -9582,12 +8882,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 15,
                     "points": 12,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWWW",
                     "lastMatches": [
                         {
                             "opponent": "Valencia Orange",
@@ -9642,12 +8937,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 7,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "WWDW",
                     "lastMatches": [
                         {
                             "opponent": "Pamplona Red",
@@ -9702,13 +8992,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 2,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "D",
-                        "L",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WDLWW",
                     "lastMatches": [
                         {
                             "opponent": "Valencia Orange",
@@ -9773,12 +9057,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 7,
                     "points": 9,
-                    "form": [
-                        "L",
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "LWWW",
                     "lastMatches": [
                         {
                             "opponent": "Seville Green White",
@@ -9833,12 +9112,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 0,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "L",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WLWW",
                     "lastMatches": [
                         {
                             "opponent": "Madrid White",
@@ -9893,12 +9167,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 3,
                     "points": 8,
-                    "form": [
-                        "W",
-                        "W",
-                        "D",
-                        "D"
-                    ],
+                    "form": "WWDD",
                     "lastMatches": [
                         {
                             "opponent": "Castellon Yellow",
@@ -9953,12 +9222,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 1,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "LWDW",
                     "lastMatches": [
                         {
                             "opponent": "Bilbao Red White",
@@ -10013,12 +9277,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -1,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "LWWD",
                     "lastMatches": [
                         {
                             "opponent": "Vitoria Alava",
@@ -10073,13 +9332,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -2,
                     "points": 7,
-                    "form": [
-                        "W",
-                        "D",
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "WDWLL",
                     "lastMatches": [
                         {
                             "opponent": "Alicante Elche",
@@ -10144,12 +9397,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 1,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "WWLL",
                     "lastMatches": [
                         {
                             "opponent": "Madrid Red White",
@@ -10204,12 +9452,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 0,
                     "points": 5,
-                    "form": [
-                        "D",
-                        "W",
-                        "D",
-                        "L"
-                    ],
+                    "form": "DWDL",
                     "lastMatches": [
                         {
                             "opponent": "Málaga",
@@ -10264,12 +9507,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 1,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "DLLW",
                     "lastMatches": [
                         {
                             "opponent": "Seville White Red",
@@ -10324,12 +9562,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -1,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "W",
-                        "L",
-                        "D"
-                    ],
+                    "form": "LWLD",
                     "lastMatches": [
                         {
                             "opponent": "Vallecas Red Stripe",
@@ -10384,12 +9617,7 @@
                     "goalsAgainst": 10,
                     "goalDifference": -3,
                     "points": 4,
-                    "form": [
-                        "W",
-                        "L",
-                        "D",
-                        "L"
-                    ],
+                    "form": "WLDL",
                     "lastMatches": [
                         {
                             "opponent": "Santander",
@@ -10444,12 +9672,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -3,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "L",
-                        "W",
-                        "L"
-                    ],
+                    "form": "DLWL",
                     "lastMatches": [
                         {
                             "opponent": "Vigo Sky Blue",
@@ -10504,13 +9727,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -3,
                     "points": 3,
-                    "form": [
-                        "D",
-                        "D",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "DDLLD",
                     "lastMatches": [
                         {
                             "opponent": "Madrid South Blue",
@@ -10575,12 +9792,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -2,
                     "points": 2,
-                    "form": [
-                        "L",
-                        "L",
-                        "D",
-                        "D"
-                    ],
+                    "form": "LLDD",
                     "lastMatches": [
                         {
                             "opponent": "A Coruña",
@@ -10635,12 +9847,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -6,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "L",
-                        "D",
-                        "L"
-                    ],
+                    "form": "DLDL",
                     "lastMatches": [
                         {
                             "opponent": "Valencia Blue Red",
@@ -10695,12 +9902,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": -7,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "LLLD",
                     "lastMatches": [
                         {
                             "opponent": "San Sebastian Blue",
@@ -10755,13 +9957,7 @@
                     "goalsAgainst": 10,
                     "goalDifference": -9,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "LLLLD",
                     "lastMatches": [
                         {
                             "opponent": "Seville White Red",
@@ -10831,13 +10027,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 10,
                     "points": 15,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "WWWWW",
                     "lastMatches": [
                         {
                             "opponent": "Moreira",
@@ -10902,13 +10092,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 15,
                     "points": 13,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWWWD",
                     "lastMatches": [
                         {
                             "opponent": "Moreira",
@@ -10973,13 +10157,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 9,
                     "points": 13,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWWWD",
                     "lastMatches": [
                         {
                             "opponent": "Nacional",
@@ -11044,13 +10222,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 6,
                     "points": 11,
-                    "form": [
-                        "W",
-                        "D",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WDWWD",
                     "lastMatches": [
                         {
                             "opponent": "Vila do Conde",
@@ -11115,13 +10287,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 4,
                     "points": 10,
-                    "form": [
-                        "D",
-                        "W",
-                        "L",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DWLWW",
                     "lastMatches": [
                         {
                             "opponent": "Estoril",
@@ -11186,13 +10352,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": 2,
                     "points": 9,
-                    "form": [
-                        "W",
-                        "D",
-                        "W",
-                        "D",
-                        "D"
-                    ],
+                    "form": "WDWDD",
                     "lastMatches": [
                         {
                             "opponent": "Braga",
@@ -11257,12 +10417,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 2,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "D",
-                        "W",
-                        "W"
-                    ],
+                    "form": "LDWW",
                     "lastMatches": [
                         {
                             "opponent": "Viseu",
@@ -11317,12 +10472,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 1,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "LWWD",
                     "lastMatches": [
                         {
                             "opponent": "Amadora",
@@ -11377,13 +10527,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -2,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "L",
-                        "D",
-                        "W",
-                        "W"
-                    ],
+                    "form": "LLDWW",
                     "lastMatches": [
                         {
                             "opponent": "Lisbon Red",
@@ -11448,13 +10592,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -3,
                     "points": 5,
-                    "form": [
-                        "W",
-                        "L",
-                        "D",
-                        "L",
-                        "D"
-                    ],
+                    "form": "WLDLD",
                     "lastMatches": [
                         {
                             "opponent": "Barcelos",
@@ -11519,13 +10657,7 @@
                     "goalsAgainst": 8,
                     "goalDifference": -2,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "L",
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "LLLWD",
                     "lastMatches": [
                         {
                             "opponent": "Lisbon City",
@@ -11590,13 +10722,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -2,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "L",
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLWLL",
                     "lastMatches": [
                         {
                             "opponent": "Lisbon District",
@@ -11661,13 +10787,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": -8,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "L",
-                        "W",
-                        "L",
-                        "D"
-                    ],
+                    "form": "LLWLD",
                     "lastMatches": [
                         {
                             "opponent": "Lisbon Red",
@@ -11732,13 +10852,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -2,
                     "points": 3,
-                    "form": [
-                        "D",
-                        "D",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "DDLLD",
                     "lastMatches": [
                         {
                             "opponent": "Amadora",
@@ -11803,13 +10917,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -9,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "L",
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LLWLL",
                     "lastMatches": [
                         {
                             "opponent": "Ponta Delgada",
@@ -11874,13 +10982,7 @@
                     "goalsAgainst": 10,
                     "goalDifference": -5,
                     "points": 2,
-                    "form": [
-                        "L",
-                        "D",
-                        "L",
-                        "D",
-                        "L"
-                    ],
+                    "form": "LDLDL",
                     "lastMatches": [
                         {
                             "opponent": "Braga",
@@ -11945,13 +11047,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -5,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "L",
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "DLLLD",
                     "lastMatches": [
                         {
                             "opponent": "Arouca",
@@ -12016,13 +11112,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -11,
                     "points": 1,
-                    "form": [
-                        "D",
-                        "L",
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLLLL",
                     "lastMatches": [
                         {
                             "opponent": "Guimaraes",
@@ -12092,10 +11182,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 6,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "W"
-                    ],
+                    "form": "WW",
                     "lastMatches": [
                         {
                             "opponent": "Frankfurt",
@@ -12130,10 +11217,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 4,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "W"
-                    ],
+                    "form": "WW",
                     "lastMatches": [
                         {
                             "opponent": "Paderborn",
@@ -12168,10 +11252,7 @@
                     "goalsAgainst": 2,
                     "goalDifference": 3,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "W"
-                    ],
+                    "form": "WW",
                     "lastMatches": [
                         {
                             "opponent": "Hoffenheim",
@@ -12206,10 +11287,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 2,
                     "points": 6,
-                    "form": [
-                        "W",
-                        "W"
-                    ],
+                    "form": "WW",
                     "lastMatches": [
                         {
                             "opponent": "Gladbach",
@@ -12244,10 +11322,7 @@
                     "goalsAgainst": 0,
                     "goalDifference": 5,
                     "points": 4,
-                    "form": [
-                        "W",
-                        "D"
-                    ],
+                    "form": "WD",
                     "lastMatches": [
                         {
                             "opponent": "Hamburg",
@@ -12282,10 +11357,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": 4,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "W"
-                    ],
+                    "form": "DW",
                     "lastMatches": [
                         {
                             "opponent": "Gelsenkirchen",
@@ -12320,11 +11392,7 @@
                     "goalsAgainst": 4,
                     "goalDifference": -1,
                     "points": 4,
-                    "form": [
-                        "W",
-                        "D",
-                        "L"
-                    ],
+                    "form": "WDL",
                     "lastMatches": [
                         {
                             "opponent": "Berlin",
@@ -12369,10 +11437,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 3,
                     "points": 3,
-                    "form": [
-                        "W",
-                        "L"
-                    ],
+                    "form": "WL",
                     "lastMatches": [
                         {
                             "opponent": "Berlin",
@@ -12407,10 +11472,7 @@
                     "goalsAgainst": 3,
                     "goalDifference": 1,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "W"
-                    ],
+                    "form": "LW",
                     "lastMatches": [
                         {
                             "opponent": "Bremen",
@@ -12445,10 +11507,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -1,
                     "points": 3,
-                    "form": [
-                        "W",
-                        "L"
-                    ],
+                    "form": "WL",
                     "lastMatches": [
                         {
                             "opponent": "Cologne",
@@ -12483,10 +11542,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": -1,
                     "points": 3,
-                    "form": [
-                        "W",
-                        "L"
-                    ],
+                    "form": "WL",
                     "lastMatches": [
                         {
                             "opponent": "Leipzig",
@@ -12521,10 +11577,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -2,
                     "points": 3,
-                    "form": [
-                        "L",
-                        "W"
-                    ],
+                    "form": "LW",
                     "lastMatches": [
                         {
                             "opponent": "Stuttgart",
@@ -12559,10 +11612,7 @@
                     "goalsAgainst": 1,
                     "goalDifference": -1,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "D"
-                    ],
+                    "form": "LD",
                     "lastMatches": [
                         {
                             "opponent": "Freiburg",
@@ -12597,10 +11647,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -3,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "D"
-                    ],
+                    "form": "LD",
                     "lastMatches": [
                         {
                             "opponent": "Augsburg",
@@ -12635,11 +11682,7 @@
                     "goalsAgainst": 10,
                     "goalDifference": -6,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "L",
-                        "D"
-                    ],
+                    "form": "LLD",
                     "lastMatches": [
                         {
                             "opponent": "Gelsenkirchen",
@@ -12684,10 +11727,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": -2,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L"
-                    ],
+                    "form": "LL",
                     "lastMatches": [
                         {
                             "opponent": "Dortmund",
@@ -12722,10 +11762,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -4,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L"
-                    ],
+                    "form": "LL",
                     "lastMatches": [
                         {
                             "opponent": "Elversberg",
@@ -12760,10 +11797,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": -7,
                     "points": 0,
-                    "form": [
-                        "L",
-                        "L"
-                    ],
+                    "form": "LL",
                     "lastMatches": [
                         {
                             "opponent": "Mainz",
@@ -12803,13 +11837,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 11,
                     "points": 16,
-                    "form": [
-                        "D",
-                        "W",
-                        "W",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DWWWW",
                     "lastMatches": [
                         {
                             "opponent": "Tilburg",
@@ -12874,13 +11902,7 @@
                     "goalsAgainst": 6,
                     "goalDifference": 12,
                     "points": 13,
-                    "form": [
-                        "W",
-                        "W",
-                        "W",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWWWD",
                     "lastMatches": [
                         {
                             "opponent": "Amsterdam",
@@ -12945,13 +11967,7 @@
                     "goalsAgainst": 7,
                     "goalDifference": 6,
                     "points": 11,
-                    "form": [
-                        "W",
-                        "D",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "WDWDW",
                     "lastMatches": [
                         {
                             "opponent": "Nijmegen",
@@ -13016,13 +12032,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 7,
                     "points": 10,
-                    "form": [
-                        "D",
-                        "W",
-                        "W",
-                        "L",
-                        "W"
-                    ],
+                    "form": "DWWLW",
                     "lastMatches": [
                         {
                             "opponent": "Nijmegen",
@@ -13087,13 +12097,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 5,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "D",
-                        "W",
-                        "W",
-                        "L"
-                    ],
+                    "form": "WDWWL",
                     "lastMatches": [
                         {
                             "opponent": "Velsen",
@@ -13158,13 +12162,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": 2,
                     "points": 10,
-                    "form": [
-                        "W",
-                        "W",
-                        "L",
-                        "W",
-                        "D"
-                    ],
+                    "form": "WWLWD",
                     "lastMatches": [
                         {
                             "opponent": "Den Haag",
@@ -13229,13 +12227,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": 2,
                     "points": 8,
-                    "form": [
-                        "D",
-                        "L",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "DLWDW",
                     "lastMatches": [
                         {
                             "opponent": "Utrecht",
@@ -13300,12 +12292,7 @@
                     "goalsAgainst": 5,
                     "goalDifference": 4,
                     "points": 7,
-                    "form": [
-                        "L",
-                        "W",
-                        "D",
-                        "W"
-                    ],
+                    "form": "LWDW",
                     "lastMatches": [
                         {
                             "opponent": "Eindhoven",
@@ -13360,13 +12347,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": 2,
                     "points": 7,
-                    "form": [
-                        "D",
-                        "L",
-                        "W",
-                        "W",
-                        "L"
-                    ],
+                    "form": "DLWWL",
                     "lastMatches": [
                         {
                             "opponent": "Rotterdam District",
@@ -13431,13 +12412,7 @@
                     "goalsAgainst": 12,
                     "goalDifference": -1,
                     "points": 7,
-                    "form": [
-                        "D",
-                        "L",
-                        "L",
-                        "W",
-                        "W"
-                    ],
+                    "form": "DLLWW",
                     "lastMatches": [
                         {
                             "opponent": "Enschede",
@@ -13502,13 +12477,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": 0,
                     "points": 5,
-                    "form": [
-                        "D",
-                        "L",
-                        "D",
-                        "W",
-                        "L"
-                    ],
+                    "form": "DLDWL",
                     "lastMatches": [
                         {
                             "opponent": "Zwolle",
@@ -13573,13 +12542,7 @@
                     "goalsAgainst": 9,
                     "goalDifference": -2,
                     "points": 5,
-                    "form": [
-                        "L",
-                        "D",
-                        "L",
-                        "D",
-                        "W"
-                    ],
+                    "form": "LDLDW",
                     "lastMatches": [
                         {
                             "opponent": "Alkmaar",
@@ -13644,13 +12607,7 @@
                     "goalsAgainst": 10,
                     "goalDifference": -4,
                     "points": 4,
-                    "form": [
-                        "D",
-                        "L",
-                        "W",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLWLL",
                     "lastMatches": [
                         {
                             "opponent": "Rotterdam City",
@@ -13715,13 +12672,7 @@
                     "goalsAgainst": 11,
                     "goalDifference": -6,
                     "points": 4,
-                    "form": [
-                        "L",
-                        "D",
-                        "L",
-                        "L",
-                        "W"
-                    ],
+                    "form": "LDLLW",
                     "lastMatches": [
                         {
                             "opponent": "Enschede",
@@ -13786,13 +12737,7 @@
                     "goalsAgainst": 18,
                     "goalDifference": -9,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "L",
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLDLL",
                     "lastMatches": [
                         {
                             "opponent": "Deventer",
@@ -13857,13 +12802,7 @@
                     "goalsAgainst": 14,
                     "goalDifference": -9,
                     "points": 2,
-                    "form": [
-                        "D",
-                        "L",
-                        "D",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLDLL",
                     "lastMatches": [
                         {
                             "opponent": "Alkmaar",
@@ -13928,13 +12867,7 @@
                     "goalsAgainst": 14,
                     "goalDifference": -8,
                     "points": 1,
-                    "form": [
-                        "L",
-                        "D",
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "LDLLL",
                     "lastMatches": [
                         {
                             "opponent": "Sittard",
@@ -13999,13 +12932,7 @@
                     "goalsAgainst": 18,
                     "goalDifference": -12,
                     "points": 1,
-                    "form": [
-                        "D",
-                        "L",
-                        "L",
-                        "L",
-                        "L"
-                    ],
+                    "form": "DLLLL",
                     "lastMatches": [
                         {
                             "opponent": "Velsen",

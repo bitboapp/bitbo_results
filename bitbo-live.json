@@ -3,17 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
     {
-      "id": 0,
-      "homeFlag": "⚠️",
-      "homeTeam": "Please proceed to the next day",
-      "awayTeam": "for simulation matches",
-      "awayFlag": "⚠️",
-      "timestamp": 1798758000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
-    },
-    {
       "id": 48,
       "homeFlag": "🏠",
       "homeTeam": "Catalonia Blue Red",
@@ -132,7 +121,7 @@
       "timestamp": 1789152300,
       "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 59,
@@ -141,7 +130,7 @@
       "awayTeam": "Gimnasia Mendoza",
       "awayFlag": "✈️",
       "timestamp": 1789164900,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

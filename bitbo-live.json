@@ -14,50 +14,6 @@
       "isFinished": false
     },
     {
-      "id": 44,
-      "homeFlag": "🏠",
-      "homeTeam": "Dortmund",
-      "awayTeam": "Castellon Yellow",
-      "awayFlag": "✈️",
-      "timestamp": 1788894000,
-      "homeScore": 3,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 45,
-      "homeFlag": "🏠",
-      "homeTeam": "Porto",
-      "awayTeam": "Manchester Blue",
-      "awayFlag": "✈️",
-      "timestamp": 1788894000,
-      "homeScore": 0,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 46,
-      "homeFlag": "🏠",
-      "homeTeam": "Lille",
-      "awayTeam": "Seville Green White",
-      "awayFlag": "✈️",
-      "timestamp": 1788894000,
-      "homeScore": 2,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
-      "id": 47,
-      "homeFlag": "🏠",
-      "homeTeam": "Madrid White",
-      "awayTeam": "Milan Blue Black",
-      "awayFlag": "✈️",
-      "timestamp": 1788894000,
-      "homeScore": 2,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
       "id": 48,
       "homeFlag": "🏠",
       "homeTeam": "Catalonia Blue Red",

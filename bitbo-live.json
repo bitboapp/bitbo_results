@@ -99,7 +99,7 @@
       "timestamp": 1789226100,
       "homeScore": 1,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 66,
@@ -109,8 +109,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789228800,
       "homeScore": 2,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 67,
@@ -121,7 +121,7 @@
       "timestamp": 1789232400,
       "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 68,
@@ -131,7 +131,7 @@
       "awayFlag": "✈️",
       "timestamp": 1789236000,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "isFinished": false
     },
     {

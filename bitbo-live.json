@@ -132,7 +132,7 @@
       "timestamp": 1789164900,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 60,
@@ -141,9 +141,9 @@
       "awayTeam": "Curitiba",
       "awayFlag": "✈️",
       "timestamp": 1789171200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 61,

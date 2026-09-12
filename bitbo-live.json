@@ -142,8 +142,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789239600,
       "homeScore": 0,
-      "awayScore": 1,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 70,
@@ -152,9 +152,9 @@
       "awayTeam": "Vallecas Red Stripe",
       "awayFlag": "✈️",
       "timestamp": 1789239600,
-      "homeScore": 3,
+      "homeScore": 4,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 71,

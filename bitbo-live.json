@@ -110,7 +110,7 @@
       "timestamp": 1789325100,
       "homeScore": 0,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 81,
@@ -119,9 +119,9 @@
       "awayTeam": "Turin Black White",
       "awayFlag": "✈️",
       "timestamp": 1789325100,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 82,
@@ -131,8 +131,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789326000,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 83,
@@ -141,9 +141,9 @@
       "awayTeam": "Gimnasia LP",
       "awayFlag": "✈️",
       "timestamp": 1789329600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 84,
@@ -152,15 +152,15 @@
       "awayTeam": "Sao Paulo District",
       "awayFlag": "✈️",
       "timestamp": 1789331400,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "isFinished": false
     },
     {
       "id": 85,
       "homeFlag": "🏠",
-      "homeTeam": "Buenos Aires District",
-      "awayTeam": "Avellaneda",
+      "homeTeam": "Huracán",
+      "awayTeam": "Racing Club",
       "awayFlag": "✈️",
       "timestamp": 1789345800,
       "homeScore": 0,
@@ -412,8 +412,8 @@
     {
       "id": 108,
       "homeFlag": "🏠",
-      "homeTeam": "Buenos Aires City",
-      "awayTeam": "Buenos Aires District",
+      "homeTeam": "River Plate",
+      "awayTeam": "Huracán",
       "awayFlag": "✈️",
       "timestamp": 1789855200,
       "homeScore": 0,
@@ -588,8 +588,8 @@
     {
       "id": 124,
       "homeFlag": "🏠",
-      "homeTeam": "Rosario",
-      "awayTeam": "Buenos Aires District",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Argentinos Juniors",
       "awayFlag": "✈️",
       "timestamp": 1789934400,
       "homeScore": 0,

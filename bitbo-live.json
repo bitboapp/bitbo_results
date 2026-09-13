@@ -152,9 +152,9 @@
       "awayTeam": "Sao Paulo District",
       "awayFlag": "✈️",
       "timestamp": 1789331400,
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 85,

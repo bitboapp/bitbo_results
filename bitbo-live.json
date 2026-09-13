@@ -174,9 +174,9 @@
       "awayTeam": "Troyes",
       "awayFlag": "✈️",
       "timestamp": 1789304400,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 73,
@@ -185,9 +185,9 @@
       "awayTeam": "Catalonia Blue Red",
       "awayFlag": "✈️",
       "timestamp": 1789308900,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 74,
@@ -197,8 +197,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789313400,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 75,
@@ -207,9 +207,9 @@
       "awayTeam": "Munich",
       "awayFlag": "✈️",
       "timestamp": 1789313400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 76,
@@ -218,9 +218,9 @@
       "awayTeam": "Bologna",
       "awayFlag": "✈️",
       "timestamp": 1789315200,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 77,
@@ -240,8 +240,8 @@
       "awayTeam": "Barcelos",
       "awayFlag": "✈️",
       "timestamp": 1789318800,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "isFinished": false
     },
     {

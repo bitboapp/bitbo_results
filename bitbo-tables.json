@@ -1160,6 +1160,71 @@
             "standings": [
                 {
                     "rank": 1,
+                    "teamName": "Rio",
+                    "played": 27,
+                    "won": 17,
+                    "drawn": 6,
+                    "lost": 4,
+                    "goalsFor": 53,
+                    "goalsAgainst": 22,
+                    "goalDifference": 31,
+                    "points": 57,
+                    "form": "WWWWL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Sao Paulo District",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789331400,
+                            "sourceMatchId": "5103624"
+                        },
+                        {
+                            "opponent": "Belem",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788721200,
+                            "sourceMatchId": "5103623"
+                        },
+                        {
+                            "opponent": "Mirassol",
+                            "homeAway": "home",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788388200,
+                            "sourceMatchId": "5103394"
+                        },
+                        {
+                            "opponent": "Rio City",
+                            "homeAway": "home",
+                            "score": "3-0",
+                            "goalsFor": 3,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788116400,
+                            "sourceMatchId": "5103604"
+                        },
+                        {
+                            "opponent": "Belo Horizonte City",
+                            "homeAway": "away",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1787441400,
+                            "sourceMatchId": "5103599"
+                        }
+                    ]
+                },
+                {
+                    "rank": 2,
                     "teamName": "Sao Paulo",
                     "played": 27,
                     "won": 16,
@@ -1220,71 +1285,6 @@
                             "result": "L",
                             "timestamp": 1786822200,
                             "sourceMatchId": "5103584"
-                        }
-                    ]
-                },
-                {
-                    "rank": 2,
-                    "teamName": "Rio",
-                    "played": 27,
-                    "won": 16,
-                    "drawn": 7,
-                    "lost": 4,
-                    "goalsFor": 52,
-                    "goalsAgainst": 22,
-                    "goalDifference": 30,
-                    "points": 55,
-                    "form": "WWWLW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Belem",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788721200,
-                            "sourceMatchId": "5103623"
-                        },
-                        {
-                            "opponent": "Mirassol",
-                            "homeAway": "home",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788388200,
-                            "sourceMatchId": "5103394"
-                        },
-                        {
-                            "opponent": "Rio City",
-                            "homeAway": "home",
-                            "score": "3-0",
-                            "goalsFor": 3,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788116400,
-                            "sourceMatchId": "5103604"
-                        },
-                        {
-                            "opponent": "Belo Horizonte City",
-                            "homeAway": "away",
-                            "score": "1-2",
-                            "goalsFor": 1,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1787441400,
-                            "sourceMatchId": "5103599"
-                        },
-                        {
-                            "opponent": "Mirassol",
-                            "homeAway": "away",
-                            "score": "5-1",
-                            "goalsFor": 5,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1786915800,
-                            "sourceMatchId": "5103588"
                         }
                     ]
                 },
@@ -1943,14 +1943,24 @@
                     "teamName": "Sao Paulo District",
                     "played": 27,
                     "won": 8,
-                    "drawn": 9,
-                    "lost": 10,
+                    "drawn": 8,
+                    "lost": 11,
                     "goalsFor": 28,
-                    "goalsAgainst": 28,
-                    "goalDifference": 0,
-                    "points": 33,
-                    "form": "LLLLW",
+                    "goalsAgainst": 29,
+                    "goalDifference": -1,
+                    "points": 32,
+                    "form": "LLLLL",
                     "lastMatches": [
+                        {
+                            "opponent": "Rio",
+                            "homeAway": "away",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789331400,
+                            "sourceMatchId": "5103624"
+                        },
                         {
                             "opponent": "Chapeco",
                             "homeAway": "home",
@@ -1990,16 +2000,6 @@
                             "result": "L",
                             "timestamp": 1786919400,
                             "sourceMatchId": "5103587"
-                        },
-                        {
-                            "opponent": "RB Bragantino",
-                            "homeAway": "away",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786311000,
-                            "sourceMatchId": "5103578"
                         }
                     ]
                 },
@@ -4765,6 +4765,71 @@
                 },
                 {
                     "rank": 5,
+                    "teamName": "Avellaneda City",
+                    "played": 9,
+                    "won": 5,
+                    "drawn": 1,
+                    "lost": 3,
+                    "goalsFor": 8,
+                    "goalsAgainst": 6,
+                    "goalDifference": 2,
+                    "points": 16,
+                    "form": "WLDWL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Santiago",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788724800,
+                            "sourceMatchId": "5115981"
+                        },
+                        {
+                            "opponent": "Gimnasia Mendoza",
+                            "homeAway": "home",
+                            "score": "0-3",
+                            "goalsFor": 0,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1788128100,
+                            "sourceMatchId": "5115971"
+                        },
+                        {
+                            "opponent": "Independiente Rivadavia",
+                            "homeAway": "home",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1787434200,
+                            "sourceMatchId": "5115955"
+                        },
+                        {
+                            "opponent": "Lanus",
+                            "homeAway": "away",
+                            "score": "3-1",
+                            "goalsFor": 3,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1786996800,
+                            "sourceMatchId": "5115940"
+                        },
+                        {
+                            "opponent": "Vicente Lopez",
+                            "homeAway": "home",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1786235400,
+                            "sourceMatchId": "5115925"
+                        }
+                    ]
+                },
+                {
+                    "rank": 6,
                     "teamName": "Buenos Aires",
                     "played": 9,
                     "won": 3,
@@ -4829,7 +4894,7 @@
                     ]
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
                     "teamName": "Santa Fe",
                     "played": 9,
                     "won": 4,
@@ -4894,7 +4959,7 @@
                     ]
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "teamName": "Rosario City",
                     "played": 9,
                     "won": 3,
@@ -4955,71 +5020,6 @@
                             "result": "W",
                             "timestamp": 1786831200,
                             "sourceMatchId": "5115941"
-                        }
-                    ]
-                },
-                {
-                    "rank": 8,
-                    "teamName": "Avellaneda City",
-                    "played": 8,
-                    "won": 4,
-                    "drawn": 1,
-                    "lost": 3,
-                    "goalsFor": 7,
-                    "goalsAgainst": 6,
-                    "goalDifference": 1,
-                    "points": 13,
-                    "form": "WLDWL",
-                    "lastMatches": [
-                        {
-                            "opponent": "Santiago",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788724800,
-                            "sourceMatchId": "5115981"
-                        },
-                        {
-                            "opponent": "Gimnasia Mendoza",
-                            "homeAway": "home",
-                            "score": "0-3",
-                            "goalsFor": 0,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1788128100,
-                            "sourceMatchId": "5115971"
-                        },
-                        {
-                            "opponent": "Independiente Rivadavia",
-                            "homeAway": "home",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1787434200,
-                            "sourceMatchId": "5115955"
-                        },
-                        {
-                            "opponent": "Lanus",
-                            "homeAway": "away",
-                            "score": "3-1",
-                            "goalsFor": 3,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1786996800,
-                            "sourceMatchId": "5115940"
-                        },
-                        {
-                            "opponent": "Vicente Lopez",
-                            "homeAway": "home",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1786235400,
-                            "sourceMatchId": "5115925"
                         }
                     ]
                 },
@@ -5156,13 +5156,13 @@
                 {
                     "rank": 11,
                     "teamName": "Buenos Aires South",
-                    "played": 8,
+                    "played": 9,
                     "won": 3,
                     "drawn": 1,
-                    "lost": 4,
+                    "lost": 5,
                     "goalsFor": 3,
-                    "goalsAgainst": 5,
-                    "goalDifference": -2,
+                    "goalsAgainst": 6,
+                    "goalDifference": -3,
                     "points": 10,
                     "form": "WLDWL",
                     "lastMatches": [

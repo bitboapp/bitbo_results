@@ -229,9 +229,9 @@
       "awayTeam": "Kocaeli",
       "awayFlag": "✈️",
       "timestamp": 1789318800,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 78,
@@ -240,9 +240,9 @@
       "awayTeam": "Barcelos",
       "awayFlag": "✈️",
       "timestamp": 1789318800,
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 79,
@@ -252,8 +252,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789321500,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 80,
@@ -263,7 +263,7 @@
       "awayFlag": "✈️",
       "timestamp": 1789325100,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "isFinished": false
     },
     {

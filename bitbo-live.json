@@ -163,9 +163,9 @@
       "awayTeam": "Sao Paulo City",
       "awayFlag": "✈️",
       "timestamp": 1789248600,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 72,

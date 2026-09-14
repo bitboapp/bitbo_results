@@ -163,9 +163,9 @@
       "awayTeam": "Racing Club",
       "awayFlag": "✈️",
       "timestamp": 1789345800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 86,

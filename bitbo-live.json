@@ -53,9 +53,9 @@
       "awayTeam": "Tilburg",
       "awayFlag": "✈️",
       "timestamp": 1789495200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 5,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 91,
@@ -65,7 +65,7 @@
       "awayFlag": "✈️",
       "timestamp": 1789500600,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "isFinished": false
     },
     {

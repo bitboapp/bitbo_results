@@ -64,9 +64,9 @@
       "awayTeam": "Madrid White",
       "awayFlag": "✈️",
       "timestamp": 1789500600,
-      "homeScore": 0,
-      "awayScore": 2,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 92,

@@ -11593,12 +11593,22 @@
                     "won": 5,
                     "drawn": 0,
                     "lost": 1,
-                    "goalsFor": 16,
-                    "goalsAgainst": 4,
-                    "goalDifference": 12,
+                    "goalsFor": 17,
+                    "goalsAgainst": 6,
+                    "goalDifference": 11,
                     "points": 15,
-                    "form": "WLWWW",
+                    "form": "WWLWW",
                     "lastMatches": [
+                        {
+                            "opponent": "Alicante Elche",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1789500600,
+                            "sourceMatchId": "5868065"
+                        },
                         {
                             "opponent": "Vallecas Red Stripe",
                             "homeAway": "home",
@@ -11638,16 +11648,6 @@
                             "result": "W",
                             "timestamp": 1787770800,
                             "sourceMatchId": "5868018"
-                        },
-                        {
-                            "opponent": "Barcelona Blue White",
-                            "homeAway": "away",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1787427000,
-                            "sourceMatchId": "5868025"
                         }
                     ]
                 },
@@ -12763,12 +12763,22 @@
                     "won": 0,
                     "drawn": 2,
                     "lost": 4,
-                    "goalsFor": 6,
-                    "goalsAgainst": 15,
-                    "goalDifference": -9,
+                    "goalsFor": 8,
+                    "goalsAgainst": 16,
+                    "goalDifference": -8,
                     "points": 2,
-                    "form": "DLLLD",
+                    "form": "LDLLL",
                     "lastMatches": [
+                        {
+                            "opponent": "Madrid White",
+                            "homeAway": "home",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789500600,
+                            "sourceMatchId": "5868065"
+                        },
                         {
                             "opponent": "Bilbao Red White",
                             "homeAway": "away",
@@ -12808,16 +12818,6 @@
                             "result": "L",
                             "timestamp": 1787513400,
                             "sourceMatchId": "5868024"
-                        },
-                        {
-                            "opponent": "A Coruña",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1786993200,
-                            "sourceMatchId": "5868014"
                         }
                     ]
                 }

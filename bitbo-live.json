@@ -33,7 +33,7 @@
       "timestamp": 1789411500,
       "homeScore": 5,
       "awayScore": 3,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 89,
@@ -42,9 +42,9 @@
       "awayTeam": "Estudiantes de Río Cuarto",
       "awayFlag": "✈️",
       "timestamp": 1789431300,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 90,

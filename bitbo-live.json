@@ -87,8 +87,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789585200,
       "homeScore": 0,
-      "awayScore": 1,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 94,
@@ -97,9 +97,9 @@
       "awayTeam": "Celje",
       "awayFlag": "✈️",
       "timestamp": 1789585200,
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 95,
@@ -108,9 +108,9 @@
       "awayTeam": "Santander",
       "awayFlag": "✈️",
       "timestamp": 1789587000,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 7,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 96,

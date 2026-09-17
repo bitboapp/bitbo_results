@@ -119,7 +119,7 @@
       "awayTeam": "Marseille",
       "awayFlag": "✈️",
       "timestamp": 1789671600,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },
@@ -130,7 +130,7 @@
       "awayTeam": "Nijmegen",
       "awayFlag": "✈️",
       "timestamp": 1789671600,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

@@ -1830,6 +1830,71 @@
                 },
                 {
                     "rank": 11,
+                    "teamName": "Rio City",
+                    "played": 27,
+                    "won": 9,
+                    "drawn": 8,
+                    "lost": 10,
+                    "goalsFor": 41,
+                    "goalsAgainst": 43,
+                    "goalDifference": -2,
+                    "points": 35,
+                    "form": "WDDLL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Porto Alegre City",
+                            "homeAway": "home",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1789597800,
+                            "sourceMatchId": "5103565"
+                        },
+                        {
+                            "opponent": "RB Bragantino",
+                            "homeAway": "home",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1789255800,
+                            "sourceMatchId": "5103625"
+                        },
+                        {
+                            "opponent": "Sao Paulo",
+                            "homeAway": "home",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1788730200,
+                            "sourceMatchId": "5103615"
+                        },
+                        {
+                            "opponent": "Rio",
+                            "homeAway": "away",
+                            "score": "0-3",
+                            "goalsFor": 0,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1788116400,
+                            "sourceMatchId": "5103604"
+                        },
+                        {
+                            "opponent": "Curitiba",
+                            "homeAway": "home",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1787612400,
+                            "sourceMatchId": "5103595"
+                        }
+                    ]
+                },
+                {
+                    "rank": 12,
                     "teamName": "Sao Paulo City",
                     "played": 26,
                     "won": 9,
@@ -1894,7 +1959,7 @@
                     ]
                 },
                 {
-                    "rank": 12,
+                    "rank": 13,
                     "teamName": "Salvador City",
                     "played": 27,
                     "won": 9,
@@ -1959,7 +2024,7 @@
                     ]
                 },
                 {
-                    "rank": 13,
+                    "rank": 14,
                     "teamName": "Sao Paulo District",
                     "played": 27,
                     "won": 8,
@@ -2020,71 +2085,6 @@
                             "result": "L",
                             "timestamp": 1786919400,
                             "sourceMatchId": "5103587"
-                        }
-                    ]
-                },
-                {
-                    "rank": 14,
-                    "teamName": "Rio City",
-                    "played": 26,
-                    "won": 8,
-                    "drawn": 8,
-                    "lost": 10,
-                    "goalsFor": 38,
-                    "goalsAgainst": 41,
-                    "goalDifference": -3,
-                    "points": 32,
-                    "form": "DDLLL",
-                    "lastMatches": [
-                        {
-                            "opponent": "RB Bragantino",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1789255800,
-                            "sourceMatchId": "5103625"
-                        },
-                        {
-                            "opponent": "Sao Paulo",
-                            "homeAway": "home",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1788730200,
-                            "sourceMatchId": "5103615"
-                        },
-                        {
-                            "opponent": "Rio",
-                            "homeAway": "away",
-                            "score": "0-3",
-                            "goalsFor": 0,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1788116400,
-                            "sourceMatchId": "5103604"
-                        },
-                        {
-                            "opponent": "Curitiba",
-                            "homeAway": "home",
-                            "score": "2-3",
-                            "goalsFor": 2,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1787612400,
-                            "sourceMatchId": "5103595"
-                        },
-                        {
-                            "opponent": "Salvador City",
-                            "homeAway": "away",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1786915800,
-                            "sourceMatchId": "5103592"
                         }
                     ]
                 },
@@ -2156,16 +2156,26 @@
                 {
                     "rank": 16,
                     "teamName": "Porto Alegre City",
-                    "played": 26,
+                    "played": 27,
                     "won": 7,
                     "drawn": 7,
-                    "lost": 12,
-                    "goalsFor": 28,
-                    "goalsAgainst": 35,
-                    "goalDifference": -7,
+                    "lost": 13,
+                    "goalsFor": 30,
+                    "goalsAgainst": 38,
+                    "goalDifference": -8,
                     "points": 28,
-                    "form": "LLWLL",
+                    "form": "LLLWL",
                     "lastMatches": [
+                        {
+                            "opponent": "Rio City",
+                            "homeAway": "away",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789597800,
+                            "sourceMatchId": "5103565"
+                        },
                         {
                             "opponent": "Rio Metro",
                             "homeAway": "home",
@@ -2205,16 +2215,6 @@
                             "result": "L",
                             "timestamp": 1787511600,
                             "sourceMatchId": "5103598"
-                        },
-                        {
-                            "opponent": "Belo Horizonte",
-                            "homeAway": "away",
-                            "score": "0-3",
-                            "goalsFor": 0,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1786906800,
-                            "sourceMatchId": "5103589"
                         }
                     ]
                 },
@@ -9425,7 +9425,7 @@
                 },
                 {
                     "rank": 2,
-                    "teamName": "Lisbon Red",
+                    "teamName": "Crete",
                     "played": 1,
                     "won": 1,
                     "drawn": 0,
@@ -9437,14 +9437,14 @@
                     "form": "W",
                     "lastMatches": [
                         {
-                            "opponent": "Milan Red Black",
-                            "homeAway": "away",
+                            "opponent": "Hoffenheim",
+                            "homeAway": "home",
                             "score": "2-0",
                             "goalsFor": 2,
                             "goalsAgainst": 0,
                             "result": "W",
-                            "timestamp": 1789585200,
-                            "sourceMatchId": "6112254"
+                            "timestamp": 1789663500,
+                            "sourceMatchId": "6112373"
                         }
                     ]
                 },
@@ -9475,6 +9475,73 @@
                 },
                 {
                     "rank": 4,
+                    "teamName": "Bournemouth",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 2,
+                    "goalsAgainst": 0,
+                    "goalDifference": 2,
+                    "points": 3,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 5,
+                    "teamName": "Lisbon Red",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 2,
+                    "goalsAgainst": 0,
+                    "goalDifference": 2,
+                    "points": 3,
+                    "form": "W",
+                    "lastMatches": [
+                        {
+                            "opponent": "Milan Red Black",
+                            "homeAway": "away",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789585200,
+                            "sourceMatchId": "6112254"
+                        }
+                    ]
+                },
+                {
+                    "rank": 6,
+                    "teamName": "South London Eagles",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 2,
+                    "goalsAgainst": 0,
+                    "goalDifference": 2,
+                    "points": 3,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 7,
+                    "teamName": "Turin Black White",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 2,
+                    "goalsAgainst": 0,
+                    "goalDifference": 2,
+                    "points": 3,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 8,
                     "teamName": "Lyon",
                     "played": 1,
                     "won": 1,
@@ -9499,7 +9566,7 @@
                     ]
                 },
                 {
-                    "rank": 5,
+                    "rank": 9,
                     "teamName": "Piraeus",
                     "played": 1,
                     "won": 1,
@@ -9524,7 +9591,21 @@
                     ]
                 },
                 {
-                    "rank": 6,
+                    "rank": 10,
+                    "teamName": "S Gilloise",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 1,
+                    "goalsAgainst": 0,
+                    "goalDifference": 1,
+                    "points": 3,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 11,
                     "teamName": "Nicosia",
                     "played": 1,
                     "won": 1,
@@ -9549,7 +9630,46 @@
                     ]
                 },
                 {
-                    "rank": 7,
+                    "rank": 12,
+                    "teamName": "Budapest",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 1,
+                    "goalsAgainst": 0,
+                    "goalDifference": 1,
+                    "points": 3,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 13,
+                    "teamName": "Salzburg",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 1,
+                    "goalsAgainst": 0,
+                    "goalDifference": 1,
+                    "points": 3,
+                    "form": "W",
+                    "lastMatches": [
+                        {
+                            "opponent": "Sofua",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789663500,
+                            "sourceMatchId": "6112379"
+                        }
+                    ]
+                },
+                {
+                    "rank": 14,
                     "teamName": "Wearside Red",
                     "played": 1,
                     "won": 1,
@@ -9574,32 +9694,35 @@
                     ]
                 },
                 {
-                    "rank": 8,
-                    "teamName": "Zagreb",
+                    "rank": 15,
+                    "teamName": "Torreense",
                     "played": 1,
-                    "won": 0,
-                    "drawn": 1,
+                    "won": 1,
+                    "drawn": 0,
                     "lost": 0,
-                    "goalsFor": 0,
+                    "goalsFor": 1,
                     "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 1,
-                    "form": "D",
-                    "lastMatches": [
-                        {
-                            "opponent": "Hapoel",
-                            "homeAway": "away",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1789585200,
-                            "sourceMatchId": "6112363"
-                        }
-                    ]
+                    "goalDifference": 1,
+                    "points": 3,
+                    "form": "",
+                    "lastMatches": []
                 },
                 {
-                    "rank": 9,
+                    "rank": 16,
+                    "teamName": "Istanbul Eagles",
+                    "played": 1,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 0,
+                    "goalsFor": 1,
+                    "goalsAgainst": 0,
+                    "goalDifference": 1,
+                    "points": 3,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 17,
                     "teamName": "Hapoel",
                     "played": 1,
                     "won": 0,
@@ -9624,7 +9747,7 @@
                     ]
                 },
                 {
-                    "rank": 10,
+                    "rank": 18,
                     "teamName": "Rennes",
                     "played": 1,
                     "won": 0,
@@ -9649,7 +9772,7 @@
                     ]
                 },
                 {
-                    "rank": 11,
+                    "rank": 19,
                     "teamName": "Graz",
                     "played": 1,
                     "won": 0,
@@ -9674,259 +9797,32 @@
                     ]
                 },
                 {
-                    "rank": 12,
-                    "teamName": "Bournemouth",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 13,
-                    "teamName": "Istanbul Eagles",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 14,
-                    "teamName": "Glasgow Green",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 15,
-                    "teamName": "South London Eagles",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 16,
-                    "teamName": "Budapest",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 17,
-                    "teamName": "Hoffenheim",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 18,
-                    "teamName": "Turin Black White",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 19,
-                    "teamName": "Poznan",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
                     "rank": 20,
-                    "teamName": "Sofua",
-                    "played": 0,
+                    "teamName": "Zagreb",
+                    "played": 1,
                     "won": 0,
-                    "drawn": 0,
+                    "drawn": 1,
                     "lost": 0,
                     "goalsFor": 0,
                     "goalsAgainst": 0,
                     "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
+                    "points": 1,
+                    "form": "D",
+                    "lastMatches": [
+                        {
+                            "opponent": "Hapoel",
+                            "homeAway": "away",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1789585200,
+                            "sourceMatchId": "6112363"
+                        }
+                    ]
                 },
                 {
                     "rank": 21,
-                    "teamName": "Lillestrøm",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 22,
-                    "teamName": "Marseille",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 23,
-                    "teamName": "Nijmegen",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 24,
-                    "teamName": "Crete",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 25,
-                    "teamName": "San Sebastian Blue",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 26,
-                    "teamName": "Salzburg",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 27,
-                    "teamName": "Torreense",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 28,
-                    "teamName": "S Gilloise",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 29,
-                    "teamName": "Plzen",
-                    "played": 0,
-                    "won": 0,
-                    "drawn": 0,
-                    "lost": 0,
-                    "goalsFor": 0,
-                    "goalsAgainst": 0,
-                    "goalDifference": 0,
-                    "points": 0,
-                    "form": "",
-                    "lastMatches": []
-                },
-                {
-                    "rank": 30,
                     "teamName": "Białystok",
                     "played": 1,
                     "won": 0,
@@ -9951,7 +9847,7 @@
                     ]
                 },
                 {
-                    "rank": 31,
+                    "rank": 22,
                     "teamName": "Anderlecht",
                     "played": 1,
                     "won": 0,
@@ -9976,8 +9872,50 @@
                     ]
                 },
                 {
-                    "rank": 32,
-                    "teamName": "Alkmaar",
+                    "rank": 23,
+                    "teamName": "Plzen",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 1,
+                    "goalDifference": -1,
+                    "points": 0,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 24,
+                    "teamName": "Lillestrøm",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 1,
+                    "goalDifference": -1,
+                    "points": 0,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 25,
+                    "teamName": "Marseille",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 1,
+                    "goalDifference": -1,
+                    "points": 0,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 26,
+                    "teamName": "Sofua",
                     "played": 1,
                     "won": 0,
                     "drawn": 0,
@@ -9989,19 +9927,19 @@
                     "form": "L",
                     "lastMatches": [
                         {
-                            "opponent": "Wearside Red",
-                            "homeAway": "away",
+                            "opponent": "Salzburg",
+                            "homeAway": "home",
                             "score": "0-1",
                             "goalsFor": 0,
                             "goalsAgainst": 1,
                             "result": "L",
-                            "timestamp": 1789585200,
-                            "sourceMatchId": "6112330"
+                            "timestamp": 1789663500,
+                            "sourceMatchId": "6112379"
                         }
                     ]
                 },
                 {
-                    "rank": 33,
+                    "rank": 27,
                     "teamName": "Vigo Sky Blue",
                     "played": 1,
                     "won": 0,
@@ -10026,8 +9964,47 @@
                     ]
                 },
                 {
-                    "rank": 34,
-                    "teamName": "Milan Red Black",
+                    "rank": 28,
+                    "teamName": "Glasgow Green",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 1,
+                    "goalDifference": -1,
+                    "points": 0,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 29,
+                    "teamName": "Alkmaar",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 1,
+                    "goalDifference": -1,
+                    "points": 0,
+                    "form": "L",
+                    "lastMatches": [
+                        {
+                            "opponent": "Wearside Red",
+                            "homeAway": "away",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1789585200,
+                            "sourceMatchId": "6112330"
+                        }
+                    ]
+                },
+                {
+                    "rank": 30,
+                    "teamName": "Poznan",
                     "played": 1,
                     "won": 0,
                     "drawn": 0,
@@ -10036,22 +10013,11 @@
                     "goalsAgainst": 2,
                     "goalDifference": -2,
                     "points": 0,
-                    "form": "L",
-                    "lastMatches": [
-                        {
-                            "opponent": "Lisbon Red",
-                            "homeAway": "home",
-                            "score": "0-2",
-                            "goalsFor": 0,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1789585200,
-                            "sourceMatchId": "6112254"
-                        }
-                    ]
+                    "form": "",
+                    "lastMatches": []
                 },
                 {
-                    "rank": 35,
+                    "rank": 31,
                     "teamName": "Celje",
                     "played": 1,
                     "won": 0,
@@ -10072,6 +10038,84 @@
                             "result": "L",
                             "timestamp": 1789585200,
                             "sourceMatchId": "6112244"
+                        }
+                    ]
+                },
+                {
+                    "rank": 32,
+                    "teamName": "Hoffenheim",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 2,
+                    "goalDifference": -2,
+                    "points": 0,
+                    "form": "L",
+                    "lastMatches": [
+                        {
+                            "opponent": "Crete",
+                            "homeAway": "away",
+                            "score": "0-2",
+                            "goalsFor": 0,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789663500,
+                            "sourceMatchId": "6112373"
+                        }
+                    ]
+                },
+                {
+                    "rank": 33,
+                    "teamName": "Nijmegen",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 2,
+                    "goalDifference": -2,
+                    "points": 0,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 34,
+                    "teamName": "San Sebastian Blue",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 2,
+                    "goalDifference": -2,
+                    "points": 0,
+                    "form": "",
+                    "lastMatches": []
+                },
+                {
+                    "rank": 35,
+                    "teamName": "Milan Red Black",
+                    "played": 1,
+                    "won": 0,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 0,
+                    "goalsAgainst": 2,
+                    "goalDifference": -2,
+                    "points": 0,
+                    "form": "L",
+                    "lastMatches": [
+                        {
+                            "opponent": "Lisbon Red",
+                            "homeAway": "home",
+                            "score": "0-2",
+                            "goalsFor": 0,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789585200,
+                            "sourceMatchId": "6112254"
                         }
                     ]
                 },
@@ -11851,6 +11895,71 @@
                 },
                 {
                     "rank": 3,
+                    "teamName": "Seville Green White",
+                    "played": 6,
+                    "won": 5,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 8,
+                    "goalsAgainst": 6,
+                    "goalDifference": 2,
+                    "points": 15,
+                    "form": "WWWLW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Madrid South Blue",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789664400,
+                            "sourceMatchId": "5868063"
+                        },
+                        {
+                            "opponent": "Castellon Yellow",
+                            "homeAway": "away",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789412400,
+                            "sourceMatchId": "5868060"
+                        },
+                        {
+                            "opponent": "Madrid White",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788548400,
+                            "sourceMatchId": "5868043"
+                        },
+                        {
+                            "opponent": "Valencia Blue Red",
+                            "homeAway": "away",
+                            "score": "2-5",
+                            "goalsFor": 2,
+                            "goalsAgainst": 5,
+                            "result": "L",
+                            "timestamp": 1788015600,
+                            "sourceMatchId": "5868035"
+                        },
+                        {
+                            "opponent": "Valencia Orange",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1787684400,
+                            "sourceMatchId": "5868020"
+                        }
+                    ]
+                },
+                {
+                    "rank": 4,
                     "teamName": "Madrid Red White",
                     "played": 6,
                     "won": 4,
@@ -11915,7 +12024,7 @@
                     ]
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "teamName": "Seville White Red",
                     "played": 6,
                     "won": 4,
@@ -11976,71 +12085,6 @@
                             "result": "W",
                             "timestamp": 1787410800,
                             "sourceMatchId": "5868021"
-                        }
-                    ]
-                },
-                {
-                    "rank": 5,
-                    "teamName": "Seville Green White",
-                    "played": 5,
-                    "won": 4,
-                    "drawn": 0,
-                    "lost": 1,
-                    "goalsFor": 7,
-                    "goalsAgainst": 6,
-                    "goalDifference": 1,
-                    "points": 12,
-                    "form": "WWLWW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Castellon Yellow",
-                            "homeAway": "away",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1789412400,
-                            "sourceMatchId": "5868060"
-                        },
-                        {
-                            "opponent": "Madrid White",
-                            "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788548400,
-                            "sourceMatchId": "5868043"
-                        },
-                        {
-                            "opponent": "Valencia Blue Red",
-                            "homeAway": "away",
-                            "score": "2-5",
-                            "goalsFor": 2,
-                            "goalsAgainst": 5,
-                            "result": "L",
-                            "timestamp": 1788015600,
-                            "sourceMatchId": "5868035"
-                        },
-                        {
-                            "opponent": "Valencia Orange",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1787684400,
-                            "sourceMatchId": "5868020"
-                        },
-                        {
-                            "opponent": "San Sebastian Blue",
-                            "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1787338800,
-                            "sourceMatchId": "5868023"
                         }
                     ]
                 },
@@ -12632,16 +12676,26 @@
                 {
                     "rank": 15,
                     "teamName": "Madrid South Blue",
-                    "played": 5,
+                    "played": 6,
                     "won": 1,
                     "drawn": 2,
-                    "lost": 2,
+                    "lost": 3,
                     "goalsFor": 3,
-                    "goalsAgainst": 6,
-                    "goalDifference": -3,
+                    "goalsAgainst": 7,
+                    "goalDifference": -4,
                     "points": 5,
-                    "form": "DDLWL",
+                    "form": "LDDLW",
                     "lastMatches": [
+                        {
+                            "opponent": "Seville Green White",
+                            "homeAway": "away",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1789664400,
+                            "sourceMatchId": "5868063"
+                        },
                         {
                             "opponent": "A Coruña",
                             "homeAway": "home",
@@ -12681,16 +12735,6 @@
                             "result": "W",
                             "timestamp": 1787506200,
                             "sourceMatchId": "5868026"
-                        },
-                        {
-                            "opponent": "Vitoria Alava",
-                            "homeAway": "away",
-                            "score": "0-3",
-                            "goalsFor": 0,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1786815000,
-                            "sourceMatchId": "5868011"
                         }
                     ]
                 },

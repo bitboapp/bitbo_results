@@ -141,7 +141,7 @@
       "awayTeam": "Berlin",
       "awayFlag": "✈️",
       "timestamp": 1789756200,
-      "homeScore": 0,
+      "homeScore": 7,
       "awayScore": 0,
       "isFinished": false
     },
@@ -152,8 +152,8 @@
       "awayTeam": "Lens",
       "awayFlag": "✈️",
       "timestamp": 1789757100,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "isFinished": false
     },
     {

@@ -143,7 +143,7 @@
       "timestamp": 1789756200,
       "homeScore": 7,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 99,
@@ -152,9 +152,9 @@
       "awayTeam": "Lens",
       "awayFlag": "✈️",
       "timestamp": 1789757100,
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 100,
@@ -163,9 +163,9 @@
       "awayTeam": "West London Blue",
       "awayFlag": "✈️",
       "timestamp": 1789758000,
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 101,

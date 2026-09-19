@@ -88,7 +88,7 @@
       "timestamp": 1789839000,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 106,
@@ -97,9 +97,9 @@
       "awayTeam": "Rotterdam District",
       "awayFlag": "✈️",
       "timestamp": 1789840800,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 107,
@@ -108,9 +108,9 @@
       "awayTeam": "Catalonia Blue Red",
       "awayFlag": "✈️",
       "timestamp": 1789844400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 108,
@@ -120,7 +120,7 @@
       "awayFlag": "✈️",
       "timestamp": 1789855200,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "isFinished": false
     },
     {

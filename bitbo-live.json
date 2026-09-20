@@ -185,9 +185,9 @@
       "awayTeam": "Eyup",
       "awayFlag": "✈️",
       "timestamp": 1789912800,
-      "homeScore": 7,
+      "homeScore": 8,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 115,
@@ -198,7 +198,7 @@
       "timestamp": 1789912800,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 116,
@@ -207,8 +207,8 @@
       "awayTeam": "Madrid White",
       "awayFlag": "✈️",
       "timestamp": 1789913700,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -218,7 +218,7 @@
       "awayTeam": "Lille",
       "awayFlag": "✈️",
       "timestamp": 1789917300,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },

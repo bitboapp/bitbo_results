@@ -262,8 +262,8 @@
       "awayTeam": "Paris",
       "awayFlag": "✈️",
       "timestamp": 1789929900,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "isFinished": false
     },
     {
@@ -273,7 +273,7 @@
       "awayTeam": "Lecce",
       "awayFlag": "✈️",
       "timestamp": 1789929900,
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
       "isFinished": false
     },
@@ -284,7 +284,7 @@
       "awayTeam": "Lisbon Red",
       "awayFlag": "✈️",
       "timestamp": 1789932600,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },

@@ -120,8 +120,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789855200,
       "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 109,
@@ -130,9 +130,9 @@
       "awayTeam": "Cordoba",
       "awayFlag": "✈️",
       "timestamp": 1789863300,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 110,

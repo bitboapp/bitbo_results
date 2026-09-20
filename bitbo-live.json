@@ -141,9 +141,9 @@
       "awayTeam": "Naples",
       "awayFlag": "✈️",
       "timestamp": 1789900200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 111,
@@ -153,8 +153,8 @@
       "awayFlag": "✈️",
       "timestamp": 1789909200,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 112,
@@ -163,8 +163,8 @@
       "awayTeam": "Wearside Red",
       "awayFlag": "✈️",
       "timestamp": 1789909200,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 5,
+      "awayScore": 3,
       "isFinished": false
     },
     {
@@ -174,7 +174,7 @@
       "awayTeam": "Leipzig",
       "awayFlag": "✈️",
       "timestamp": 1789911000,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },
@@ -185,7 +185,7 @@
       "awayTeam": "Eyup",
       "awayFlag": "✈️",
       "timestamp": 1789912800,
-      "homeScore": 0,
+      "homeScore": 5,
       "awayScore": 0,
       "isFinished": false
     },

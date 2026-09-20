@@ -251,9 +251,9 @@
       "awayTeam": "Istanbul Eagles",
       "awayFlag": "✈️",
       "timestamp": 1789923600,
-      "homeScore": 2,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 121,
@@ -273,7 +273,7 @@
       "awayTeam": "Lecce",
       "awayFlag": "✈️",
       "timestamp": 1789929900,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },

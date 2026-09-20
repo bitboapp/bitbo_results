@@ -209,7 +209,7 @@
       "timestamp": 1789913700,
       "homeScore": 2,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 117,
@@ -218,9 +218,9 @@
       "awayTeam": "Lille",
       "awayFlag": "✈️",
       "timestamp": 1789917300,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 118,
@@ -229,9 +229,9 @@
       "awayTeam": "Manchester Red",
       "awayFlag": "✈️",
       "timestamp": 1789918200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 119,
@@ -240,9 +240,9 @@
       "awayTeam": "Bergamo",
       "awayFlag": "✈️",
       "timestamp": 1789920000,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 120,
@@ -251,7 +251,7 @@
       "awayTeam": "Istanbul Eagles",
       "awayFlag": "✈️",
       "timestamp": 1789923600,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

@@ -165,7 +165,7 @@
       "timestamp": 1789909200,
       "homeScore": 5,
       "awayScore": 3,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 113,
@@ -176,7 +176,7 @@
       "timestamp": 1789911000,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 114,
@@ -185,7 +185,7 @@
       "awayTeam": "Eyup",
       "awayFlag": "✈️",
       "timestamp": 1789912800,
-      "homeScore": 5,
+      "homeScore": 7,
       "awayScore": 0,
       "isFinished": false
     },

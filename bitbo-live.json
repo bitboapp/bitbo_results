@@ -264,7 +264,7 @@
       "timestamp": 1789929900,
       "homeScore": 1,
       "awayScore": 2,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 122,
@@ -275,7 +275,7 @@
       "timestamp": 1789929900,
       "homeScore": 3,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 123,
@@ -284,9 +284,9 @@
       "awayTeam": "Lisbon Red",
       "awayFlag": "✈️",
       "timestamp": 1789932600,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 124,
@@ -295,9 +295,9 @@
       "awayTeam": "Argentinos Juniors",
       "awayFlag": "✈️",
       "timestamp": 1789934400,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 125,
@@ -306,9 +306,9 @@
       "awayTeam": "RB Bragantino",
       "awayFlag": "✈️",
       "timestamp": 1789939800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     }
   ]
 }

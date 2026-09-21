@@ -1181,16 +1181,26 @@
                 {
                     "rank": 1,
                     "teamName": "Rio",
-                    "played": 27,
-                    "won": 17,
+                    "played": 28,
+                    "won": 18,
                     "drawn": 6,
                     "lost": 4,
-                    "goalsFor": 53,
-                    "goalsAgainst": 22,
-                    "goalDifference": 31,
-                    "points": 57,
-                    "form": "WWWWL",
+                    "goalsFor": 55,
+                    "goalsAgainst": 23,
+                    "goalDifference": 32,
+                    "points": 60,
+                    "form": "WWWWW",
                     "lastMatches": [
+                        {
+                            "opponent": "RB Bragantino",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789939800,
+                            "sourceMatchId": "5103634"
+                        },
                         {
                             "opponent": "Sao Paulo District",
                             "homeAway": "home",
@@ -1230,16 +1240,6 @@
                             "result": "W",
                             "timestamp": 1788116400,
                             "sourceMatchId": "5103604"
-                        },
-                        {
-                            "opponent": "Belo Horizonte City",
-                            "homeAway": "away",
-                            "score": "1-2",
-                            "goalsFor": 1,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1787441400,
-                            "sourceMatchId": "5103599"
                         }
                     ]
                 },
@@ -1311,16 +1311,26 @@
                 {
                     "rank": 3,
                     "teamName": "Curitiba",
-                    "played": 27,
-                    "won": 13,
+                    "played": 28,
+                    "won": 14,
                     "drawn": 7,
                     "lost": 7,
-                    "goalsFor": 41,
-                    "goalsAgainst": 31,
-                    "goalDifference": 10,
-                    "points": 46,
-                    "form": "DLDWD",
+                    "goalsFor": 43,
+                    "goalsAgainst": 32,
+                    "goalDifference": 11,
+                    "points": 49,
+                    "form": "WDLDW",
                     "lastMatches": [
+                        {
+                            "opponent": "Salvador",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789943400,
+                            "sourceMatchId": "5103641"
+                        },
                         {
                             "opponent": "Curitiba City",
                             "homeAway": "away",
@@ -1360,97 +1370,32 @@
                             "result": "W",
                             "timestamp": 1787612400,
                             "sourceMatchId": "5103595"
-                        },
-                        {
-                            "opponent": "RB Bragantino",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1786829400,
-                            "sourceMatchId": "5103591"
                         }
                     ]
                 },
                 {
                     "rank": 4,
-                    "teamName": "Salvador",
-                    "played": 27,
-                    "won": 12,
-                    "drawn": 10,
-                    "lost": 5,
-                    "goalsFor": 42,
-                    "goalsAgainst": 33,
-                    "goalDifference": 9,
-                    "points": 46,
-                    "form": "WWWWD",
-                    "lastMatches": [
-                        {
-                            "opponent": "Belem",
-                            "homeAway": "home",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1789426800,
-                            "sourceMatchId": "5103632"
-                        },
-                        {
-                            "opponent": "RB Bragantino",
-                            "homeAway": "away",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1788634800,
-                            "sourceMatchId": "5103618"
-                        },
-                        {
-                            "opponent": "Porto Alegre",
-                            "homeAway": "home",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1788129000,
-                            "sourceMatchId": "5103612"
-                        },
-                        {
-                            "opponent": "Salvador City",
-                            "homeAway": "away",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1787511600,
-                            "sourceMatchId": "5103602"
-                        },
-                        {
-                            "opponent": "Chapeco",
-                            "homeAway": "away",
-                            "score": "3-3",
-                            "goalsFor": 3,
-                            "goalsAgainst": 3,
-                            "result": "D",
-                            "timestamp": 1786888800,
-                            "sourceMatchId": "5103593"
-                        }
-                    ]
-                },
-                {
-                    "rank": 5,
                     "teamName": "Rio District",
                     "played": 28,
-                    "won": 12,
-                    "drawn": 10,
+                    "won": 13,
+                    "drawn": 9,
                     "lost": 6,
-                    "goalsFor": 41,
-                    "goalsAgainst": 35,
-                    "goalDifference": 6,
-                    "points": 46,
-                    "form": "LWDWW",
+                    "goalsFor": 44,
+                    "goalsAgainst": 36,
+                    "goalDifference": 8,
+                    "points": 48,
+                    "form": "WLWDW",
                     "lastMatches": [
+                        {
+                            "opponent": "Sao Paulo District",
+                            "homeAway": "away",
+                            "score": "3-1",
+                            "goalsFor": 3,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789930800,
+                            "sourceMatchId": "5103637"
+                        },
                         {
                             "opponent": "Belo Horizonte",
                             "homeAway": "away",
@@ -1490,16 +1435,71 @@
                             "result": "W",
                             "timestamp": 1787425200,
                             "sourceMatchId": "5103594"
+                        }
+                    ]
+                },
+                {
+                    "rank": 5,
+                    "teamName": "Salvador",
+                    "played": 28,
+                    "won": 12,
+                    "drawn": 10,
+                    "lost": 6,
+                    "goalsFor": 43,
+                    "goalsAgainst": 35,
+                    "goalDifference": 8,
+                    "points": 46,
+                    "form": "LWWWW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Curitiba",
+                            "homeAway": "away",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789943400,
+                            "sourceMatchId": "5103641"
                         },
                         {
-                            "opponent": "Sao Paulo",
+                            "opponent": "Belem",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789426800,
+                            "sourceMatchId": "5103632"
+                        },
+                        {
+                            "opponent": "RB Bragantino",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1788634800,
+                            "sourceMatchId": "5103618"
+                        },
+                        {
+                            "opponent": "Porto Alegre",
                             "homeAway": "home",
                             "score": "3-2",
                             "goalsFor": 3,
                             "goalsAgainst": 2,
                             "result": "W",
-                            "timestamp": 1786822200,
-                            "sourceMatchId": "5103584"
+                            "timestamp": 1788129000,
+                            "sourceMatchId": "5103612"
+                        },
+                        {
+                            "opponent": "Salvador City",
+                            "homeAway": "away",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1787511600,
+                            "sourceMatchId": "5103602"
                         }
                     ]
                 },
@@ -1507,15 +1507,25 @@
                     "rank": 6,
                     "teamName": "Belo Horizonte City",
                     "played": 28,
-                    "won": 12,
-                    "drawn": 7,
+                    "won": 13,
+                    "drawn": 6,
                     "lost": 9,
-                    "goalsFor": 39,
-                    "goalsAgainst": 39,
-                    "goalDifference": 0,
-                    "points": 43,
-                    "form": "LWLWW",
+                    "goalsFor": 42,
+                    "goalsAgainst": 40,
+                    "goalDifference": 2,
+                    "points": 45,
+                    "form": "WLWLW",
                     "lastMatches": [
+                        {
+                            "opponent": "Salvador City",
+                            "homeAway": "away",
+                            "score": "3-1",
+                            "goalsFor": 3,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789930800,
+                            "sourceMatchId": "5103642"
+                        },
                         {
                             "opponent": "Santos",
                             "homeAway": "away",
@@ -1555,16 +1565,6 @@
                             "result": "W",
                             "timestamp": 1787441400,
                             "sourceMatchId": "5103599"
-                        },
-                        {
-                            "opponent": "Sao Paulo District",
-                            "homeAway": "away",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1786919400,
-                            "sourceMatchId": "5103587"
                         }
                     ]
                 },
@@ -1766,16 +1766,26 @@
                 {
                     "rank": 10,
                     "teamName": "RB Bragantino",
-                    "played": 26,
+                    "played": 27,
                     "won": 10,
                     "drawn": 6,
-                    "lost": 10,
-                    "goalsFor": 32,
-                    "goalsAgainst": 29,
-                    "goalDifference": 3,
+                    "lost": 11,
+                    "goalsFor": 33,
+                    "goalsAgainst": 31,
+                    "goalDifference": 2,
                     "points": 36,
-                    "form": "DLLWD",
+                    "form": "LDLLW",
                     "lastMatches": [
+                        {
+                            "opponent": "Rio",
+                            "homeAway": "away",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789939800,
+                            "sourceMatchId": "5103634"
+                        },
                         {
                             "opponent": "Rio City",
                             "homeAway": "away",
@@ -1815,16 +1825,6 @@
                             "result": "W",
                             "timestamp": 1787511600,
                             "sourceMatchId": "5103598"
-                        },
-                        {
-                            "opponent": "Curitiba",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1786829400,
-                            "sourceMatchId": "5103591"
                         }
                     ]
                 },
@@ -1963,14 +1963,24 @@
                     "teamName": "Salvador City",
                     "played": 28,
                     "won": 9,
-                    "drawn": 7,
-                    "lost": 12,
-                    "goalsFor": 27,
-                    "goalsAgainst": 39,
-                    "goalDifference": -12,
-                    "points": 34,
-                    "form": "DWLLW",
+                    "drawn": 6,
+                    "lost": 13,
+                    "goalsFor": 28,
+                    "goalsAgainst": 42,
+                    "goalDifference": -14,
+                    "points": 33,
+                    "form": "LDWLL",
                     "lastMatches": [
+                        {
+                            "opponent": "Belo Horizonte City",
+                            "homeAway": "home",
+                            "score": "1-3",
+                            "goalsFor": 1,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789930800,
+                            "sourceMatchId": "5103642"
+                        },
                         {
                             "opponent": "Mirassol",
                             "homeAway": "away",
@@ -2010,16 +2020,6 @@
                             "result": "L",
                             "timestamp": 1787511600,
                             "sourceMatchId": "5103602"
-                        },
-                        {
-                            "opponent": "Rio City",
-                            "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786915800,
-                            "sourceMatchId": "5103592"
                         }
                     ]
                 },
@@ -2028,14 +2028,24 @@
                     "teamName": "Sao Paulo District",
                     "played": 28,
                     "won": 8,
-                    "drawn": 9,
-                    "lost": 11,
-                    "goalsFor": 28,
-                    "goalsAgainst": 29,
-                    "goalDifference": -1,
-                    "points": 33,
+                    "drawn": 8,
+                    "lost": 12,
+                    "goalsFor": 29,
+                    "goalsAgainst": 32,
+                    "goalDifference": -3,
+                    "points": 32,
                     "form": "LLLLL",
                     "lastMatches": [
+                        {
+                            "opponent": "Rio District",
+                            "homeAway": "home",
+                            "score": "1-3",
+                            "goalsFor": 1,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789930800,
+                            "sourceMatchId": "5103637"
+                        },
                         {
                             "opponent": "Rio",
                             "homeAway": "away",
@@ -2075,16 +2085,6 @@
                             "result": "L",
                             "timestamp": 1787524200,
                             "sourceMatchId": "5103601"
-                        },
-                        {
-                            "opponent": "Belo Horizonte City",
-                            "homeAway": "home",
-                            "score": "1-2",
-                            "goalsFor": 1,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1786919400,
-                            "sourceMatchId": "5103587"
                         }
                     ]
                 },
@@ -2810,6 +2810,71 @@
                 },
                 {
                     "rank": 6,
+                    "teamName": "Paris",
+                    "played": 5,
+                    "won": 2,
+                    "drawn": 2,
+                    "lost": 1,
+                    "goalsFor": 8,
+                    "goalsAgainst": 7,
+                    "goalDifference": 1,
+                    "points": 8,
+                    "form": "WWLDD",
+                    "lastMatches": [
+                        {
+                            "opponent": "Marseille",
+                            "homeAway": "away",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789929900,
+                            "sourceMatchId": "5802945"
+                        },
+                        {
+                            "opponent": "Brest",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789325100,
+                            "sourceMatchId": "5802929"
+                        },
+                        {
+                            "opponent": "Monaco",
+                            "homeAway": "home",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1788548700,
+                            "sourceMatchId": "5802925"
+                        },
+                        {
+                            "opponent": "Lille",
+                            "homeAway": "away",
+                            "score": "2-2",
+                            "goalsFor": 2,
+                            "goalsAgainst": 2,
+                            "result": "D",
+                            "timestamp": 1787943600,
+                            "sourceMatchId": "5802918"
+                        },
+                        {
+                            "opponent": "Rennes",
+                            "homeAway": "away",
+                            "score": "2-2",
+                            "goalsFor": 2,
+                            "goalsAgainst": 2,
+                            "result": "D",
+                            "timestamp": 1787510700,
+                            "sourceMatchId": "5803105"
+                        }
+                    ]
+                },
+                {
+                    "rank": 7,
                     "teamName": "Angers",
                     "played": 5,
                     "won": 2,
@@ -2874,7 +2939,7 @@
                     ]
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "teamName": "Strasbourg",
                     "played": 5,
                     "won": 2,
@@ -2939,7 +3004,7 @@
                     ]
                 },
                 {
-                    "rank": 8,
+                    "rank": 9,
                     "teamName": "Le Mans",
                     "played": 5,
                     "won": 1,
@@ -3000,61 +3065,6 @@
                             "result": "D",
                             "timestamp": 1787424300,
                             "sourceMatchId": "5802903"
-                        }
-                    ]
-                },
-                {
-                    "rank": 9,
-                    "teamName": "Paris",
-                    "played": 5,
-                    "won": 1,
-                    "drawn": 3,
-                    "lost": 1,
-                    "goalsFor": 6,
-                    "goalsAgainst": 6,
-                    "goalDifference": 0,
-                    "points": 6,
-                    "form": "WLDD",
-                    "lastMatches": [
-                        {
-                            "opponent": "Brest",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1789325100,
-                            "sourceMatchId": "5802929"
-                        },
-                        {
-                            "opponent": "Monaco",
-                            "homeAway": "home",
-                            "score": "1-2",
-                            "goalsFor": 1,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1788548700,
-                            "sourceMatchId": "5802925"
-                        },
-                        {
-                            "opponent": "Lille",
-                            "homeAway": "away",
-                            "score": "2-2",
-                            "goalsFor": 2,
-                            "goalsAgainst": 2,
-                            "result": "D",
-                            "timestamp": 1787943600,
-                            "sourceMatchId": "5802918"
-                        },
-                        {
-                            "opponent": "Rennes",
-                            "homeAway": "away",
-                            "score": "2-2",
-                            "goalsFor": 2,
-                            "goalsAgainst": 2,
-                            "result": "D",
-                            "timestamp": 1787510700,
-                            "sourceMatchId": "5803105"
                         }
                     ]
                 },
@@ -3450,61 +3460,6 @@
                 },
                 {
                     "rank": 16,
-                    "teamName": "Marseille",
-                    "played": 5,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 3,
-                    "goalsFor": 6,
-                    "goalsAgainst": 6,
-                    "goalDifference": 0,
-                    "points": 4,
-                    "form": "LLLW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Rennes",
-                            "homeAway": "away",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1789152300,
-                            "sourceMatchId": "5802935"
-                        },
-                        {
-                            "opponent": "Paris City",
-                            "homeAway": "home",
-                            "score": "2-3",
-                            "goalsFor": 2,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1788720300,
-                            "sourceMatchId": "5802923"
-                        },
-                        {
-                            "opponent": "Monaco",
-                            "homeAway": "away",
-                            "score": "0-2",
-                            "goalsFor": 0,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1788115500,
-                            "sourceMatchId": "5802914"
-                        },
-                        {
-                            "opponent": "Strasbourg",
-                            "homeAway": "home",
-                            "score": "4-0",
-                            "goalsFor": 4,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1787337900,
-                            "sourceMatchId": "5802905"
-                        }
-                    ]
-                },
-                {
-                    "rank": 17,
                     "teamName": "Troyes",
                     "played": 5,
                     "won": 1,
@@ -3565,6 +3520,71 @@
                             "result": "D",
                             "timestamp": 1787424300,
                             "sourceMatchId": "5802909"
+                        }
+                    ]
+                },
+                {
+                    "rank": 17,
+                    "teamName": "Marseille",
+                    "played": 5,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 4,
+                    "goalsFor": 7,
+                    "goalsAgainst": 8,
+                    "goalDifference": -1,
+                    "points": 3,
+                    "form": "LLLLW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Paris",
+                            "homeAway": "home",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789929900,
+                            "sourceMatchId": "5802945"
+                        },
+                        {
+                            "opponent": "Rennes",
+                            "homeAway": "away",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1789152300,
+                            "sourceMatchId": "5802935"
+                        },
+                        {
+                            "opponent": "Paris City",
+                            "homeAway": "home",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1788720300,
+                            "sourceMatchId": "5802923"
+                        },
+                        {
+                            "opponent": "Monaco",
+                            "homeAway": "away",
+                            "score": "0-2",
+                            "goalsFor": 0,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1788115500,
+                            "sourceMatchId": "5802914"
+                        },
+                        {
+                            "opponent": "Strasbourg",
+                            "homeAway": "home",
+                            "score": "4-0",
+                            "goalsFor": 4,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1787337900,
+                            "sourceMatchId": "5802905"
                         }
                     ]
                 },
@@ -3905,12 +3925,22 @@
                     "won": 3,
                     "drawn": 2,
                     "lost": 0,
-                    "goalsFor": 8,
+                    "goalsFor": 10,
                     "goalsAgainst": 4,
-                    "goalDifference": 4,
+                    "goalDifference": 6,
                     "points": 11,
-                    "form": "DDWW",
+                    "form": "WDDWW",
                     "lastMatches": [
+                        {
+                            "opponent": "Lecce",
+                            "homeAway": "home",
+                            "score": "3-0",
+                            "goalsFor": 3,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789929900,
+                            "sourceMatchId": "5749680"
+                        },
                         {
                             "opponent": "Rome Sky Blue",
                             "homeAway": "away",
@@ -4351,11 +4381,21 @@
                     "drawn": 0,
                     "lost": 3,
                     "goalsFor": 5,
-                    "goalsAgainst": 8,
-                    "goalDifference": -3,
+                    "goalsAgainst": 10,
+                    "goalDifference": -5,
                     "points": 6,
-                    "form": "WLLW",
+                    "form": "LWLLW",
                     "lastMatches": [
+                        {
+                            "opponent": "Milan Red Black",
+                            "homeAway": "away",
+                            "score": "0-3",
+                            "goalsFor": 0,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789929900,
+                            "sourceMatchId": "5749680"
+                        },
                         {
                             "opponent": "Monza",
                             "homeAway": "home",
@@ -4990,6 +5030,71 @@
                 },
                 {
                     "rank": 2,
+                    "teamName": "Buenos Aires West",
+                    "played": 10,
+                    "won": 5,
+                    "drawn": 5,
+                    "lost": 0,
+                    "goalsFor": 15,
+                    "goalsAgainst": 9,
+                    "goalDifference": 6,
+                    "points": 20,
+                    "form": "WDWDD",
+                    "lastMatches": [
+                        {
+                            "opponent": "Tigre",
+                            "homeAway": "home",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1789950600,
+                            "sourceMatchId": "1000019529"
+                        },
+                        {
+                            "opponent": "Rosario City",
+                            "homeAway": "away",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1789156800,
+                            "sourceMatchId": "1000019521"
+                        },
+                        {
+                            "opponent": "La Plata",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788653700,
+                            "sourceMatchId": "1000019500"
+                        },
+                        {
+                            "opponent": "Riestra",
+                            "homeAway": "away",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1788025500,
+                            "sourceMatchId": "5115968"
+                        },
+                        {
+                            "opponent": "River Plate",
+                            "homeAway": "away",
+                            "score": "2-2",
+                            "goalsFor": 2,
+                            "goalsAgainst": 2,
+                            "result": "D",
+                            "timestamp": 1787523300,
+                            "sourceMatchId": "5115959"
+                        }
+                    ]
+                },
+                {
+                    "rank": 3,
                     "teamName": "Varela",
                     "played": 10,
                     "won": 5,
@@ -5054,7 +5159,7 @@
                     ]
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "teamName": "Gimnasia Mendoza",
                     "played": 10,
                     "won": 5,
@@ -5119,71 +5224,6 @@
                     ]
                 },
                 {
-                    "rank": 4,
-                    "teamName": "Buenos Aires West",
-                    "played": 9,
-                    "won": 4,
-                    "drawn": 5,
-                    "lost": 0,
-                    "goalsFor": 12,
-                    "goalsAgainst": 7,
-                    "goalDifference": 5,
-                    "points": 17,
-                    "form": "DWDDD",
-                    "lastMatches": [
-                        {
-                            "opponent": "Rosario City",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1789156800,
-                            "sourceMatchId": "1000019521"
-                        },
-                        {
-                            "opponent": "La Plata",
-                            "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788653700,
-                            "sourceMatchId": "1000019500"
-                        },
-                        {
-                            "opponent": "Riestra",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1788025500,
-                            "sourceMatchId": "5115968"
-                        },
-                        {
-                            "opponent": "River Plate",
-                            "homeAway": "away",
-                            "score": "2-2",
-                            "goalsFor": 2,
-                            "goalsAgainst": 2,
-                            "result": "D",
-                            "timestamp": 1787523300,
-                            "sourceMatchId": "5115959"
-                        },
-                        {
-                            "opponent": "Varela",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1787004900,
-                            "sourceMatchId": "5115947"
-                        }
-                    ]
-                },
-                {
                     "rank": 5,
                     "teamName": "Buenos Aires",
                     "played": 10,
@@ -5194,8 +5234,18 @@
                     "goalsAgainst": 11,
                     "goalDifference": 3,
                     "points": 17,
-                    "form": "WDWDD",
+                    "form": "WWDWD",
                     "lastMatches": [
+                        {
+                            "opponent": "Buenos Aires South",
+                            "homeAway": "away",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789926300,
+                            "sourceMatchId": "1000019534"
+                        },
                         {
                             "opponent": "Santiago",
                             "homeAway": "home",
@@ -5235,16 +5285,6 @@
                             "result": "D",
                             "timestamp": 1787531400,
                             "sourceMatchId": "5115958"
-                        },
-                        {
-                            "opponent": "Vicente Lopez",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1786839300,
-                            "sourceMatchId": "5115942"
                         }
                     ]
                 },
@@ -5315,6 +5355,71 @@
                 },
                 {
                     "rank": 7,
+                    "teamName": "Rosario City",
+                    "played": 10,
+                    "won": 4,
+                    "drawn": 4,
+                    "lost": 2,
+                    "goalsFor": 11,
+                    "goalsAgainst": 8,
+                    "goalDifference": 3,
+                    "points": 16,
+                    "form": "WDDDW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Vicente Lopez",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789934400,
+                            "sourceMatchId": "1000019530"
+                        },
+                        {
+                            "opponent": "Buenos Aires West",
+                            "homeAway": "home",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1789156800,
+                            "sourceMatchId": "1000019521"
+                        },
+                        {
+                            "opponent": "Rosario Central",
+                            "homeAway": "away",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1788716700,
+                            "sourceMatchId": "1000019499"
+                        },
+                        {
+                            "opponent": "La Plata",
+                            "homeAway": "away",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1788213600,
+                            "sourceMatchId": "5115969"
+                        },
+                        {
+                            "opponent": "Banfield",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1787443200,
+                            "sourceMatchId": "5115957"
+                        }
+                    ]
+                },
+                {
+                    "rank": 8,
                     "teamName": "Lanus",
                     "played": 9,
                     "won": 4,
@@ -5375,71 +5480,6 @@
                             "result": "L",
                             "timestamp": 1786996800,
                             "sourceMatchId": "5115940"
-                        }
-                    ]
-                },
-                {
-                    "rank": 8,
-                    "teamName": "Rosario City",
-                    "played": 9,
-                    "won": 3,
-                    "drawn": 4,
-                    "lost": 2,
-                    "goalsFor": 10,
-                    "goalsAgainst": 8,
-                    "goalDifference": 2,
-                    "points": 13,
-                    "form": "DDDWW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Buenos Aires West",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1789156800,
-                            "sourceMatchId": "1000019521"
-                        },
-                        {
-                            "opponent": "Rosario Central",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1788716700,
-                            "sourceMatchId": "1000019499"
-                        },
-                        {
-                            "opponent": "La Plata",
-                            "homeAway": "away",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1788213600,
-                            "sourceMatchId": "5115969"
-                        },
-                        {
-                            "opponent": "Banfield",
-                            "homeAway": "home",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1787443200,
-                            "sourceMatchId": "5115957"
-                        },
-                        {
-                            "opponent": "Riestra",
-                            "homeAway": "home",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786831200,
-                            "sourceMatchId": "5115941"
                         }
                     ]
                 },
@@ -5519,8 +5559,18 @@
                     "goalsAgainst": 8,
                     "goalDifference": -4,
                     "points": 11,
-                    "form": "DWLDW",
+                    "form": "LDWLD",
                     "lastMatches": [
+                        {
+                            "opponent": "Buenos Aires",
+                            "homeAway": "home",
+                            "score": "0-2",
+                            "goalsFor": 0,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789926300,
+                            "sourceMatchId": "1000019534"
+                        },
                         {
                             "opponent": "Avellaneda City",
                             "homeAway": "away",
@@ -5560,16 +5610,6 @@
                             "result": "D",
                             "timestamp": 1787353200,
                             "sourceMatchId": "5115952"
-                        },
-                        {
-                            "opponent": "Santa Fe",
-                            "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786815000,
-                            "sourceMatchId": "5115945"
                         }
                     ]
                 },
@@ -5706,16 +5746,26 @@
                 {
                     "rank": 13,
                     "teamName": "Vicente Lopez",
-                    "played": 9,
+                    "played": 10,
                     "won": 2,
                     "drawn": 3,
-                    "lost": 4,
+                    "lost": 5,
                     "goalsFor": 9,
-                    "goalsAgainst": 14,
-                    "goalDifference": -5,
+                    "goalsAgainst": 15,
+                    "goalDifference": -6,
                     "points": 9,
-                    "form": "LDLWD",
+                    "form": "LLDLW",
                     "lastMatches": [
+                        {
+                            "opponent": "Rosario City",
+                            "homeAway": "home",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1789934400,
+                            "sourceMatchId": "1000019530"
+                        },
                         {
                             "opponent": "La Plata",
                             "homeAway": "away",
@@ -5755,16 +5805,6 @@
                             "result": "W",
                             "timestamp": 1787507100,
                             "sourceMatchId": "5115950"
-                        },
-                        {
-                            "opponent": "Buenos Aires",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1786839300,
-                            "sourceMatchId": "5115942"
                         }
                     ]
                 },
@@ -5906,16 +5946,26 @@
                 {
                     "rank": 1,
                     "teamName": "Buenos Aires District",
-                    "played": 9,
+                    "played": 10,
                     "won": 5,
                     "drawn": 3,
-                    "lost": 1,
+                    "lost": 2,
                     "goalsFor": 13,
-                    "goalsAgainst": 8,
-                    "goalDifference": 5,
+                    "goalsAgainst": 9,
+                    "goalDifference": 4,
                     "points": 18,
-                    "form": "DDWDL",
+                    "form": "LDDWD",
                     "lastMatches": [
+                        {
+                            "opponent": "Rosario",
+                            "homeAway": "away",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1789934400,
+                            "sourceMatchId": "1000019537"
+                        },
                         {
                             "opponent": "La Plata City",
                             "homeAway": "home",
@@ -5955,21 +6005,76 @@
                             "result": "D",
                             "timestamp": 1787616900,
                             "sourceMatchId": "5115956"
-                        },
-                        {
-                            "opponent": "Buenos Aires City",
-                            "homeAway": "away",
-                            "score": "0-2",
-                            "goalsFor": 0,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1786914000,
-                            "sourceMatchId": "5115944"
                         }
                     ]
                 },
                 {
                     "rank": 2,
+                    "teamName": "Rosario",
+                    "played": 10,
+                    "won": 5,
+                    "drawn": 3,
+                    "lost": 2,
+                    "goalsFor": 11,
+                    "goalsAgainst": 8,
+                    "goalDifference": 3,
+                    "points": 18,
+                    "form": "WWDLD",
+                    "lastMatches": [
+                        {
+                            "opponent": "Buenos Aires District",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789934400,
+                            "sourceMatchId": "1000019537"
+                        },
+                        {
+                            "opponent": "Tigre",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1789321500,
+                            "sourceMatchId": "1000019528"
+                        },
+                        {
+                            "opponent": "Newell's Old Boys",
+                            "homeAway": "home",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1788716700,
+                            "sourceMatchId": "1000019499"
+                        },
+                        {
+                            "opponent": "La Plata City",
+                            "homeAway": "home",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1788033600,
+                            "sourceMatchId": "5115974"
+                        },
+                        {
+                            "opponent": "Talleres",
+                            "homeAway": "away",
+                            "score": "2-2",
+                            "goalsFor": 2,
+                            "goalsAgainst": 2,
+                            "result": "D",
+                            "timestamp": 1787616900,
+                            "sourceMatchId": "5115961"
+                        }
+                    ]
+                },
+                {
+                    "rank": 3,
                     "teamName": "La Plata City",
                     "played": 10,
                     "won": 5,
@@ -6034,7 +6139,72 @@
                     ]
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
+                    "teamName": "Cordoba City",
+                    "played": 10,
+                    "won": 4,
+                    "drawn": 4,
+                    "lost": 2,
+                    "goalsFor": 11,
+                    "goalsAgainst": 7,
+                    "goalDifference": 4,
+                    "points": 16,
+                    "form": "WDDDL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Rio Cuarto",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789942500,
+                            "sourceMatchId": "1000019543"
+                        },
+                        {
+                            "opponent": "Junin",
+                            "homeAway": "away",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1789321500,
+                            "sourceMatchId": "1000019522"
+                        },
+                        {
+                            "opponent": "Huracán",
+                            "homeAway": "home",
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1788559200,
+                            "sourceMatchId": "1000019512"
+                        },
+                        {
+                            "opponent": "Tucuman",
+                            "homeAway": "away",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1788049800,
+                            "sourceMatchId": "5115964"
+                        },
+                        {
+                            "opponent": "Defensa y Justicia",
+                            "homeAway": "home",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1787515200,
+                            "sourceMatchId": "5115951"
+                        }
+                    ]
+                },
+                {
+                    "rank": 5,
                     "teamName": "Huracán",
                     "played": 10,
                     "won": 4,
@@ -6099,7 +6269,7 @@
                     ]
                 },
                 {
-                    "rank": 4,
+                    "rank": 6,
                     "teamName": "Junin",
                     "played": 10,
                     "won": 5,
@@ -6164,72 +6334,7 @@
                     ]
                 },
                 {
-                    "rank": 5,
-                    "teamName": "Rosario",
-                    "played": 9,
-                    "won": 4,
-                    "drawn": 3,
-                    "lost": 2,
-                    "goalsFor": 10,
-                    "goalsAgainst": 8,
-                    "goalDifference": 2,
-                    "points": 15,
-                    "form": "WDLDW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Tigre",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1789321500,
-                            "sourceMatchId": "1000019528"
-                        },
-                        {
-                            "opponent": "Newell's Old Boys",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1788716700,
-                            "sourceMatchId": "1000019499"
-                        },
-                        {
-                            "opponent": "La Plata City",
-                            "homeAway": "home",
-                            "score": "1-2",
-                            "goalsFor": 1,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1788033600,
-                            "sourceMatchId": "5115974"
-                        },
-                        {
-                            "opponent": "Talleres",
-                            "homeAway": "away",
-                            "score": "2-2",
-                            "goalsFor": 2,
-                            "goalsAgainst": 2,
-                            "result": "D",
-                            "timestamp": 1787616900,
-                            "sourceMatchId": "5115961"
-                        },
-                        {
-                            "opponent": "Barracas",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786922100,
-                            "sourceMatchId": "5115934"
-                        }
-                    ]
-                },
-                {
-                    "rank": 6,
+                    "rank": 7,
                     "teamName": "Mendoza City",
                     "played": 9,
                     "won": 4,
@@ -6288,71 +6393,6 @@
                             "goalsFor": 0,
                             "goalsAgainst": 2,
                             "result": "L",
-                            "timestamp": 1786831200,
-                            "sourceMatchId": "5115935"
-                        }
-                    ]
-                },
-                {
-                    "rank": 7,
-                    "teamName": "Cordoba City",
-                    "played": 9,
-                    "won": 3,
-                    "drawn": 4,
-                    "lost": 2,
-                    "goalsFor": 9,
-                    "goalsAgainst": 6,
-                    "goalDifference": 3,
-                    "points": 13,
-                    "form": "DDDLW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Junin",
-                            "homeAway": "away",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1789321500,
-                            "sourceMatchId": "1000019522"
-                        },
-                        {
-                            "opponent": "Huracán",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1788559200,
-                            "sourceMatchId": "1000019512"
-                        },
-                        {
-                            "opponent": "Tucuman",
-                            "homeAway": "away",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1788049800,
-                            "sourceMatchId": "5115964"
-                        },
-                        {
-                            "opponent": "Defensa y Justicia",
-                            "homeAway": "home",
-                            "score": "1-2",
-                            "goalsFor": 1,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1787515200,
-                            "sourceMatchId": "5115951"
-                        },
-                        {
-                            "opponent": "Mendoza City",
-                            "homeAway": "home",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
                             "timestamp": 1786831200,
                             "sourceMatchId": "5115935"
                         }
@@ -6491,16 +6531,26 @@
                 {
                     "rank": 10,
                     "teamName": "Tigre",
-                    "played": 9,
+                    "played": 10,
                     "won": 3,
                     "drawn": 3,
-                    "lost": 3,
-                    "goalsFor": 7,
-                    "goalsAgainst": 6,
-                    "goalDifference": 1,
+                    "lost": 4,
+                    "goalsFor": 9,
+                    "goalsAgainst": 9,
+                    "goalDifference": 0,
                     "points": 12,
-                    "form": "LLDWD",
+                    "form": "LLLDW",
                     "lastMatches": [
+                        {
+                            "opponent": "Vélez Sarsfield",
+                            "homeAway": "away",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789950600,
+                            "sourceMatchId": "1000019529"
+                        },
                         {
                             "opponent": "Rosario",
                             "homeAway": "home",
@@ -6540,16 +6590,6 @@
                             "result": "W",
                             "timestamp": 1787608800,
                             "sourceMatchId": "5115962"
-                        },
-                        {
-                            "opponent": "Mar del Plata",
-                            "homeAway": "away",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1786815000,
-                            "sourceMatchId": "5115933"
                         }
                     ]
                 },
@@ -6751,16 +6791,26 @@
                 {
                     "rank": 14,
                     "teamName": "Rio Cuarto",
-                    "played": 9,
+                    "played": 10,
                     "won": 1,
                     "drawn": 3,
-                    "lost": 5,
-                    "goalsFor": 4,
-                    "goalsAgainst": 11,
-                    "goalDifference": -7,
+                    "lost": 6,
+                    "goalsFor": 5,
+                    "goalsAgainst": 13,
+                    "goalDifference": -8,
                     "points": 6,
-                    "form": "LLDDL",
+                    "form": "LLLDD",
                     "lastMatches": [
+                        {
+                            "opponent": "Cordoba City",
+                            "homeAway": "away",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1789942500,
+                            "sourceMatchId": "1000019543"
+                        },
                         {
                             "opponent": "Instituto",
                             "homeAway": "away",
@@ -6800,16 +6850,6 @@
                             "result": "D",
                             "timestamp": 1787353200,
                             "sourceMatchId": "5115952"
-                        },
-                        {
-                            "opponent": "Tucuman",
-                            "homeAway": "home",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1786988700,
-                            "sourceMatchId": "5115938"
                         }
                     ]
                 },
@@ -10964,6 +11004,71 @@
                 },
                 {
                     "rank": 8,
+                    "teamName": "San Sebastian Blue",
+                    "played": 7,
+                    "won": 3,
+                    "drawn": 1,
+                    "lost": 3,
+                    "goalsFor": 9,
+                    "goalsAgainst": 13,
+                    "goalDifference": -4,
+                    "points": 10,
+                    "form": "WLWDW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Valencia Orange",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1789930800,
+                            "sourceMatchId": "5868079"
+                        },
+                        {
+                            "opponent": "Madrid Red White",
+                            "homeAway": "home",
+                            "score": "0-3",
+                            "goalsFor": 0,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789326000,
+                            "sourceMatchId": "5868058"
+                        },
+                        {
+                            "opponent": "Alicante Elche",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1788809400,
+                            "sourceMatchId": "5868044"
+                        },
+                        {
+                            "opponent": "Vigo Sky Blue",
+                            "homeAway": "home",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1788462000,
+                            "sourceMatchId": "5868070"
+                        },
+                        {
+                            "opponent": "Barcelona Blue White",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1788022800,
+                            "sourceMatchId": "5868039"
+                        }
+                    ]
+                },
+                {
+                    "rank": 9,
                     "teamName": "Castellon Yellow",
                     "played": 7,
                     "won": 2,
@@ -11028,7 +11133,7 @@
                     ]
                 },
                 {
-                    "rank": 9,
+                    "rank": 10,
                     "teamName": "Bilbao Red White",
                     "played": 6,
                     "won": 2,
@@ -11093,7 +11198,7 @@
                     ]
                 },
                 {
-                    "rank": 10,
+                    "rank": 11,
                     "teamName": "Madrid South Blue",
                     "played": 7,
                     "won": 2,
@@ -11158,7 +11263,7 @@
                     ]
                 },
                 {
-                    "rank": 11,
+                    "rank": 12,
                     "teamName": "Vallecas Red Stripe",
                     "played": 7,
                     "won": 2,
@@ -11219,71 +11324,6 @@
                             "result": "L",
                             "timestamp": 1788204600,
                             "sourceMatchId": "5868034"
-                        }
-                    ]
-                },
-                {
-                    "rank": 12,
-                    "teamName": "San Sebastian Blue",
-                    "played": 7,
-                    "won": 2,
-                    "drawn": 2,
-                    "lost": 3,
-                    "goalsFor": 6,
-                    "goalsAgainst": 11,
-                    "goalDifference": -5,
-                    "points": 8,
-                    "form": "LWDWL",
-                    "lastMatches": [
-                        {
-                            "opponent": "Madrid Red White",
-                            "homeAway": "home",
-                            "score": "0-3",
-                            "goalsFor": 0,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1789326000,
-                            "sourceMatchId": "5868058"
-                        },
-                        {
-                            "opponent": "Alicante Elche",
-                            "homeAway": "away",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1788809400,
-                            "sourceMatchId": "5868044"
-                        },
-                        {
-                            "opponent": "Vigo Sky Blue",
-                            "homeAway": "home",
-                            "score": "0-0",
-                            "goalsFor": 0,
-                            "goalsAgainst": 0,
-                            "result": "D",
-                            "timestamp": 1788462000,
-                            "sourceMatchId": "5868070"
-                        },
-                        {
-                            "opponent": "Barcelona Blue White",
-                            "homeAway": "home",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1788022800,
-                            "sourceMatchId": "5868039"
-                        },
-                        {
-                            "opponent": "Madrid White",
-                            "homeAway": "away",
-                            "score": "1-4",
-                            "goalsFor": 1,
-                            "goalsAgainst": 4,
-                            "result": "L",
-                            "timestamp": 1787770800,
-                            "sourceMatchId": "5868018"
                         }
                     ]
                 },
@@ -11682,14 +11722,24 @@
                     "teamName": "Valencia Orange",
                     "played": 7,
                     "won": 1,
-                    "drawn": 2,
-                    "lost": 4,
-                    "goalsFor": 2,
-                    "goalsAgainst": 10,
-                    "goalDifference": -8,
-                    "points": 5,
-                    "form": "WLLLL",
+                    "drawn": 1,
+                    "lost": 5,
+                    "goalsFor": 4,
+                    "goalsAgainst": 13,
+                    "goalDifference": -9,
+                    "points": 4,
+                    "form": "LWLLL",
                     "lastMatches": [
+                        {
+                            "opponent": "San Sebastian Blue",
+                            "homeAway": "home",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789930800,
+                            "sourceMatchId": "5868079"
+                        },
                         {
                             "opponent": "Vitoria Alava",
                             "homeAway": "away",
@@ -11729,16 +11779,6 @@
                             "result": "L",
                             "timestamp": 1788111000,
                             "sourceMatchId": "5868033"
-                        },
-                        {
-                            "opponent": "Seville Green White",
-                            "homeAway": "home",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1787684400,
-                            "sourceMatchId": "5868020"
                         }
                     ]
                 },
@@ -11815,16 +11855,26 @@
                 {
                     "rank": 1,
                     "teamName": "Porto",
-                    "played": 6,
-                    "won": 6,
+                    "played": 7,
+                    "won": 7,
                     "drawn": 0,
                     "lost": 0,
-                    "goalsFor": 15,
-                    "goalsAgainst": 2,
-                    "goalDifference": 13,
-                    "points": 18,
+                    "goalsFor": 18,
+                    "goalsAgainst": 3,
+                    "goalDifference": 15,
+                    "points": 21,
                     "form": "WWWWW",
                     "lastMatches": [
+                        {
+                            "opponent": "Lisbon Red",
+                            "homeAway": "home",
+                            "score": "3-1",
+                            "goalsFor": 3,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789932600,
+                            "sourceMatchId": "5887641"
+                        },
                         {
                             "opponent": "Lisbon District",
                             "homeAway": "away",
@@ -11864,32 +11914,32 @@
                             "result": "W",
                             "timestamp": 1787513400,
                             "sourceMatchId": "5887605"
-                        },
-                        {
-                            "opponent": "Vila do Conde",
-                            "homeAway": "away",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786822200,
-                            "sourceMatchId": "5887598"
                         }
                     ]
                 },
                 {
                     "rank": 2,
                     "teamName": "Lisbon Red",
-                    "played": 6,
+                    "played": 7,
                     "won": 5,
                     "drawn": 1,
-                    "lost": 0,
-                    "goalsFor": 21,
-                    "goalsAgainst": 4,
-                    "goalDifference": 17,
+                    "lost": 1,
+                    "goalsFor": 22,
+                    "goalsAgainst": 7,
+                    "goalDifference": 15,
                     "points": 16,
-                    "form": "WWWWW",
+                    "form": "LWWWW",
                     "lastMatches": [
+                        {
+                            "opponent": "Porto",
+                            "homeAway": "away",
+                            "score": "1-3",
+                            "goalsFor": 1,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1789932600,
+                            "sourceMatchId": "5887641"
+                        },
                         {
                             "opponent": "Barcelos",
                             "homeAway": "home",
@@ -11929,16 +11979,6 @@
                             "result": "W",
                             "timestamp": 1788203700,
                             "sourceMatchId": "5887617"
-                        },
-                        {
-                            "opponent": "Lisbon District",
-                            "homeAway": "away",
-                            "score": "7-0",
-                            "goalsFor": 7,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1786994100,
-                            "sourceMatchId": "5887595"
                         }
                     ]
                 },

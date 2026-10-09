@@ -53,9 +53,9 @@
       "awayTeam": "Kasimpasa",
       "awayFlag": "✈️",
       "timestamp": 1791565200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 131,

@@ -20,9 +20,9 @@
       "awayTeam": "Rio",
       "awayFlag": "✈️",
       "timestamp": 1791498600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 128,
@@ -31,9 +31,9 @@
       "awayTeam": "Belo Horizonte",
       "awayFlag": "✈️",
       "timestamp": 1791500400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 129,
@@ -42,9 +42,9 @@
       "awayTeam": "Salvador",
       "awayFlag": "✈️",
       "timestamp": 1791505800,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 130,

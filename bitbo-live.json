@@ -75,9 +75,9 @@
       "awayTeam": "Buenos Aires",
       "awayFlag": "✈️",
       "timestamp": 1791585000,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 133,
@@ -86,9 +86,9 @@
       "awayTeam": "Yorkshire Leeds",
       "awayFlag": "✈️",
       "timestamp": 1791631800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 134,
@@ -98,7 +98,7 @@
       "awayFlag": "✈️",
       "timestamp": 1791637200,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -108,7 +108,7 @@
       "awayTeam": "Munich",
       "awayFlag": "✈️",
       "timestamp": 1791639000,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },
@@ -120,7 +120,7 @@
       "awayFlag": "✈️",
       "timestamp": 1791639000,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "isFinished": false
     },
     {

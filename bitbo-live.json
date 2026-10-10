@@ -242,7 +242,7 @@
       "timestamp": 1791658800,
       "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 148,
@@ -253,7 +253,7 @@
       "timestamp": 1791658800,
       "homeScore": 1,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 149,

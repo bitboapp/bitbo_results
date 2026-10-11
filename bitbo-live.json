@@ -274,8 +274,8 @@
       "awayFlag": "✈️",
       "timestamp": 1791732600,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 151,
@@ -284,9 +284,9 @@
       "awayTeam": "Kocaeli",
       "awayFlag": "✈️",
       "timestamp": 1791734400,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 152,
@@ -295,9 +295,9 @@
       "awayTeam": "Milan Red Black",
       "awayFlag": "✈️",
       "timestamp": 1791734400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 153,
@@ -306,9 +306,9 @@
       "awayTeam": "Guimaraes",
       "awayFlag": "✈️",
       "timestamp": 1791738000,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 154,
@@ -318,8 +318,8 @@
       "awayFlag": "✈️",
       "timestamp": 1791744300,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 155,
@@ -328,9 +328,9 @@
       "awayTeam": "Turin Black White",
       "awayFlag": "✈️",
       "timestamp": 1791744300,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 156,
@@ -350,7 +350,7 @@
       "awayTeam": "Sao Paulo District",
       "awayFlag": "✈️",
       "timestamp": 1791750600,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     }

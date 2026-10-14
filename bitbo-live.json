@@ -143,7 +143,7 @@
       "timestamp": 1791918000,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 162,
@@ -154,7 +154,7 @@
       "timestamp": 1791918000,
       "homeScore": 1,
       "awayScore": 4,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 163,
@@ -163,9 +163,9 @@
       "awayTeam": "Bruges",
       "awayFlag": "✈️",
       "timestamp": 1791918000,
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 4,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 164,
@@ -176,7 +176,7 @@
       "timestamp": 1791918000,
       "homeScore": 3,
       "awayScore": 3,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 165,
@@ -187,7 +187,7 @@
       "timestamp": 1791918000,
       "homeScore": 3,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 166,

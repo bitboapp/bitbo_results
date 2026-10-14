@@ -207,9 +207,9 @@
       "awayTeam": "Istanbul Yellows",
       "awayFlag": "✈️",
       "timestamp": 1792004400,
-      "homeScore": 3,
+      "homeScore": 6,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 168,
@@ -220,7 +220,7 @@
       "timestamp": 1792004400,
       "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 169,
@@ -229,9 +229,9 @@
       "awayTeam": "Paris",
       "awayFlag": "✈️",
       "timestamp": 1792004400,
-      "homeScore": 0,
-      "awayScore": 3,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 170,
@@ -240,9 +240,9 @@
       "awayTeam": "Madrid White",
       "awayFlag": "✈️",
       "timestamp": 1792004400,
-      "homeScore": 2,
-      "awayScore": 1,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 171,

@@ -3,127 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
     {
-      "id": 149,
-      "homeFlag": "🏠",
-      "homeTeam": "Como",
-      "awayTeam": "Rome Yellow Red",
-      "awayFlag": "✈️",
-      "timestamp": 1791714600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 150,
-      "homeFlag": "🏠",
-      "homeTeam": "Merseyside Red",
-      "awayTeam": "Manchester Blue",
-      "awayFlag": "✈️",
-      "timestamp": 1791732600,
-      "homeScore": 0,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
-      "id": 151,
-      "homeFlag": "🏠",
-      "homeTeam": "Istanbul Eagles",
-      "awayTeam": "Kocaeli",
-      "awayFlag": "✈️",
-      "timestamp": 1791734400,
-      "homeScore": 2,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 152,
-      "homeFlag": "🏠",
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Milan Red Black",
-      "awayFlag": "✈️",
-      "timestamp": 1791734400,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 153,
-      "homeFlag": "🏠",
-      "homeTeam": "Lisbon Red",
-      "awayTeam": "Guimaraes",
-      "awayFlag": "✈️",
-      "timestamp": 1791738000,
-      "homeScore": 2,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 154,
-      "homeFlag": "🏠",
-      "homeTeam": "Troyes",
-      "awayTeam": "Marseille",
-      "awayFlag": "✈️",
-      "timestamp": 1791744300,
-      "homeScore": 0,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 155,
-      "homeFlag": "🏠",
-      "homeTeam": "Sardinia Red Blue",
-      "awayTeam": "Turin Black White",
-      "awayFlag": "✈️",
-      "timestamp": 1791744300,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 156,
-      "homeFlag": "🏠",
-      "homeTeam": "Rio",
-      "awayTeam": "Rio District",
-      "awayFlag": "✈️",
-      "timestamp": 1791750600,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 157,
-      "homeFlag": "🏠",
-      "homeTeam": "Sao Paulo",
-      "awayTeam": "Sao Paulo District",
-      "awayFlag": "✈️",
-      "timestamp": 1791750600,
-      "homeScore": 4,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 158,
-      "homeFlag": "🏠",
-      "homeTeam": "Gimnasia Mendoza",
-      "awayTeam": "Rosario City",
-      "awayFlag": "✈️",
-      "timestamp": 1791840600,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 159,
-      "homeFlag": "🏠",
-      "homeTeam": "Chapeco",
-      "awayTeam": "Curitiba",
-      "awayFlag": "✈️",
-      "timestamp": 1791844200,
-      "homeScore": 1,
-      "awayScore": 4,
-      "isFinished": true
-    },
-    {
       "id": 160,
       "homeFlag": "🏠",
       "homeTeam": "North London Red",
@@ -252,8 +131,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792082700,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 172,
@@ -263,8 +142,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792082700,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 173,
@@ -273,9 +152,9 @@
       "awayTeam": "Monaco",
       "awayFlag": "✈️",
       "timestamp": 1792082700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 174,
@@ -284,9 +163,9 @@
       "awayTeam": "Amsterdam",
       "awayFlag": "✈️",
       "timestamp": 1792082700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 175,
@@ -295,9 +174,9 @@
       "awayTeam": "Trabzon",
       "awayFlag": "✈️",
       "timestamp": 1792082700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 176,
@@ -306,7 +185,7 @@
       "awayTeam": "Glasgow Green",
       "awayFlag": "✈️",
       "timestamp": 1792090800,
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "isFinished": false
     },
@@ -317,7 +196,7 @@
       "awayTeam": "Turin Black White",
       "awayFlag": "✈️",
       "timestamp": 1792090800,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },
@@ -340,7 +219,7 @@
       "awayFlag": "✈️",
       "timestamp": 1792090800,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "isFinished": false
     },
     {

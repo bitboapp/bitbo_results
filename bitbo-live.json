@@ -185,9 +185,9 @@
       "awayTeam": "Glasgow Green",
       "awayFlag": "✈️",
       "timestamp": 1792090800,
-      "homeScore": 3,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 177,
@@ -197,8 +197,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792090800,
       "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 178,
@@ -207,9 +207,9 @@
       "awayTeam": "Istanbul Eagles",
       "awayFlag": "✈️",
       "timestamp": 1792090800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 179,
@@ -220,7 +220,7 @@
       "timestamp": 1792090800,
       "homeScore": 0,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 180,

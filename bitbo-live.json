@@ -230,8 +230,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792188000,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 181,
@@ -241,8 +241,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792236600,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 182,
@@ -252,8 +252,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792238400,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 183,
@@ -263,8 +263,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792242000,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 184,
@@ -273,9 +273,9 @@
       "awayTeam": "Naples",
       "awayFlag": "✈️",
       "timestamp": 1792242000,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 185,
@@ -295,7 +295,7 @@
       "awayTeam": "Merseyside Red",
       "awayFlag": "✈️",
       "timestamp": 1792245600,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },
@@ -306,8 +306,8 @@
       "awayTeam": "Ipswich Town",
       "awayFlag": "✈️",
       "timestamp": 1792245600,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "isFinished": false
     },
     {

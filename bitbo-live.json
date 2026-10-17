@@ -253,7 +253,7 @@
       "timestamp": 1792262700,
       "homeScore": 1,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 194,
@@ -264,7 +264,7 @@
       "timestamp": 1792262700,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 195,
@@ -274,7 +274,7 @@
       "awayFlag": "✈️",
       "timestamp": 1792276200,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "isFinished": false
     },
     {

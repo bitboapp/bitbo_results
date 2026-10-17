@@ -197,8 +197,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792250100,
       "homeScore": 1,
-      "awayScore": 2,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 189,
@@ -207,9 +207,9 @@
       "awayTeam": "Alanya",
       "awayFlag": "✈️",
       "timestamp": 1792252800,
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 190,
@@ -219,8 +219,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792252800,
       "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 191,
@@ -229,9 +229,9 @@
       "awayTeam": "Catalonia Blue Red",
       "awayFlag": "✈️",
       "timestamp": 1792254600,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 5,
+      "isFinished": true
     },
     {
       "id": 192,
@@ -240,9 +240,9 @@
       "awayTeam": "Leipzig",
       "awayFlag": "✈️",
       "timestamp": 1792254600,
-      "homeScore": 2,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 6,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 193,
@@ -251,8 +251,8 @@
       "awayTeam": "Brest",
       "awayFlag": "✈️",
       "timestamp": 1792262700,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -262,7 +262,7 @@
       "awayTeam": "Genoa",
       "awayFlag": "✈️",
       "timestamp": 1792262700,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

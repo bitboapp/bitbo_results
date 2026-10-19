@@ -263,8 +263,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792349100,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 205,
@@ -273,9 +273,9 @@
       "awayTeam": "Seville White Red",
       "awayFlag": "✈️",
       "timestamp": 1792350000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 206,
@@ -285,8 +285,8 @@
       "awayFlag": "✈️",
       "timestamp": 1792359000,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 207,
@@ -295,9 +295,9 @@
       "awayTeam": "Istanbul Eagles",
       "awayFlag": "✈️",
       "timestamp": 1792429200,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 208,

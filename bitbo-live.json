@@ -306,9 +306,9 @@
       "awayTeam": "Prague",
       "awayFlag": "✈️",
       "timestamp": 1792514700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 209,
@@ -317,9 +317,9 @@
       "awayTeam": "Dortmund",
       "awayFlag": "✈️",
       "timestamp": 1792514700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 210,

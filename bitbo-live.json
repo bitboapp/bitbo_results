@@ -240,9 +240,9 @@
       "awayTeam": "Manchester Red",
       "awayFlag": "✈️",
       "timestamp": 1792601100,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 217,
@@ -251,9 +251,9 @@
       "awayTeam": "Istanbul Lions",
       "awayFlag": "✈️",
       "timestamp": 1792601100,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 218,

@@ -3,138 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
     {
-      "id": 195,
-      "homeFlag": "🏠",
-      "homeTeam": "Curitiba",
-      "awayTeam": "Sao Paulo",
-      "awayFlag": "✈️",
-      "timestamp": 1792276200,
-      "homeScore": 0,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 196,
-      "homeFlag": "🏠",
-      "homeTeam": "Buenos Aires West",
-      "awayTeam": "Gimnasia Mendoza",
-      "awayFlag": "✈️",
-      "timestamp": 1792278000,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 197,
-      "homeFlag": "🏠",
-      "homeTeam": "Angers",
-      "awayTeam": "Marseille",
-      "awayFlag": "✈️",
-      "timestamp": 1792328400,
-      "homeScore": 2,
-      "awayScore": 5,
-      "isFinished": true
-    },
-    {
-      "id": 198,
-      "homeFlag": "🏠",
-      "homeTeam": "Yorkshire Leeds",
-      "awayTeam": "Manchester Red",
-      "awayFlag": "✈️",
-      "timestamp": 1792328400,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 199,
-      "homeFlag": "🏠",
-      "homeTeam": "Leverkusen",
-      "awayTeam": "Freiburg",
-      "awayFlag": "✈️",
-      "timestamp": 1792330200,
-      "homeScore": 2,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 200,
-      "homeFlag": "🏠",
-      "homeTeam": "Groningen",
-      "awayTeam": "Amsterdam",
-      "awayFlag": "✈️",
-      "timestamp": 1792334700,
-      "homeScore": 2,
-      "awayScore": 5,
-      "isFinished": true
-    },
-    {
-      "id": 201,
-      "homeFlag": "🏠",
-      "homeTeam": "Lorient",
-      "awayTeam": "Monaco",
-      "awayFlag": "✈️",
-      "timestamp": 1792336500,
-      "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 202,
-      "homeFlag": "🏠",
-      "homeTeam": "Nottingham Red",
-      "awayTeam": "North London Red",
-      "awayFlag": "✈️",
-      "timestamp": 1792337400,
-      "homeScore": 0,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 203,
-      "homeFlag": "🏠",
-      "homeTeam": "Milan Red Black",
-      "awayTeam": "Bergamo",
-      "awayFlag": "✈️",
-      "timestamp": 1792339200,
-      "homeScore": 3,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 204,
-      "homeFlag": "🏠",
-      "homeTeam": "Turin Black White",
-      "awayTeam": "Rome Sky Blue",
-      "awayFlag": "✈️",
-      "timestamp": 1792349100,
-      "homeScore": 0,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
-      "id": 205,
-      "homeFlag": "🏠",
-      "homeTeam": "Madrid White",
-      "awayTeam": "Seville White Red",
-      "awayFlag": "✈️",
-      "timestamp": 1792350000,
-      "homeScore": 4,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 206,
-      "homeFlag": "🏠",
-      "homeTeam": "Salvador",
-      "awayTeam": "Rio",
-      "awayFlag": "✈️",
-      "timestamp": 1792359000,
-      "homeScore": 0,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
       "id": 207,
       "homeFlag": "🏠",
       "homeTeam": "Trabzon",
@@ -262,8 +130,8 @@
       "awayTeam": "North London Red",
       "awayFlag": "✈️",
       "timestamp": 1792609200,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "isFinished": false
     },
     {
@@ -273,7 +141,7 @@
       "awayTeam": "Donetsk",
       "awayFlag": "✈️",
       "timestamp": 1792609200,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "isFinished": false
     },
@@ -284,7 +152,7 @@
       "awayTeam": "Leipzig",
       "awayFlag": "✈️",
       "timestamp": 1792609200,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

@@ -3,105 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
     {
-      "id": 207,
-      "homeFlag": "🏠",
-      "homeTeam": "Trabzon",
-      "awayTeam": "Istanbul Eagles",
-      "awayFlag": "✈️",
-      "timestamp": 1792429200,
-      "homeScore": 2,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 208,
-      "homeFlag": "🏠",
-      "homeTeam": "Istanbul Yellows",
-      "awayTeam": "Prague",
-      "awayFlag": "✈️",
-      "timestamp": 1792514700,
-      "homeScore": 2,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 209,
-      "homeFlag": "🏠",
-      "homeTeam": "Sabah",
-      "awayTeam": "Dortmund",
-      "awayFlag": "✈️",
-      "timestamp": 1792514700,
-      "homeScore": 1,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 210,
-      "homeFlag": "🏠",
-      "homeTeam": "Merseyside Red",
-      "awayTeam": "Castellon Yellow",
-      "awayFlag": "✈️",
-      "timestamp": 1792522800,
-      "homeScore": 4,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
-      "id": 211,
-      "homeFlag": "🏠",
-      "homeTeam": "Manchester Blue",
-      "awayTeam": "Athens",
-      "awayFlag": "✈️",
-      "timestamp": 1792522800,
-      "homeScore": 5,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
-      "id": 212,
-      "homeFlag": "🏠",
-      "homeTeam": "Paris",
-      "awayTeam": "Catalonia Blue Red",
-      "awayFlag": "✈️",
-      "timestamp": 1792522800,
-      "homeScore": 4,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 213,
-      "homeFlag": "🏠",
-      "homeTeam": "Rome Yellow Red",
-      "awayTeam": "Bratislava",
-      "awayFlag": "✈️",
-      "timestamp": 1792522800,
-      "homeScore": 4,
-      "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 214,
-      "homeFlag": "🏠",
-      "homeTeam": "Naples",
-      "awayTeam": "Bodø Glimt",
-      "awayFlag": "✈️",
-      "timestamp": 1792522800,
-      "homeScore": 4,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
-      "id": 215,
-      "homeFlag": "🏠",
-      "homeTeam": "Stuttgart",
-      "awayTeam": "Madrid Red White",
-      "awayFlag": "✈️",
-      "timestamp": 1792522800,
-      "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": true
-    },
-    {
       "id": 216,
       "homeFlag": "🏠",
       "homeTeam": "Como",
@@ -262,9 +163,9 @@
       "awayTeam": "Vicente Lopez",
       "awayFlag": "✈️",
       "timestamp": 1792791000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 231,
@@ -459,7 +360,7 @@
       "homeTeam": "Paris",
       "awayTeam": "Lyon",
       "awayFlag": "✈️",
-      "timestamp": 1792957500,
+      "timestamp": 1793043000,
       "homeScore": 0,
       "awayScore": 0,
       "isFinished": false

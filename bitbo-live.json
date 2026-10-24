@@ -174,9 +174,9 @@
       "awayTeam": "Manchester Blue",
       "awayFlag": "✈️",
       "timestamp": 1792841400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 232,
@@ -185,9 +185,9 @@
       "awayTeam": "Merseyside Blue",
       "awayFlag": "✈️",
       "timestamp": 1792850400,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 233,
@@ -196,8 +196,8 @@
       "awayTeam": "Rome Yellow Red",
       "awayFlag": "✈️",
       "timestamp": 1792857600,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 3,
       "isFinished": false
     },
     {

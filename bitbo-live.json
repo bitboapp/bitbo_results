@@ -108,9 +108,9 @@
       "awayTeam": "Belo Horizonte",
       "awayFlag": "✈️",
       "timestamp": 1793055600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 256,
@@ -119,9 +119,9 @@
       "awayTeam": "Riestra",
       "awayFlag": "✈️",
       "timestamp": 1793060100,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 257,

@@ -3,28 +3,6 @@
   "check-sum": "f024557fa862b108515bd23215fa8054a1bd71a04cb30c090670ee46cc01995d",
   "events": [
     {
-      "id": 246,
-      "homeFlag": "🏠",
-      "homeTeam": "Freiburg",
-      "awayTeam": "Munich",
-      "awayFlag": "✈️",
-      "timestamp": 1792945800,
-      "homeScore": 1,
-      "awayScore": 3,
-      "isFinished": true
-    },
-    {
-      "id": 247,
-      "homeFlag": "🏠",
-      "homeTeam": "Lecce",
-      "awayTeam": "Turin Black White",
-      "awayFlag": "✈️",
-      "timestamp": 1792947900,
-      "homeScore": 0,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
       "id": 248,
       "homeFlag": "🏠",
       "homeTeam": "Paris",
@@ -33,28 +11,6 @@
       "timestamp": 1793043000,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": true
-    },
-    {
-      "id": 249,
-      "homeFlag": "🏠",
-      "homeTeam": "Udine",
-      "awayTeam": "Milan Red Black",
-      "awayFlag": "✈️",
-      "timestamp": 1792957500,
-      "homeScore": 0,
-      "awayScore": 2,
-      "isFinished": true
-    },
-    {
-      "id": 250,
-      "homeFlag": "🏠",
-      "homeTeam": "Catalonia Blue Red",
-      "awayTeam": "Madrid White",
-      "awayFlag": "✈️",
-      "timestamp": 1792958400,
-      "homeScore": 1,
-      "awayScore": 2,
       "isFinished": true
     },
     {
@@ -130,9 +86,9 @@
       "awayTeam": "Sardinia Red Blue",
       "awayFlag": "✈️",
       "timestamp": 1793130300,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 258,
@@ -141,9 +97,9 @@
       "awayTeam": "Bologna",
       "awayFlag": "✈️",
       "timestamp": 1793208600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 259,
@@ -153,8 +109,8 @@
       "awayFlag": "✈️",
       "timestamp": 1793208600,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 260,
@@ -163,9 +119,9 @@
       "awayTeam": "Turin Black White",
       "awayFlag": "✈️",
       "timestamp": 1793216700,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 261,
@@ -174,9 +130,9 @@
       "awayTeam": "Naples",
       "awayFlag": "✈️",
       "timestamp": 1793216700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 262,
@@ -187,7 +143,7 @@
       "timestamp": 1793226600,
       "homeScore": 0,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 263,

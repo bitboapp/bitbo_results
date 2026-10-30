@@ -152,9 +152,9 @@
       "awayTeam": "Rio",
       "awayFlag": "✈️",
       "timestamp": 1793314800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 264,
@@ -163,9 +163,9 @@
       "awayTeam": "Curitiba",
       "awayFlag": "✈️",
       "timestamp": 1793320200,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 265,

@@ -175,8 +175,8 @@
       "awayFlag": "✈️",
       "timestamp": 1793379600,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 266,
@@ -185,9 +185,9 @@
       "awayTeam": "Paris",
       "awayFlag": "✈️",
       "timestamp": 1793383200,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 5,
+      "isFinished": true
     },
     {
       "id": 267,

@@ -196,9 +196,9 @@
       "awayTeam": "Lens",
       "awayFlag": "✈️",
       "timestamp": 1793390700,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 268,

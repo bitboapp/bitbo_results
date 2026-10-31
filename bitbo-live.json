@@ -49,8 +49,8 @@
     {
       "id": 254,
       "homeFlag": "🏠",
-      "homeTeam": "Santa Clara",
-      "awayTeam": "Benfica",
+      "homeTeam": "Ponta Delgada",
+      "awayTeam": "Lisbon Red",
       "awayFlag": "✈️",
       "timestamp": 1793040300,
       "homeScore": 1,
@@ -225,8 +225,8 @@
     {
       "id": 270,
       "homeFlag": "🏠",
-      "homeTeam": "Bayer Leverkusen",
-      "awayTeam": "VfB Stuttgart",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "Stuttgart",
       "awayFlag": "✈️",
       "timestamp": 1793457000,
       "homeScore": 2,
@@ -252,8 +252,8 @@
       "awayFlag": "✈️",
       "timestamp": 1793462400,
       "homeScore": 1,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 273,
@@ -262,20 +262,20 @@
       "awayTeam": "Rome Yellow Red",
       "awayFlag": "✈️",
       "timestamp": 1793466000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 5,
+      "isFinished": true
     },
     {
       "id": 274,
       "homeFlag": "🏠",
-      "homeTeam": "Bayern München",
-      "awayTeam": "Borussia Dortmund",
+      "homeTeam": "Munich",
+      "awayTeam": "Dortmund",
       "awayFlag": "✈️",
       "timestamp": 1793467800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 275,
@@ -284,9 +284,9 @@
       "awayTeam": "Milan Blue Black",
       "awayFlag": "✈️",
       "timestamp": 1793475900,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 276,
@@ -295,20 +295,20 @@
       "awayTeam": "Vitoria Alava",
       "awayFlag": "✈️",
       "timestamp": 1793476800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 6,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 277,
       "homeFlag": "🏠",
-      "homeTeam": "Ajax",
-      "awayTeam": "AZ Alkmaar",
+      "homeTeam": "Amsterdam",
+      "awayTeam": "Alkmaar",
       "awayFlag": "✈️",
       "timestamp": 1793476800,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 278,

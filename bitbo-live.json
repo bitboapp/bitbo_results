@@ -363,7 +363,7 @@
       "timestamp": 1793549700,
       "homeScore": 3,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 283,
@@ -374,7 +374,7 @@
       "timestamp": 1793550600,
       "homeScore": 0,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 284,
@@ -383,7 +383,7 @@
       "awayTeam": "Toulouse",
       "awayFlag": "✈️",
       "timestamp": 1793562300,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

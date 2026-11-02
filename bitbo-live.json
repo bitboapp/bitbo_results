@@ -66,7 +66,7 @@
       "timestamp": 1793562300,
       "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 285,
@@ -75,9 +75,9 @@
       "awayTeam": "Naples",
       "awayFlag": "✈️",
       "timestamp": 1793562300,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 286,
@@ -97,9 +97,9 @@
       "awayTeam": "Alverca",
       "awayFlag": "✈️",
       "timestamp": 1793650500,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 288,

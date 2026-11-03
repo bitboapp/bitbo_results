@@ -108,9 +108,9 @@
       "awayTeam": "Stuttgart",
       "awayFlag": "✈️",
       "timestamp": 1793727900,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 289,
@@ -459,7 +459,7 @@
       "homeTeam": "Gimnasia Mendoza",
       "awayTeam": "Independiente Rivadavia",
       "awayFlag": "✈️",
-      "timestamp": 1794096000,
+      "timestamp": 1794074400,
       "homeScore": 0,
       "awayScore": 0,
       "isFinished": false
@@ -470,7 +470,7 @@
       "homeTeam": "Cordoba District",
       "awayTeam": "Rosario City",
       "awayFlag": "✈️",
-      "timestamp": 1794096000,
+      "timestamp": 1794099600,
       "homeScore": 0,
       "awayScore": 0,
       "isFinished": false

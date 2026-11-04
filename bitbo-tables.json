@@ -7035,51 +7035,116 @@
                 },
                 {
                     "rank": 3,
-                    "teamName": "Seville Green White",
+                    "teamName": "North London Red",
                     "played": 4,
                     "won": 3,
                     "drawn": 1,
                     "lost": 0,
-                    "goalsFor": 7,
-                    "goalsAgainst": 4,
-                    "goalDifference": 3,
+                    "goalsFor": 8,
+                    "goalsAgainst": 3,
+                    "goalDifference": 5,
                     "points": 10,
-                    "form": "WWW",
+                    "form": "WDWW",
                     "lastMatches": [
                         {
-                            "opponent": "Rotterdam",
+                            "opponent": "Prague",
+                            "homeAway": "away",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106389"
+                        },
+                        {
+                            "opponent": "Munich",
+                            "homeAway": "away",
+                            "score": "2-2",
+                            "goalsFor": 2,
+                            "goalsAgainst": 2,
+                            "result": "D",
+                            "timestamp": 1792609200,
+                            "sourceMatchId": "6106238"
+                        },
+                        {
+                            "opponent": "Lille",
                             "homeAway": "home",
+                            "score": "3-0",
+                            "goalsFor": 3,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1791918000,
+                            "sourceMatchId": "6106260"
+                        },
+                        {
+                            "opponent": "Naples",
+                            "homeAway": "away",
                             "score": "1-0",
                             "goalsFor": 1,
                             "goalsAgainst": 0,
                             "result": "W",
-                            "timestamp": 1792609200,
-                            "sourceMatchId": "6106300"
-                        },
-                        {
-                            "opponent": "Porto",
-                            "homeAway": "home",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1792004400,
-                            "sourceMatchId": "6106299"
-                        },
-                        {
-                            "opponent": "Lille",
-                            "homeAway": "away",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1788894000,
-                            "sourceMatchId": "6106311"
+                            "timestamp": 1788980400,
+                            "sourceMatchId": "6106318"
                         }
                     ]
                 },
                 {
                     "rank": 4,
+                    "teamName": "Como",
+                    "played": 4,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 19,
+                    "goalsAgainst": 6,
+                    "goalDifference": 13,
+                    "points": 9,
+                    "form": "WWLW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Lens",
+                            "homeAway": "away",
+                            "score": "9-1",
+                            "goalsFor": 9,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106416"
+                        },
+                        {
+                            "opponent": "Manchester Red",
+                            "homeAway": "home",
+                            "score": "4-1",
+                            "goalsFor": 4,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1792601100,
+                            "sourceMatchId": "6106410"
+                        },
+                        {
+                            "opponent": "Rotterdam",
+                            "homeAway": "away",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1791996300,
+                            "sourceMatchId": "6106309"
+                        },
+                        {
+                            "opponent": "Leipzig",
+                            "homeAway": "home",
+                            "score": "4-1",
+                            "goalsFor": 4,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1789066800,
+                            "sourceMatchId": "6106411"
+                        }
+                    ]
+                },
+                {
+                    "rank": 5,
                     "teamName": "Catalonia Blue Red",
                     "played": 4,
                     "won": 3,
@@ -7134,7 +7199,7 @@
                     ]
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
                     "teamName": "Birmingham Blue",
                     "played": 4,
                     "won": 3,
@@ -7189,7 +7254,62 @@
                     ]
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
+                    "teamName": "Manchester Blue",
+                    "played": 4,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 12,
+                    "goalsAgainst": 7,
+                    "goalDifference": 5,
+                    "points": 9,
+                    "form": "WWLW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Leipzig",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106322"
+                        },
+                        {
+                            "opponent": "Athens",
+                            "homeAway": "home",
+                            "score": "5-1",
+                            "goalsFor": 5,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1792522800,
+                            "sourceMatchId": "6106257"
+                        },
+                        {
+                            "opponent": "Paris",
+                            "homeAway": "home",
+                            "score": "2-4",
+                            "goalsFor": 2,
+                            "goalsAgainst": 4,
+                            "result": "L",
+                            "timestamp": 1792004400,
+                            "sourceMatchId": "6106254"
+                        },
+                        {
+                            "opponent": "Porto",
+                            "homeAway": "away",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1788894000,
+                            "sourceMatchId": "6106286"
+                        }
+                    ]
+                },
+                {
+                    "rank": 8,
                     "teamName": "Merseyside Red",
                     "played": 4,
                     "won": 3,
@@ -7244,7 +7364,62 @@
                     ]
                 },
                 {
-                    "rank": 7,
+                    "rank": 9,
+                    "teamName": "Bruges",
+                    "played": 4,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 11,
+                    "goalsAgainst": 7,
+                    "goalDifference": 4,
+                    "points": 9,
+                    "form": "WWWL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Eindhoven",
+                            "homeAway": "away",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106303"
+                        },
+                        {
+                            "opponent": "Lens",
+                            "homeAway": "home",
+                            "score": "3-0",
+                            "goalsFor": 3,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1792609200,
+                            "sourceMatchId": "6106297"
+                        },
+                        {
+                            "opponent": "Milan Blue Black",
+                            "homeAway": "away",
+                            "score": "4-3",
+                            "goalsFor": 4,
+                            "goalsAgainst": 3,
+                            "result": "W",
+                            "timestamp": 1791918000,
+                            "sourceMatchId": "6106251"
+                        },
+                        {
+                            "opponent": "Birmingham Blue",
+                            "homeAway": "home",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1788885900,
+                            "sourceMatchId": "6106295"
+                        }
+                    ]
+                },
+                {
+                    "rank": 10,
                     "teamName": "Lisbon City",
                     "played": 4,
                     "won": 3,
@@ -7299,7 +7474,117 @@
                     ]
                 },
                 {
-                    "rank": 8,
+                    "rank": 11,
+                    "teamName": "Seville Green White",
+                    "played": 4,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 8,
+                    "goalsAgainst": 6,
+                    "goalDifference": 2,
+                    "points": 9,
+                    "form": "LWWW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Dortmund",
+                            "homeAway": "away",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106271"
+                        },
+                        {
+                            "opponent": "Rotterdam",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1792609200,
+                            "sourceMatchId": "6106300"
+                        },
+                        {
+                            "opponent": "Porto",
+                            "homeAway": "home",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1792004400,
+                            "sourceMatchId": "6106299"
+                        },
+                        {
+                            "opponent": "Lille",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1788894000,
+                            "sourceMatchId": "6106311"
+                        }
+                    ]
+                },
+                {
+                    "rank": 12,
+                    "teamName": "Dortmund",
+                    "played": 4,
+                    "won": 3,
+                    "drawn": 0,
+                    "lost": 1,
+                    "goalsFor": 7,
+                    "goalsAgainst": 5,
+                    "goalDifference": 2,
+                    "points": 9,
+                    "form": "WWLW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Seville Green White",
+                            "homeAway": "home",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106271"
+                        },
+                        {
+                            "opponent": "Sabah",
+                            "homeAway": "away",
+                            "score": "2-1",
+                            "goalsFor": 2,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1792514700,
+                            "sourceMatchId": "6106422"
+                        },
+                        {
+                            "opponent": "Bodø Glimt",
+                            "homeAway": "away",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1792004400,
+                            "sourceMatchId": "6106315"
+                        },
+                        {
+                            "opponent": "Castellon Yellow",
+                            "homeAway": "home",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1788894000,
+                            "sourceMatchId": "6106272"
+                        }
+                    ]
+                },
+                {
+                    "rank": 13,
                     "teamName": "Munich",
                     "played": 4,
                     "won": 2,
@@ -7354,187 +7639,7 @@
                     ]
                 },
                 {
-                    "rank": 9,
-                    "teamName": "North London Red",
-                    "played": 4,
-                    "won": 2,
-                    "drawn": 2,
-                    "lost": 0,
-                    "goalsFor": 6,
-                    "goalsAgainst": 2,
-                    "goalDifference": 4,
-                    "points": 8,
-                    "form": "DWW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Munich",
-                            "homeAway": "away",
-                            "score": "2-2",
-                            "goalsFor": 2,
-                            "goalsAgainst": 2,
-                            "result": "D",
-                            "timestamp": 1792609200,
-                            "sourceMatchId": "6106238"
-                        },
-                        {
-                            "opponent": "Lille",
-                            "homeAway": "home",
-                            "score": "3-0",
-                            "goalsFor": 3,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1791918000,
-                            "sourceMatchId": "6106260"
-                        },
-                        {
-                            "opponent": "Naples",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788980400,
-                            "sourceMatchId": "6106318"
-                        }
-                    ]
-                },
-                {
-                    "rank": 10,
-                    "teamName": "Como",
-                    "played": 4,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 10,
-                    "goalsAgainst": 5,
-                    "goalDifference": 5,
-                    "points": 7,
-                    "form": "WLW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Manchester Red",
-                            "homeAway": "home",
-                            "score": "4-1",
-                            "goalsFor": 4,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1792601100,
-                            "sourceMatchId": "6106410"
-                        },
-                        {
-                            "opponent": "Rotterdam",
-                            "homeAway": "away",
-                            "score": "2-3",
-                            "goalsFor": 2,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1791996300,
-                            "sourceMatchId": "6106309"
-                        },
-                        {
-                            "opponent": "Leipzig",
-                            "homeAway": "home",
-                            "score": "4-1",
-                            "goalsFor": 4,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1789066800,
-                            "sourceMatchId": "6106411"
-                        }
-                    ]
-                },
-                {
-                    "rank": 11,
-                    "teamName": "Manchester Blue",
-                    "played": 4,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 9,
-                    "goalsAgainst": 5,
-                    "goalDifference": 4,
-                    "points": 7,
-                    "form": "WLW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Athens",
-                            "homeAway": "home",
-                            "score": "5-1",
-                            "goalsFor": 5,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1792522800,
-                            "sourceMatchId": "6106257"
-                        },
-                        {
-                            "opponent": "Paris",
-                            "homeAway": "home",
-                            "score": "2-4",
-                            "goalsFor": 2,
-                            "goalsAgainst": 4,
-                            "result": "L",
-                            "timestamp": 1792004400,
-                            "sourceMatchId": "6106254"
-                        },
-                        {
-                            "opponent": "Porto",
-                            "homeAway": "away",
-                            "score": "2-0",
-                            "goalsFor": 2,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1788894000,
-                            "sourceMatchId": "6106286"
-                        }
-                    ]
-                },
-                {
-                    "rank": 12,
-                    "teamName": "Bruges",
-                    "played": 4,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 9,
-                    "goalsAgainst": 6,
-                    "goalDifference": 3,
-                    "points": 7,
-                    "form": "WWL",
-                    "lastMatches": [
-                        {
-                            "opponent": "Lens",
-                            "homeAway": "home",
-                            "score": "3-0",
-                            "goalsFor": 3,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1792609200,
-                            "sourceMatchId": "6106297"
-                        },
-                        {
-                            "opponent": "Milan Blue Black",
-                            "homeAway": "away",
-                            "score": "4-3",
-                            "goalsFor": 4,
-                            "goalsAgainst": 3,
-                            "result": "W",
-                            "timestamp": 1791918000,
-                            "sourceMatchId": "6106251"
-                        },
-                        {
-                            "opponent": "Birmingham Blue",
-                            "homeAway": "home",
-                            "score": "2-3",
-                            "goalsFor": 2,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1788885900,
-                            "sourceMatchId": "6106295"
-                        }
-                    ]
-                },
-                {
-                    "rank": 13,
+                    "rank": 14,
                     "teamName": "Stuttgart",
                     "played": 4,
                     "won": 2,
@@ -7585,51 +7690,6 @@
                             "result": "W",
                             "timestamp": 1788972300,
                             "sourceMatchId": "6106400"
-                        }
-                    ]
-                },
-                {
-                    "rank": 14,
-                    "teamName": "Dortmund",
-                    "played": 4,
-                    "won": 2,
-                    "drawn": 1,
-                    "lost": 1,
-                    "goalsFor": 5,
-                    "goalsAgainst": 4,
-                    "goalDifference": 1,
-                    "points": 7,
-                    "form": "WLW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Sabah",
-                            "homeAway": "away",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1792514700,
-                            "sourceMatchId": "6106422"
-                        },
-                        {
-                            "opponent": "Bodø Glimt",
-                            "homeAway": "away",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1792004400,
-                            "sourceMatchId": "6106315"
-                        },
-                        {
-                            "opponent": "Castellon Yellow",
-                            "homeAway": "home",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1788894000,
-                            "sourceMatchId": "6106272"
                         }
                     ]
                 },
@@ -7855,51 +7915,6 @@
                 },
                 {
                     "rank": 19,
-                    "teamName": "Eindhoven",
-                    "played": 4,
-                    "won": 1,
-                    "drawn": 2,
-                    "lost": 1,
-                    "goalsFor": 2,
-                    "goalsAgainst": 2,
-                    "goalDifference": 0,
-                    "points": 5,
-                    "form": "WLD",
-                    "lastMatches": [
-                        {
-                            "opponent": "Porto",
-                            "homeAway": "away",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1792522800,
-                            "sourceMatchId": "6106287"
-                        },
-                        {
-                            "opponent": "Leipzig",
-                            "homeAway": "away",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1791918000,
-                            "sourceMatchId": "6106323"
-                        },
-                        {
-                            "opponent": "Donetsk",
-                            "homeAway": "home",
-                            "score": "1-1",
-                            "goalsFor": 1,
-                            "goalsAgainst": 1,
-                            "result": "D",
-                            "timestamp": 1789058700,
-                            "sourceMatchId": "6106304"
-                        }
-                    ]
-                },
-                {
-                    "rank": 20,
                     "teamName": "Istanbul Yellows",
                     "played": 4,
                     "won": 1,
@@ -7954,7 +7969,7 @@
                     ]
                 },
                 {
-                    "rank": 21,
+                    "rank": 20,
                     "teamName": "Rome Yellow Red",
                     "played": 4,
                     "won": 1,
@@ -8009,7 +8024,7 @@
                     ]
                 },
                 {
-                    "rank": 22,
+                    "rank": 21,
                     "teamName": "Donetsk",
                     "played": 4,
                     "won": 1,
@@ -8060,6 +8075,61 @@
                             "result": "D",
                             "timestamp": 1789058700,
                             "sourceMatchId": "6106304"
+                        }
+                    ]
+                },
+                {
+                    "rank": 22,
+                    "teamName": "Viking",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 1,
+                    "lost": 2,
+                    "goalsFor": 9,
+                    "goalsAgainst": 10,
+                    "goalDifference": -1,
+                    "points": 4,
+                    "form": "WLDL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Sabah",
+                            "homeAway": "home",
+                            "score": "4-1",
+                            "goalsFor": 4,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106420"
+                        },
+                        {
+                            "opponent": "Birmingham Blue",
+                            "homeAway": "away",
+                            "score": "1-3",
+                            "goalsFor": 1,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1792609200,
+                            "sourceMatchId": "6106285"
+                        },
+                        {
+                            "opponent": "Munich",
+                            "homeAway": "home",
+                            "score": "3-3",
+                            "goalsFor": 3,
+                            "goalsAgainst": 3,
+                            "result": "D",
+                            "timestamp": 1791918000,
+                            "sourceMatchId": "6106417"
+                        },
+                        {
+                            "opponent": "Stuttgart",
+                            "homeAway": "away",
+                            "score": "1-3",
+                            "goalsFor": 1,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1788972300,
+                            "sourceMatchId": "6106400"
                         }
                     ]
                 },
@@ -8120,141 +8190,61 @@
                 },
                 {
                     "rank": 24,
-                    "teamName": "Naples",
-                    "played": 4,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 5,
-                    "goalsAgainst": 7,
-                    "goalDifference": -2,
-                    "points": 4,
-                    "form": "WLL",
-                    "lastMatches": [
-                        {
-                            "opponent": "Bodø Glimt",
-                            "homeAway": "home",
-                            "score": "4-3",
-                            "goalsFor": 4,
-                            "goalsAgainst": 3,
-                            "result": "W",
-                            "timestamp": 1792522800,
-                            "sourceMatchId": "6106320"
-                        },
-                        {
-                            "opponent": "Castellon Yellow",
-                            "homeAway": "away",
-                            "score": "1-3",
-                            "goalsFor": 1,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1791918000,
-                            "sourceMatchId": "6106328"
-                        },
-                        {
-                            "opponent": "North London Red",
-                            "homeAway": "home",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1788980400,
-                            "sourceMatchId": "6106318"
-                        }
-                    ]
-                },
-                {
-                    "rank": 25,
-                    "teamName": "Sabah",
+                    "teamName": "Eindhoven",
                     "played": 4,
                     "won": 1,
                     "drawn": 1,
                     "lost": 2,
                     "goalsFor": 3,
-                    "goalsAgainst": 6,
-                    "goalDifference": -3,
+                    "goalsAgainst": 4,
+                    "goalDifference": -1,
                     "points": 4,
-                    "form": "LWL",
+                    "form": "LWLD",
                     "lastMatches": [
                         {
-                            "opponent": "Dortmund",
+                            "opponent": "Bruges",
                             "homeAway": "home",
                             "score": "1-2",
                             "goalsFor": 1,
                             "goalsAgainst": 2,
                             "result": "L",
-                            "timestamp": 1792514700,
-                            "sourceMatchId": "6106422"
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106303"
                         },
                         {
-                            "opponent": "Prague",
-                            "homeAway": "home",
-                            "score": "2-0",
-                            "goalsFor": 2,
+                            "opponent": "Porto",
+                            "homeAway": "away",
+                            "score": "1-0",
+                            "goalsFor": 1,
                             "goalsAgainst": 0,
                             "result": "W",
-                            "timestamp": 1791909900,
-                            "sourceMatchId": "6106424"
+                            "timestamp": 1792522800,
+                            "sourceMatchId": "6106287"
                         },
                         {
-                            "opponent": "Manchester Red",
+                            "opponent": "Leipzig",
                             "homeAway": "away",
-                            "score": "0-4",
+                            "score": "0-1",
                             "goalsFor": 0,
-                            "goalsAgainst": 4,
+                            "goalsAgainst": 1,
                             "result": "L",
-                            "timestamp": 1789066800,
-                            "sourceMatchId": "6106293"
-                        }
-                    ]
-                },
-                {
-                    "rank": 26,
-                    "teamName": "Lens",
-                    "played": 4,
-                    "won": 1,
-                    "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 3,
-                    "goalsAgainst": 7,
-                    "goalDifference": -4,
-                    "points": 4,
-                    "form": "LLW",
-                    "lastMatches": [
-                        {
-                            "opponent": "Bruges",
-                            "homeAway": "away",
-                            "score": "0-3",
-                            "goalsFor": 0,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1792609200,
-                            "sourceMatchId": "6106297"
+                            "timestamp": 1791918000,
+                            "sourceMatchId": "6106323"
                         },
                         {
-                            "opponent": "Lisbon City",
+                            "opponent": "Donetsk",
                             "homeAway": "home",
-                            "score": "0-2",
-                            "goalsFor": 0,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1791909900,
-                            "sourceMatchId": "6106414"
-                        },
-                        {
-                            "opponent": "Prague",
-                            "homeAway": "away",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1789066800,
-                            "sourceMatchId": "6106392"
+                            "score": "1-1",
+                            "goalsFor": 1,
+                            "goalsAgainst": 1,
+                            "result": "D",
+                            "timestamp": 1789058700,
+                            "sourceMatchId": "6106304"
                         }
                     ]
                 },
                 {
-                    "rank": 27,
+                    "rank": 25,
                     "teamName": "Bodø Glimt",
                     "played": 4,
                     "won": 1,
@@ -8309,52 +8299,117 @@
                     ]
                 },
                 {
-                    "rank": 28,
-                    "teamName": "Leipzig",
+                    "rank": 26,
+                    "teamName": "Porto",
                     "played": 4,
                     "won": 1,
-                    "drawn": 1,
-                    "lost": 2,
-                    "goalsFor": 3,
-                    "goalsAgainst": 8,
-                    "goalDifference": -5,
-                    "points": 4,
-                    "form": "LWL",
+                    "drawn": 0,
+                    "lost": 3,
+                    "goalsFor": 6,
+                    "goalsAgainst": 7,
+                    "goalDifference": -1,
+                    "points": 3,
+                    "form": "WLLL",
                     "lastMatches": [
                         {
-                            "opponent": "Madrid White",
-                            "homeAway": "away",
-                            "score": "1-4",
-                            "goalsFor": 1,
-                            "goalsAgainst": 4,
-                            "result": "L",
-                            "timestamp": 1792609200,
-                            "sourceMatchId": "6106244"
+                            "opponent": "Naples",
+                            "homeAway": "home",
+                            "score": "4-1",
+                            "goalsFor": 4,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106288"
                         },
                         {
                             "opponent": "Eindhoven",
                             "homeAway": "home",
-                            "score": "1-0",
-                            "goalsFor": 1,
-                            "goalsAgainst": 0,
-                            "result": "W",
-                            "timestamp": 1791918000,
-                            "sourceMatchId": "6106323"
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1792522800,
+                            "sourceMatchId": "6106287"
                         },
                         {
-                            "opponent": "Como",
+                            "opponent": "Seville Green White",
+                            "homeAway": "away",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1792004400,
+                            "sourceMatchId": "6106299"
+                        },
+                        {
+                            "opponent": "Manchester Blue",
+                            "homeAway": "home",
+                            "score": "0-2",
+                            "goalsFor": 0,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1788894000,
+                            "sourceMatchId": "6106286"
+                        }
+                    ]
+                },
+                {
+                    "rank": 27,
+                    "teamName": "Naples",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 3,
+                    "goalsFor": 6,
+                    "goalsAgainst": 11,
+                    "goalDifference": -5,
+                    "points": 3,
+                    "form": "LWLL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Porto",
                             "homeAway": "away",
                             "score": "1-4",
                             "goalsFor": 1,
                             "goalsAgainst": 4,
                             "result": "L",
-                            "timestamp": 1789066800,
-                            "sourceMatchId": "6106411"
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106288"
+                        },
+                        {
+                            "opponent": "Bodø Glimt",
+                            "homeAway": "home",
+                            "score": "4-3",
+                            "goalsFor": 4,
+                            "goalsAgainst": 3,
+                            "result": "W",
+                            "timestamp": 1792522800,
+                            "sourceMatchId": "6106320"
+                        },
+                        {
+                            "opponent": "Castellon Yellow",
+                            "homeAway": "away",
+                            "score": "1-3",
+                            "goalsFor": 1,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1791918000,
+                            "sourceMatchId": "6106328"
+                        },
+                        {
+                            "opponent": "North London Red",
+                            "homeAway": "home",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1788980400,
+                            "sourceMatchId": "6106318"
                         }
                     ]
                 },
                 {
-                    "rank": 29,
+                    "rank": 28,
                     "teamName": "Castellon Yellow",
                     "played": 4,
                     "won": 1,
@@ -8409,7 +8464,7 @@
                     ]
                 },
                 {
-                    "rank": 30,
+                    "rank": 29,
                     "teamName": "Athens",
                     "played": 4,
                     "won": 1,
@@ -8464,7 +8519,117 @@
                     ]
                 },
                 {
+                    "rank": 30,
+                    "teamName": "Leipzig",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 3,
+                    "goalsFor": 5,
+                    "goalsAgainst": 11,
+                    "goalDifference": -6,
+                    "points": 3,
+                    "form": "LLWL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Manchester Blue",
+                            "homeAway": "home",
+                            "score": "2-3",
+                            "goalsFor": 2,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106322"
+                        },
+                        {
+                            "opponent": "Madrid White",
+                            "homeAway": "away",
+                            "score": "1-4",
+                            "goalsFor": 1,
+                            "goalsAgainst": 4,
+                            "result": "L",
+                            "timestamp": 1792609200,
+                            "sourceMatchId": "6106244"
+                        },
+                        {
+                            "opponent": "Eindhoven",
+                            "homeAway": "home",
+                            "score": "1-0",
+                            "goalsFor": 1,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1791918000,
+                            "sourceMatchId": "6106323"
+                        },
+                        {
+                            "opponent": "Como",
+                            "homeAway": "away",
+                            "score": "1-4",
+                            "goalsFor": 1,
+                            "goalsAgainst": 4,
+                            "result": "L",
+                            "timestamp": 1789066800,
+                            "sourceMatchId": "6106411"
+                        }
+                    ]
+                },
+                {
                     "rank": 31,
+                    "teamName": "Sabah",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 3,
+                    "goalsFor": 4,
+                    "goalsAgainst": 10,
+                    "goalDifference": -6,
+                    "points": 3,
+                    "form": "LLWL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Viking",
+                            "homeAway": "away",
+                            "score": "1-4",
+                            "goalsFor": 1,
+                            "goalsAgainst": 4,
+                            "result": "L",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106420"
+                        },
+                        {
+                            "opponent": "Dortmund",
+                            "homeAway": "home",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1792514700,
+                            "sourceMatchId": "6106422"
+                        },
+                        {
+                            "opponent": "Prague",
+                            "homeAway": "home",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1791909900,
+                            "sourceMatchId": "6106424"
+                        },
+                        {
+                            "opponent": "Manchester Red",
+                            "homeAway": "away",
+                            "score": "0-4",
+                            "goalsFor": 0,
+                            "goalsAgainst": 4,
+                            "result": "L",
+                            "timestamp": 1789066800,
+                            "sourceMatchId": "6106293"
+                        }
+                    ]
+                },
+                {
+                    "rank": 32,
                     "teamName": "Rotterdam",
                     "played": 4,
                     "won": 1,
@@ -8519,18 +8684,83 @@
                     ]
                 },
                 {
-                    "rank": 32,
+                    "rank": 33,
+                    "teamName": "Lens",
+                    "played": 4,
+                    "won": 1,
+                    "drawn": 0,
+                    "lost": 3,
+                    "goalsFor": 4,
+                    "goalsAgainst": 16,
+                    "goalDifference": -12,
+                    "points": 3,
+                    "form": "LLLW",
+                    "lastMatches": [
+                        {
+                            "opponent": "Como",
+                            "homeAway": "home",
+                            "score": "1-9",
+                            "goalsFor": 1,
+                            "goalsAgainst": 9,
+                            "result": "L",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106416"
+                        },
+                        {
+                            "opponent": "Bruges",
+                            "homeAway": "away",
+                            "score": "0-3",
+                            "goalsFor": 0,
+                            "goalsAgainst": 3,
+                            "result": "L",
+                            "timestamp": 1792609200,
+                            "sourceMatchId": "6106297"
+                        },
+                        {
+                            "opponent": "Lisbon City",
+                            "homeAway": "home",
+                            "score": "0-2",
+                            "goalsFor": 0,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1791909900,
+                            "sourceMatchId": "6106414"
+                        },
+                        {
+                            "opponent": "Prague",
+                            "homeAway": "away",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1789066800,
+                            "sourceMatchId": "6106392"
+                        }
+                    ]
+                },
+                {
+                    "rank": 34,
                     "teamName": "Prague",
                     "played": 4,
                     "won": 0,
-                    "drawn": 2,
-                    "lost": 2,
-                    "goalsFor": 4,
-                    "goalsAgainst": 7,
-                    "goalDifference": -3,
-                    "points": 2,
-                    "form": "DLL",
+                    "drawn": 1,
+                    "lost": 3,
+                    "goalsFor": 5,
+                    "goalsAgainst": 9,
+                    "goalDifference": -4,
+                    "points": 1,
+                    "form": "LDLL",
                     "lastMatches": [
+                        {
+                            "opponent": "North London Red",
+                            "homeAway": "home",
+                            "score": "1-2",
+                            "goalsFor": 1,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1793822400,
+                            "sourceMatchId": "6106389"
+                        },
                         {
                             "opponent": "Istanbul Yellows",
                             "homeAway": "away",
@@ -8560,96 +8790,6 @@
                             "result": "L",
                             "timestamp": 1789066800,
                             "sourceMatchId": "6106392"
-                        }
-                    ]
-                },
-                {
-                    "rank": 33,
-                    "teamName": "Viking",
-                    "played": 4,
-                    "won": 0,
-                    "drawn": 2,
-                    "lost": 2,
-                    "goalsFor": 5,
-                    "goalsAgainst": 9,
-                    "goalDifference": -4,
-                    "points": 2,
-                    "form": "LDL",
-                    "lastMatches": [
-                        {
-                            "opponent": "Birmingham Blue",
-                            "homeAway": "away",
-                            "score": "1-3",
-                            "goalsFor": 1,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1792609200,
-                            "sourceMatchId": "6106285"
-                        },
-                        {
-                            "opponent": "Munich",
-                            "homeAway": "home",
-                            "score": "3-3",
-                            "goalsFor": 3,
-                            "goalsAgainst": 3,
-                            "result": "D",
-                            "timestamp": 1791918000,
-                            "sourceMatchId": "6106417"
-                        },
-                        {
-                            "opponent": "Stuttgart",
-                            "homeAway": "away",
-                            "score": "1-3",
-                            "goalsFor": 1,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1788972300,
-                            "sourceMatchId": "6106400"
-                        }
-                    ]
-                },
-                {
-                    "rank": 34,
-                    "teamName": "Porto",
-                    "played": 4,
-                    "won": 0,
-                    "drawn": 1,
-                    "lost": 3,
-                    "goalsFor": 2,
-                    "goalsAgainst": 6,
-                    "goalDifference": -4,
-                    "points": 1,
-                    "form": "LLL",
-                    "lastMatches": [
-                        {
-                            "opponent": "Eindhoven",
-                            "homeAway": "home",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1792522800,
-                            "sourceMatchId": "6106287"
-                        },
-                        {
-                            "opponent": "Seville Green White",
-                            "homeAway": "away",
-                            "score": "2-3",
-                            "goalsFor": 2,
-                            "goalsAgainst": 3,
-                            "result": "L",
-                            "timestamp": 1792004400,
-                            "sourceMatchId": "6106299"
-                        },
-                        {
-                            "opponent": "Manchester Blue",
-                            "homeAway": "home",
-                            "score": "0-2",
-                            "goalsFor": 0,
-                            "goalsAgainst": 2,
-                            "result": "L",
-                            "timestamp": 1788894000,
-                            "sourceMatchId": "6106286"
                         }
                     ]
                 },

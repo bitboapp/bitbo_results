@@ -108,9 +108,9 @@
       "awayTeam": "Seville Green White",
       "awayFlag": "✈️",
       "timestamp": 1793822400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 298,
@@ -119,9 +119,9 @@
       "awayTeam": "Naples",
       "awayFlag": "✈️",
       "timestamp": 1793822400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 299,
@@ -130,9 +130,9 @@
       "awayTeam": "Manchester Blue",
       "awayFlag": "✈️",
       "timestamp": 1793822400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 300,
@@ -141,9 +141,9 @@
       "awayTeam": "North London Red",
       "awayFlag": "✈️",
       "timestamp": 1793822400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 301,

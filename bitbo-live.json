@@ -152,9 +152,9 @@
       "awayTeam": "Rio Metro",
       "awayFlag": "✈️",
       "timestamp": 1793831400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 302,
@@ -163,9 +163,9 @@
       "awayTeam": "Porto Alegre City",
       "awayFlag": "✈️",
       "timestamp": 1793831400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 303,
@@ -175,8 +175,8 @@
       "awayFlag": "✈️",
       "timestamp": 1793900700,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 304,
@@ -185,9 +185,9 @@
       "awayTeam": "Amsterdam",
       "awayFlag": "✈️",
       "timestamp": 1793900700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 6,
+      "isFinished": true
     },
     {
       "id": 305,
@@ -197,8 +197,8 @@
       "awayFlag": "✈️",
       "timestamp": 1793900700,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 306,
@@ -207,9 +207,9 @@
       "awayTeam": "Turin Black White",
       "awayFlag": "✈️",
       "timestamp": 1793908800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 307,
@@ -219,8 +219,8 @@
       "awayFlag": "✈️",
       "timestamp": 1793908800,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 308,
@@ -229,9 +229,9 @@
       "awayTeam": "Poznan",
       "awayFlag": "✈️",
       "timestamp": 1793908800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 309,
@@ -240,9 +240,9 @@
       "awayTeam": "Istanbul Eagles",
       "awayFlag": "✈️",
       "timestamp": 1793908800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 310,
@@ -251,9 +251,9 @@
       "awayTeam": "Njælland",
       "awayFlag": "✈️",
       "timestamp": 1793908800,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 311,
@@ -262,8 +262,8 @@
       "awayTeam": "Belem",
       "awayFlag": "✈️",
       "timestamp": 1793917800,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 1,
       "isFinished": false
     },
     {

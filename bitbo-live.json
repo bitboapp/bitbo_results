@@ -262,9 +262,9 @@
       "awayTeam": "Belem",
       "awayFlag": "✈️",
       "timestamp": 1793917800,
-      "homeScore": 4,
+      "homeScore": 6,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 312,
@@ -273,9 +273,9 @@
       "awayTeam": "Elversberg",
       "awayFlag": "✈️",
       "timestamp": 1794061800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 313,
@@ -284,9 +284,9 @@
       "awayTeam": "Munich",
       "awayFlag": "✈️",
       "timestamp": 1794061800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 314,
@@ -295,9 +295,9 @@
       "awayTeam": "Yorkshire Hull",
       "awayFlag": "✈️",
       "timestamp": 1794063600,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 315,
@@ -306,7 +306,7 @@
       "awayTeam": "Diyarbakir",
       "awayFlag": "✈️",
       "timestamp": 1794067200,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "isFinished": false
     },

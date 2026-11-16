@@ -1571,16 +1571,26 @@
                 {
                     "rank": 7,
                     "teamName": "Belo Horizonte",
-                    "played": 34,
+                    "played": 35,
                     "won": 14,
-                    "drawn": 8,
+                    "drawn": 9,
                     "lost": 12,
                     "goalsFor": 44,
                     "goalsAgainst": 40,
                     "goalDifference": 4,
-                    "points": 50,
-                    "form": "LLLWW",
+                    "points": 51,
+                    "form": "DLLLW",
                     "lastMatches": [
+                        {
+                            "opponent": "Mirassol",
+                            "homeAway": "away",
+                            "score": "0-0",
+                            "goalsFor": 0,
+                            "goalsAgainst": 0,
+                            "result": "D",
+                            "timestamp": 1794691800,
+                            "sourceMatchId": "5103708"
+                        },
                         {
                             "opponent": "Rio City",
                             "homeAway": "away",
@@ -1620,16 +1630,6 @@
                             "result": "W",
                             "timestamp": 1792272600,
                             "sourceMatchId": "5103669"
-                        },
-                        {
-                            "opponent": "Santos",
-                            "homeAway": "home",
-                            "score": "2-1",
-                            "goalsFor": 2,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1791745200,
-                            "sourceMatchId": "5103659"
                         }
                     ]
                 },
@@ -1830,6 +1830,71 @@
                 },
                 {
                     "rank": 11,
+                    "teamName": "Rio Metro",
+                    "played": 34,
+                    "won": 12,
+                    "drawn": 8,
+                    "lost": 14,
+                    "goalsFor": 45,
+                    "goalsAgainst": 50,
+                    "goalDifference": -5,
+                    "points": 44,
+                    "form": "WWLWL",
+                    "lastMatches": [
+                        {
+                            "opponent": "Chapeco",
+                            "homeAway": "away",
+                            "score": "2-0",
+                            "goalsFor": 2,
+                            "goalsAgainst": 0,
+                            "result": "W",
+                            "timestamp": 1794699000,
+                            "sourceMatchId": "5103573"
+                        },
+                        {
+                            "opponent": "Curitiba",
+                            "homeAway": "away",
+                            "score": "3-1",
+                            "goalsFor": 3,
+                            "goalsAgainst": 1,
+                            "result": "W",
+                            "timestamp": 1793831400,
+                            "sourceMatchId": "5103701"
+                        },
+                        {
+                            "opponent": "Rio",
+                            "homeAway": "home",
+                            "score": "1-4",
+                            "goalsFor": 1,
+                            "goalsAgainst": 4,
+                            "result": "L",
+                            "timestamp": 1793314800,
+                            "sourceMatchId": "5103685"
+                        },
+                        {
+                            "opponent": "Sao Paulo District",
+                            "homeAway": "home",
+                            "score": "3-2",
+                            "goalsFor": 3,
+                            "goalsAgainst": 2,
+                            "result": "W",
+                            "timestamp": 1792877400,
+                            "sourceMatchId": "5103675"
+                        },
+                        {
+                            "opponent": "Sao Paulo City",
+                            "homeAway": "away",
+                            "score": "0-1",
+                            "goalsFor": 0,
+                            "goalsAgainst": 1,
+                            "result": "L",
+                            "timestamp": 1792281600,
+                            "sourceMatchId": "5103666"
+                        }
+                    ]
+                },
+                {
+                    "rank": 12,
                     "teamName": "Rio City",
                     "played": 34,
                     "won": 11,
@@ -1894,7 +1959,7 @@
                     ]
                 },
                 {
-                    "rank": 12,
+                    "rank": 13,
                     "teamName": "Curitiba City",
                     "played": 34,
                     "won": 11,
@@ -1959,83 +2024,28 @@
                     ]
                 },
                 {
-                    "rank": 13,
-                    "teamName": "Rio Metro",
-                    "played": 33,
-                    "won": 11,
-                    "drawn": 8,
+                    "rank": 14,
+                    "teamName": "Mirassol",
+                    "played": 35,
+                    "won": 10,
+                    "drawn": 11,
                     "lost": 14,
-                    "goalsFor": 43,
-                    "goalsAgainst": 50,
-                    "goalDifference": -7,
+                    "goalsFor": 39,
+                    "goalsAgainst": 48,
+                    "goalDifference": -9,
                     "points": 41,
-                    "form": "WLWLD",
+                    "form": "DWLDW",
                     "lastMatches": [
                         {
-                            "opponent": "Curitiba",
-                            "homeAway": "away",
-                            "score": "3-1",
-                            "goalsFor": 3,
-                            "goalsAgainst": 1,
-                            "result": "W",
-                            "timestamp": 1793831400,
-                            "sourceMatchId": "5103701"
-                        },
-                        {
-                            "opponent": "Rio",
-                            "homeAway": "home",
-                            "score": "1-4",
-                            "goalsFor": 1,
-                            "goalsAgainst": 4,
-                            "result": "L",
-                            "timestamp": 1793314800,
-                            "sourceMatchId": "5103685"
-                        },
-                        {
-                            "opponent": "Sao Paulo District",
-                            "homeAway": "home",
-                            "score": "3-2",
-                            "goalsFor": 3,
-                            "goalsAgainst": 2,
-                            "result": "W",
-                            "timestamp": 1792877400,
-                            "sourceMatchId": "5103675"
-                        },
-                        {
-                            "opponent": "Sao Paulo City",
-                            "homeAway": "away",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1792281600,
-                            "sourceMatchId": "5103666"
-                        },
-                        {
-                            "opponent": "Belem",
+                            "opponent": "Belo Horizonte",
                             "homeAway": "home",
                             "score": "0-0",
                             "goalsFor": 0,
                             "goalsAgainst": 0,
                             "result": "D",
-                            "timestamp": 1791666000,
-                            "sourceMatchId": "5103655"
-                        }
-                    ]
-                },
-                {
-                    "rank": 14,
-                    "teamName": "Mirassol",
-                    "played": 34,
-                    "won": 10,
-                    "drawn": 10,
-                    "lost": 14,
-                    "goalsFor": 39,
-                    "goalsAgainst": 48,
-                    "goalDifference": -9,
-                    "points": 40,
-                    "form": "WLDWL",
-                    "lastMatches": [
+                            "timestamp": 1794691800,
+                            "sourceMatchId": "5103708"
+                        },
                         {
                             "opponent": "Chapeco",
                             "homeAway": "away",
@@ -2075,16 +2085,6 @@
                             "result": "W",
                             "timestamp": 1792191600,
                             "sourceMatchId": "5103668"
-                        },
-                        {
-                            "opponent": "Salvador",
-                            "homeAway": "away",
-                            "score": "0-1",
-                            "goalsFor": 0,
-                            "goalsAgainst": 1,
-                            "result": "L",
-                            "timestamp": 1791757800,
-                            "sourceMatchId": "5103662"
                         }
                     ]
                 },
@@ -2416,16 +2416,26 @@
                 {
                     "rank": 20,
                     "teamName": "Chapeco",
-                    "played": 33,
+                    "played": 34,
                     "won": 4,
                     "drawn": 9,
-                    "lost": 20,
+                    "lost": 21,
                     "goalsFor": 33,
-                    "goalsAgainst": 68,
-                    "goalDifference": -35,
+                    "goalsAgainst": 70,
+                    "goalDifference": -37,
                     "points": 21,
-                    "form": "LLWLL",
+                    "form": "LLLWL",
                     "lastMatches": [
+                        {
+                            "opponent": "Rio Metro",
+                            "homeAway": "home",
+                            "score": "0-2",
+                            "goalsFor": 0,
+                            "goalsAgainst": 2,
+                            "result": "L",
+                            "timestamp": 1794699000,
+                            "sourceMatchId": "5103573"
+                        },
                         {
                             "opponent": "Mirassol",
                             "homeAway": "home",
@@ -2465,16 +2475,6 @@
                             "result": "L",
                             "timestamp": 1792270800,
                             "sourceMatchId": "5103665"
-                        },
-                        {
-                            "opponent": "Curitiba",
-                            "homeAway": "home",
-                            "score": "1-4",
-                            "goalsFor": 1,
-                            "goalsAgainst": 4,
-                            "result": "L",
-                            "timestamp": 1791844200,
-                            "sourceMatchId": "5103663"
                         }
                     ]
                 }

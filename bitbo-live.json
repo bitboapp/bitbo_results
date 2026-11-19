@@ -9,9 +9,9 @@
       "awayTeam": "Sao Paulo",
       "awayFlag": "✈️",
       "timestamp": 1795044600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 340,
@@ -20,9 +20,9 @@
       "awayTeam": "Curitiba",
       "awayFlag": "✈️",
       "timestamp": 1795044600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 341,

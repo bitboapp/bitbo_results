@@ -1,1 +1,17 @@
-
+{
+  "updated": 1795363117,
+  "matches": [
+    {
+      "home": "Galatasaray",
+      "away": "Fenerbahçe",
+      "league": "Süper Lig",
+      "timestamp": 1795633200
+    },
+    {
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "league": "La Liga",
+      "timestamp": 1795809600
+    }
+  ]
+}

@@ -1,25 +1,22 @@
 {
-  "updated": 1795381841,
+  "updated": 1795382512,
   "announcements": [
     {
-      "id": "2026-11-22-2209",
+      "id": "2026-11-22-2221",
       "audience": "all",
       "start": "2026-11-22",
       "end": "2026-12-06",
-      "action": "redeem",
+      "action": "none",
       "code": "SWEKIT7",
       "title": {
-        "tr": "Test11",
-        "en": "Test111"
+        "tr": "Test now",
+        "en": "Test direct"
       },
       "body": {
-        "tr": "Test me",
-        "en": "Test me"
+        "tr": "Test here",
+        "en": "Test now"
       },
-      "button": {
-        "tr": "Abone",
-        "en": "Subs!"
-      }
+      "button": {}
     }
   ]
 }

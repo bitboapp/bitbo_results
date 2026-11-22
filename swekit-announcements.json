@@ -1,23 +1,21 @@
 {
-  "updated": 1795380943,
+  "updated": 1795381601,
   "announcements": [
     {
-      "id": "duyuru-2026-11-22-r60b",
+      "id": "2026-11-22-2205",
       "audience": "all",
       "start": "2026-11-22",
       "end": "2026-12-06",
-      "action": "none",
+      "action": "redeem",
+      "code": "SWEKIT7",
       "title": {
-        "tr": "Test2",
-        "en": "Test2"
+        "en": "Test 1 week"
       },
       "body": {
-        "tr": "Bak2",
-        "en": "Bak2"
+        "en": "Hi there"
       },
       "button": {
-        "tr": "Abone?",
-        "en": "Abone?"
+        "en": "Test 1 week!"
       }
     }
   ]

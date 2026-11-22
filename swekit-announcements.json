@@ -1,21 +1,24 @@
 {
-  "updated": 1795381601,
+  "updated": 1795381841,
   "announcements": [
     {
-      "id": "2026-11-22-2205",
+      "id": "2026-11-22-2209",
       "audience": "all",
       "start": "2026-11-22",
       "end": "2026-12-06",
       "action": "redeem",
       "code": "SWEKIT7",
       "title": {
-        "en": "Test 1 week"
+        "tr": "Test11",
+        "en": "Test111"
       },
       "body": {
-        "en": "Hi there"
+        "tr": "Test me",
+        "en": "Test me"
       },
       "button": {
-        "en": "Test 1 week!"
+        "tr": "Abone",
+        "en": "Subs!"
       }
     }
   ]

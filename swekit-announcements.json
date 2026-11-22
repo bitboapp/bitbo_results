@@ -1,23 +1,23 @@
 {
-  "updated": 1795380795,
+  "updated": 1795380943,
   "announcements": [
     {
       "id": "duyuru-2026-11-22-r60b",
       "audience": "all",
       "start": "2026-11-22",
       "end": "2026-12-06",
-      "action": "paywall",
+      "action": "none",
       "title": {
-        "tr": "Test",
-        "en": "Test"
+        "tr": "Test2",
+        "en": "Test2"
       },
       "body": {
-        "tr": "Bak",
-        "en": "Bak"
+        "tr": "Bak2",
+        "en": "Bak2"
       },
       "button": {
-        "tr": "Abone",
-        "en": "Abone"
+        "tr": "Abone?",
+        "en": "Abone?"
       }
     }
   ]

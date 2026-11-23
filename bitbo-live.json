@@ -242,7 +242,7 @@
       "timestamp": 1795363200,
       "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 361,
@@ -251,9 +251,9 @@
       "awayTeam": "Manchester Red",
       "awayFlag": "✈️",
       "timestamp": 1795365000,
-      "homeScore": 0,
+      "homeScore": 4,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 362,
@@ -262,9 +262,9 @@
       "awayTeam": "Frosinone",
       "awayFlag": "✈️",
       "timestamp": 1795366800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 5,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 363,
@@ -273,9 +273,9 @@
       "awayTeam": "Belem",
       "awayFlag": "✈️",
       "timestamp": 1795374000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 364,
@@ -284,9 +284,9 @@
       "awayTeam": "Gimnasia Mendoza",
       "awayFlag": "✈️",
       "timestamp": 1795374000,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 365,
@@ -295,9 +295,9 @@
       "awayTeam": "Le Mans",
       "awayFlag": "✈️",
       "timestamp": 1795376700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 366,
@@ -306,9 +306,9 @@
       "awayTeam": "Milan Blue Black",
       "awayFlag": "✈️",
       "timestamp": 1795376700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 4,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 367,
@@ -318,8 +318,8 @@
       "awayFlag": "✈️",
       "timestamp": 1795377600,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 368,
@@ -328,9 +328,9 @@
       "awayTeam": "Huracán",
       "awayFlag": "✈️",
       "timestamp": 1795395600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 369,

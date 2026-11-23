@@ -1,0 +1,43 @@
+{
+  "updated": 1795463866,
+  "announcements": [
+    {
+      "id": "2026-11-23-2047",
+      "audience": "all",
+      "start": "2026-11-23",
+      "end": "2026-12-31",
+      "action": "redeem",
+      "code": "SWEKIT1MONTH",
+      "title": {
+        "tr": "Plus 1 ay ücretsiz",
+        "en": "Try Plus free for 1 month",
+        "de": "Plus 1 Monat gratis",
+        "fr": "Plus gratuit pendant 1 mois",
+        "it": "Plus gratis per 1 mese",
+        "es": "Plus gratis durante 1 mes",
+        "pt": "Plus grátis durante 1 mês",
+        "pt_BR": "Plus grátis por 1 mês"
+      },
+      "body": {
+        "en": "Unlimited shirts and encrypted backups. It ends on its own, with no charge.",
+        "tr": "Sınırsız forma ve şifreli yedek. Süre bitince kendiliğinden sona erer, ücret alınmaz.",
+        "de": "Unbegrenzt Trikots und verschlüsselte Backups. Endet automatisch, ohne Kosten.",
+        "fr": "Maillots illimités et sauvegardes chiffrées. Se termine tout seul, sans frais.",
+        "it": "Maglie illimitate e backup cifrati. Termina da solo, senza costi.",
+        "es": "Camisetas ilimitadas y copias cifradas. Termina solo, sin ningún cargo.",
+        "pt": "Camisolas ilimitadas e cópias encriptadas. Termina automaticamente, sem custos.",
+        "pt_BR": "Camisas ilimitadas e backups criptografados. Termina sozinho, sem cobrança."
+      },
+      "button": {
+        "tr": "Kodu kullan",
+        "en": "Redeem code",
+        "de": "Code einlösen",
+        "fr": "Utiliser le code",
+        "it": "Usa il codice",
+        "es": "Usar código",
+        "pt": "Usar código",
+        "pt_BR": "Usar código"
+      }
+    }
+  ]
+}

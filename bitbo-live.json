@@ -339,9 +339,9 @@
       "awayTeam": "Birmingham Blue",
       "awayFlag": "✈️",
       "timestamp": 1795542300,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 370,
@@ -350,9 +350,9 @@
       "awayTeam": "Dortmund",
       "awayFlag": "✈️",
       "timestamp": 1795550400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 371,
@@ -361,9 +361,9 @@
       "awayTeam": "Naples",
       "awayFlag": "✈️",
       "timestamp": 1795550400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 372,
@@ -372,9 +372,9 @@
       "awayTeam": "Eindhoven",
       "awayFlag": "✈️",
       "timestamp": 1795550400,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 5,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 373,
@@ -383,9 +383,9 @@
       "awayTeam": "Sao Paulo",
       "awayFlag": "✈️",
       "timestamp": 1795554000,
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 374,

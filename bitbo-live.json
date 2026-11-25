@@ -394,9 +394,9 @@
       "awayTeam": "Catalonia Blue Red",
       "awayFlag": "✈️",
       "timestamp": 1795628700,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 1,
+      "awayScore": 4,
+      "isFinished": true
     },
     {
       "id": 375,
@@ -405,9 +405,9 @@
       "awayTeam": "Viking",
       "awayFlag": "✈️",
       "timestamp": 1795636800,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 376,
@@ -417,8 +417,8 @@
       "awayFlag": "✈️",
       "timestamp": 1795636800,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 3,
+      "isFinished": true
     },
     {
       "id": 377,
@@ -427,9 +427,9 @@
       "awayTeam": "Stuttgart",
       "awayFlag": "✈️",
       "timestamp": 1795636800,
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 378,
@@ -438,9 +438,9 @@
       "awayTeam": "Munich",
       "awayFlag": "✈️",
       "timestamp": 1795636800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 379,
@@ -449,9 +449,9 @@
       "awayTeam": "Rome Yellow Red",
       "awayFlag": "✈️",
       "timestamp": 1795636800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 380,
@@ -461,8 +461,8 @@
       "awayFlag": "✈️",
       "timestamp": 1795636800,
       "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "awayScore": 1,
+      "isFinished": true
     },
     {
       "id": 381,
@@ -471,9 +471,9 @@
       "awayTeam": "Manchester Red",
       "awayFlag": "✈️",
       "timestamp": 1795636800,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 2,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 382,

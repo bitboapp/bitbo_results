@@ -804,6 +804,17 @@
       "homeScore": 0,
       "awayScore": 0,
       "isFinished": false
+    },
+    {
+      "id": 412,
+      "homeFlag": "🏠",
+      "homeTeam": "Cordoba District",
+      "awayTeam": "River Plate",
+      "awayFlag": "✈️",
+      "timestamp": 1795914000,
+      "homeScore": 0,
+      "awayScore": 0,
+      "isFinished": false
     }
   ]
 }

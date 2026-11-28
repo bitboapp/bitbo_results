@@ -561,7 +561,7 @@
       "timestamp": 1795723200,
       "homeScore": 4,
       "awayScore": 1,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": 390,
@@ -571,8 +571,8 @@
       "awayFlag": "✈️",
       "timestamp": 1795723200,
       "homeScore": 1,
-      "awayScore": 1,
-      "isFinished": false
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 391,
@@ -581,9 +581,9 @@
       "awayTeam": "West London Blue",
       "awayFlag": "✈️",
       "timestamp": 1795809600,
-      "homeScore": 0,
-      "awayScore": 0,
-      "isFinished": false
+      "homeScore": 3,
+      "awayScore": 2,
+      "isFinished": true
     },
     {
       "id": 392,
